@@ -1,0 +1,3973 @@
+{
+  "builder_name": "imagefolder",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "imagefolder",
+  "dataset_size": 1358969,
+  "description": "",
+  "download_checksums": {
+    "/workspace/image/train/1-decadrachm-syracuse-about-400-bce-1-aug16.jpg": {
+      "num_bytes": 187659,
+      "checksum": null
+    },
+    "/workspace/image/train/1-decadrachm-syracuse-about-400-bce-1-aug18.jpg": {
+      "num_bytes": 143199,
+      "checksum": null
+    },
+    "/workspace/image/train/1-decadrachm-syracuse-about-400-bce-1-aug4.jpg": {
+      "num_bytes": 139520,
+      "checksum": null
+    },
+    "/workspace/image/train/1-decadrachm-syracuse-about-400-bce-1-aug7.jpg": {
+      "num_bytes": 130291,
+      "checksum": null
+    },
+    "/workspace/image/train/1-decadrachm-syracuse-about-400-bce-1-aug8.jpg": {
+      "num_bytes": 185623,
+      "checksum": null
+    },
+    "/workspace/image/train/1-decadrachm-syracuse-about-400-bce-2-aug0.jpg": {
+      "num_bytes": 150729,
+      "checksum": null
+    },
+    "/workspace/image/train/1-decadrachm-syracuse-about-400-bce-2-aug12.jpg": {
+      "num_bytes": 118817,
+      "checksum": null
+    },
+    "/workspace/image/train/1-decadrachm-syracuse-about-400-bce-2-aug15.jpg": {
+      "num_bytes": 157653,
+      "checksum": null
+    },
+    "/workspace/image/train/1-decadrachm-syracuse-about-400-bce-2-aug16.jpg": {
+      "num_bytes": 152960,
+      "checksum": null
+    },
+    "/workspace/image/train/1-decadrachm-syracuse-about-400-bce-2-aug4.jpg": {
+      "num_bytes": 131043,
+      "checksum": null
+    },
+    "/workspace/image/train/1-decadrachm-syracuse-about-400-bce-2-aug5.jpg": {
+      "num_bytes": 156491,
+      "checksum": null
+    },
+    "/workspace/image/train/1903-wright-flyer-1-aug9.jpg": {
+      "num_bytes": 54945,
+      "checksum": null
+    },
+    "/workspace/image/train/1903-wright-flyer-1.jpg": {
+      "num_bytes": 110756,
+      "checksum": null
+    },
+    "/workspace/image/train/1903-wright-flyer-14-aug10.jpg": {
+      "num_bytes": 182591,
+      "checksum": null
+    },
+    "/workspace/image/train/1903-wright-flyer-14.jpg": {
+      "num_bytes": 234389,
+      "checksum": null
+    },
+    "/workspace/image/train/1903-wright-flyer-16-aug13.jpg": {
+      "num_bytes": 162948,
+      "checksum": null
+    },
+    "/workspace/image/train/1903-wright-flyer-16-aug2.jpg": {
+      "num_bytes": 135920,
+      "checksum": null
+    },
+    "/workspace/image/train/1903-wright-flyer-16.jpg": {
+      "num_bytes": 202822,
+      "checksum": null
+    },
+    "/workspace/image/train/1903-wright-flyer-17-aug10.jpg": {
+      "num_bytes": 189771,
+      "checksum": null
+    },
+    "/workspace/image/train/1903-wright-flyer-17-aug12.jpg": {
+      "num_bytes": 181899,
+      "checksum": null
+    },
+    "/workspace/image/train/1903-wright-flyer-17.jpg": {
+      "num_bytes": 221765,
+      "checksum": null
+    },
+    "/workspace/image/train/1926-new-york-yankees-autographed-baseball-1-aug3.jpg": {
+      "num_bytes": 154351,
+      "checksum": null
+    },
+    "/workspace/image/train/1926-new-york-yankees-autographed-baseball-1-aug4.jpg": {
+      "num_bytes": 125422,
+      "checksum": null
+    },
+    "/workspace/image/train/1926-new-york-yankees-autographed-baseball-1-aug5.jpg": {
+      "num_bytes": 141169,
+      "checksum": null
+    },
+    "/workspace/image/train/1926-new-york-yankees-autographed-baseball-1-aug7.jpg": {
+      "num_bytes": 139105,
+      "checksum": null
+    },
+    "/workspace/image/train/1926-new-york-yankees-autographed-baseball-1.jpg": {
+      "num_bytes": 152389,
+      "checksum": null
+    },
+    "/workspace/image/train/1926-new-york-yankees-autographed-baseball-4-aug0.jpg": {
+      "num_bytes": 26730,
+      "checksum": null
+    },
+    "/workspace/image/train/1926-new-york-yankees-autographed-baseball-4-aug16.jpg": {
+      "num_bytes": 35382,
+      "checksum": null
+    },
+    "/workspace/image/train/1926-new-york-yankees-autographed-baseball-4-aug18.jpg": {
+      "num_bytes": 27598,
+      "checksum": null
+    },
+    "/workspace/image/train/1926-new-york-yankees-autographed-baseball-4-aug2.jpg": {
+      "num_bytes": 25324,
+      "checksum": null
+    },
+    "/workspace/image/train/1926-new-york-yankees-autographed-baseball-4-aug6.jpg": {
+      "num_bytes": 37647,
+      "checksum": null
+    },
+    "/workspace/image/train/1926-new-york-yankees-autographed-baseball-4-aug7.jpg": {
+      "num_bytes": 27767,
+      "checksum": null
+    },
+    "/workspace/image/train/1926-new-york-yankees-autographed-baseball-4-aug9.jpg": {
+      "num_bytes": 28591,
+      "checksum": null
+    },
+    "/workspace/image/train/1926-new-york-yankees-autographed-baseball-4.jpg": {
+      "num_bytes": 45637,
+      "checksum": null
+    },
+    "/workspace/image/train/20-dollars-pattern-united-states-1879-1-aug0.jpg": {
+      "num_bytes": 82501,
+      "checksum": null
+    },
+    "/workspace/image/train/20-dollars-pattern-united-states-1879-1-aug13.jpg": {
+      "num_bytes": 79113,
+      "checksum": null
+    },
+    "/workspace/image/train/20-dollars-pattern-united-states-1879-1-aug16.jpg": {
+      "num_bytes": 80192,
+      "checksum": null
+    },
+    "/workspace/image/train/20-dollars-pattern-united-states-1879-1-aug2.jpg": {
+      "num_bytes": 132994,
+      "checksum": null
+    },
+    "/workspace/image/train/20-dollars-pattern-united-states-1879-1-aug3.jpg": {
+      "num_bytes": 84449,
+      "checksum": null
+    },
+    "/workspace/image/train/20-dollars-pattern-united-states-1879-2-aug10.jpg": {
+      "num_bytes": 80469,
+      "checksum": null
+    },
+    "/workspace/image/train/20-dollars-pattern-united-states-1879-2-aug12.jpg": {
+      "num_bytes": 90871,
+      "checksum": null
+    },
+    "/workspace/image/train/20-dollars-pattern-united-states-1879-2-aug18.jpg": {
+      "num_bytes": 78445,
+      "checksum": null
+    },
+    "/workspace/image/train/20-dollars-pattern-united-states-1879-2-aug3.jpg": {
+      "num_bytes": 92188,
+      "checksum": null
+    },
+    "/workspace/image/train/20-dollars-pattern-united-states-1879-2-aug6.jpg": {
+      "num_bytes": 128149,
+      "checksum": null
+    },
+    "/workspace/image/train/20-dollars-pattern-united-states-1879-2-aug9.jpg": {
+      "num_bytes": 116623,
+      "checksum": null
+    },
+    "/workspace/image/train/abraham-lincolns-coffee-cup-3-aug16.jpg": {
+      "num_bytes": 90941,
+      "checksum": null
+    },
+    "/workspace/image/train/abraham-lincolns-coffee-cup-3-aug19.jpg": {
+      "num_bytes": 80866,
+      "checksum": null
+    },
+    "/workspace/image/train/abraham-lincolns-coffee-cup-3-aug3.jpg": {
+      "num_bytes": 68668,
+      "checksum": null
+    },
+    "/workspace/image/train/abraham-lincolns-coffee-cup-3-aug6.jpg": {
+      "num_bytes": 67746,
+      "checksum": null
+    },
+    "/workspace/image/train/abraham-lincolns-coffee-cup-3-aug8.jpg": {
+      "num_bytes": 80247,
+      "checksum": null
+    },
+    "/workspace/image/train/abraham-lincolns-coffee-cup-4-aug1.jpg": {
+      "num_bytes": 80790,
+      "checksum": null
+    },
+    "/workspace/image/train/abraham-lincolns-coffee-cup-4-aug16.jpg": {
+      "num_bytes": 77450,
+      "checksum": null
+    },
+    "/workspace/image/train/abraham-lincolns-coffee-cup-4-aug19.jpg": {
+      "num_bytes": 99525,
+      "checksum": null
+    },
+    "/workspace/image/train/abraham-lincolns-coffee-cup-4-aug3.jpg": {
+      "num_bytes": 98720,
+      "checksum": null
+    },
+    "/workspace/image/train/abraham-lincolns-coffee-cup-4-aug4.jpg": {
+      "num_bytes": 81772,
+      "checksum": null
+    },
+    "/workspace/image/train/abraham-lincolns-coffee-cup-4-aug7.jpg": {
+      "num_bytes": 91775,
+      "checksum": null
+    },
+    "/workspace/image/train/abraham-lincolns-watch-around-1858-1-aug13.jpg": {
+      "num_bytes": 83698,
+      "checksum": null
+    },
+    "/workspace/image/train/abraham-lincolns-watch-around-1858-1-aug4.jpg": {
+      "num_bytes": 130400,
+      "checksum": null
+    },
+    "/workspace/image/train/abraham-lincolns-watch-around-1858-1-aug7.jpg": {
+      "num_bytes": 121168,
+      "checksum": null
+    },
+    "/workspace/image/train/abraham-lincolns-watch-around-1858-1-aug9.jpg": {
+      "num_bytes": 128639,
+      "checksum": null
+    },
+    "/workspace/image/train/abraham-lincolns-watch-around-1858-2-aug18.jpg": {
+      "num_bytes": 128814,
+      "checksum": null
+    },
+    "/workspace/image/train/abraham-lincolns-watch-around-1858-2-aug4.jpg": {
+      "num_bytes": 72811,
+      "checksum": null
+    },
+    "/workspace/image/train/abraham-lincolns-watch-around-1858-3-aug1.jpg": {
+      "num_bytes": 305151,
+      "checksum": null
+    },
+    "/workspace/image/train/abraham-lincolns-watch-around-1858-3-aug3.jpg": {
+      "num_bytes": 263736,
+      "checksum": null
+    },
+    "/workspace/image/train/abraham-lincolns-watch-around-1858-3-aug8.jpg": {
+      "num_bytes": 305023,
+      "checksum": null
+    },
+    "/workspace/image/train/albert-einsteins-pipe-1-aug0.jpg": {
+      "num_bytes": 29433,
+      "checksum": null
+    },
+    "/workspace/image/train/albert-einsteins-pipe-1-aug11.jpg": {
+      "num_bytes": 31397,
+      "checksum": null
+    },
+    "/workspace/image/train/albert-einsteins-pipe-1-aug12.jpg": {
+      "num_bytes": 28654,
+      "checksum": null
+    },
+    "/workspace/image/train/albert-einsteins-pipe-1-aug15.jpg": {
+      "num_bytes": 37288,
+      "checksum": null
+    },
+    "/workspace/image/train/albert-einsteins-pipe-1-aug16.jpg": {
+      "num_bytes": 32353,
+      "checksum": null
+    },
+    "/workspace/image/train/albert-einsteins-pipe-1-aug19.jpg": {
+      "num_bytes": 33927,
+      "checksum": null
+    },
+    "/workspace/image/train/albert-einsteins-pipe-1-aug2.jpg": {
+      "num_bytes": 26745,
+      "checksum": null
+    },
+    "/workspace/image/train/albert-einsteins-pipe-1-aug4.jpg": {
+      "num_bytes": 20987,
+      "checksum": null
+    },
+    "/workspace/image/train/albert-einsteins-pipe-1-aug5.jpg": {
+      "num_bytes": 25768,
+      "checksum": null
+    },
+    "/workspace/image/train/albert-einsteins-pipe-1-aug6.jpg": {
+      "num_bytes": 24521,
+      "checksum": null
+    },
+    "/workspace/image/train/albert-einsteins-pipe-1-aug7.jpg": {
+      "num_bytes": 29115,
+      "checksum": null
+    },
+    "/workspace/image/train/albert-einsteins-pipe-1-aug8.jpg": {
+      "num_bytes": 22079,
+      "checksum": null
+    },
+    "/workspace/image/train/albert-einsteins-pipe-1-aug9.jpg": {
+      "num_bytes": 23723,
+      "checksum": null
+    },
+    "/workspace/image/train/alexander-graham-bells-large-box-telephone-1-aug0.jpg": {
+      "num_bytes": 518590,
+      "checksum": null
+    },
+    "/workspace/image/train/alexander-graham-bells-large-box-telephone-1-aug13.jpg": {
+      "num_bytes": 602928,
+      "checksum": null
+    },
+    "/workspace/image/train/alexander-graham-bells-large-box-telephone-1-aug15.jpg": {
+      "num_bytes": 535611,
+      "checksum": null
+    },
+    "/workspace/image/train/alexander-graham-bells-large-box-telephone-1-aug17.jpg": {
+      "num_bytes": 680902,
+      "checksum": null
+    },
+    "/workspace/image/train/alexander-graham-bells-large-box-telephone-1-aug18.jpg": {
+      "num_bytes": 499902,
+      "checksum": null
+    },
+    "/workspace/image/train/alexander-graham-bells-large-box-telephone-1-aug19.jpg": {
+      "num_bytes": 443760,
+      "checksum": null
+    },
+    "/workspace/image/train/alexander-graham-bells-large-box-telephone-1-aug2.jpg": {
+      "num_bytes": 591212,
+      "checksum": null
+    },
+    "/workspace/image/train/alexander-graham-bells-large-box-telephone-1-aug3.jpg": {
+      "num_bytes": 554388,
+      "checksum": null
+    },
+    "/workspace/image/train/alexander-graham-bells-large-box-telephone-1-aug4.jpg": {
+      "num_bytes": 639680,
+      "checksum": null
+    },
+    "/workspace/image/train/alexander-graham-bells-large-box-telephone-1-aug5.jpg": {
+      "num_bytes": 681040,
+      "checksum": null
+    },
+    "/workspace/image/train/alexander-graham-bells-large-box-telephone-1-aug6.jpg": {
+      "num_bytes": 495198,
+      "checksum": null
+    },
+    "/workspace/image/train/alexander-graham-bells-large-box-telephone-1-aug7.jpg": {
+      "num_bytes": 590518,
+      "checksum": null
+    },
+    "/workspace/image/train/alexander-graham-bells-large-box-telephone-1-aug8.jpg": {
+      "num_bytes": 600764,
+      "checksum": null
+    },
+    "/workspace/image/train/apollo-17-spacesuit-1-aug0.jpg": {
+      "num_bytes": 52931,
+      "checksum": null
+    },
+    "/workspace/image/train/apollo-17-spacesuit-1-aug1.jpg": {
+      "num_bytes": 42386,
+      "checksum": null
+    },
+    "/workspace/image/train/apollo-17-spacesuit-1-aug10.jpg": {
+      "num_bytes": 39573,
+      "checksum": null
+    },
+    "/workspace/image/train/apollo-17-spacesuit-1-aug12.jpg": {
+      "num_bytes": 47382,
+      "checksum": null
+    },
+    "/workspace/image/train/apollo-17-spacesuit-1-aug15.jpg": {
+      "num_bytes": 47382,
+      "checksum": null
+    },
+    "/workspace/image/train/apollo-17-spacesuit-1-aug16.jpg": {
+      "num_bytes": 46671,
+      "checksum": null
+    },
+    "/workspace/image/train/apollo-17-spacesuit-1-aug17.jpg": {
+      "num_bytes": 54632,
+      "checksum": null
+    },
+    "/workspace/image/train/apollo-17-spacesuit-1-aug19.jpg": {
+      "num_bytes": 45483,
+      "checksum": null
+    },
+    "/workspace/image/train/apollo-17-spacesuit-1-aug2.jpg": {
+      "num_bytes": 42309,
+      "checksum": null
+    },
+    "/workspace/image/train/apollo-17-spacesuit-1-aug3.jpg": {
+      "num_bytes": 45788,
+      "checksum": null
+    },
+    "/workspace/image/train/apollo-17-spacesuit-1-aug4.jpg": {
+      "num_bytes": 40510,
+      "checksum": null
+    },
+    "/workspace/image/train/apollo-17-spacesuit-1-aug7.jpg": {
+      "num_bytes": 50817,
+      "checksum": null
+    },
+    "/workspace/image/train/apollo-17-spacesuit-1-aug9.jpg": {
+      "num_bytes": 47373,
+      "checksum": null
+    },
+    "/workspace/image/train/apple-classic-macintosh-personal-computer-1-aug1.jpg": {
+      "num_bytes": 82050,
+      "checksum": null
+    },
+    "/workspace/image/train/apple-classic-macintosh-personal-computer-1-aug12.jpg": {
+      "num_bytes": 75663,
+      "checksum": null
+    },
+    "/workspace/image/train/apple-classic-macintosh-personal-computer-1-aug13.jpg": {
+      "num_bytes": 62353,
+      "checksum": null
+    },
+    "/workspace/image/train/apple-classic-macintosh-personal-computer-1-aug15.jpg": {
+      "num_bytes": 78527,
+      "checksum": null
+    },
+    "/workspace/image/train/apple-classic-macintosh-personal-computer-1-aug16.jpg": {
+      "num_bytes": 52761,
+      "checksum": null
+    },
+    "/workspace/image/train/apple-classic-macintosh-personal-computer-1-aug18.jpg": {
+      "num_bytes": 57391,
+      "checksum": null
+    },
+    "/workspace/image/train/apple-classic-macintosh-personal-computer-1-aug2.jpg": {
+      "num_bytes": 74402,
+      "checksum": null
+    },
+    "/workspace/image/train/apple-classic-macintosh-personal-computer-1-aug3.jpg": {
+      "num_bytes": 60763,
+      "checksum": null
+    },
+    "/workspace/image/train/apple-classic-macintosh-personal-computer-1-aug4.jpg": {
+      "num_bytes": 63876,
+      "checksum": null
+    },
+    "/workspace/image/train/apple-classic-macintosh-personal-computer-1-aug6.jpg": {
+      "num_bytes": 65714,
+      "checksum": null
+    },
+    "/workspace/image/train/apple-classic-macintosh-personal-computer-1-aug7.jpg": {
+      "num_bytes": 80526,
+      "checksum": null
+    },
+    "/workspace/image/train/apple-classic-macintosh-personal-computer-1-aug8.jpg": {
+      "num_bytes": 79914,
+      "checksum": null
+    },
+    "/workspace/image/train/apple-classic-macintosh-personal-computer-1-aug9.jpg": {
+      "num_bytes": 56645,
+      "checksum": null
+    },
+    "/workspace/image/train/archie-bunkers-chair-all-family-2-aug0.jpg": {
+      "num_bytes": 122158,
+      "checksum": null
+    },
+    "/workspace/image/train/archie-bunkers-chair-all-family-2-aug1.jpg": {
+      "num_bytes": 172459,
+      "checksum": null
+    },
+    "/workspace/image/train/archie-bunkers-chair-all-family-2-aug10.jpg": {
+      "num_bytes": 183979,
+      "checksum": null
+    },
+    "/workspace/image/train/archie-bunkers-chair-all-family-2-aug3.jpg": {
+      "num_bytes": 126388,
+      "checksum": null
+    },
+    "/workspace/image/train/archie-bunkers-chair-all-family-2-aug4.jpg": {
+      "num_bytes": 178683,
+      "checksum": null
+    },
+    "/workspace/image/train/archie-bunkers-chair-all-family-2-aug7.jpg": {
+      "num_bytes": 121407,
+      "checksum": null
+    },
+    "/workspace/image/train/archie-bunkers-chair-all-family-2-aug8.jpg": {
+      "num_bytes": 123731,
+      "checksum": null
+    },
+    "/workspace/image/train/archie-bunkers-chair-all-family-2.jpg": {
+      "num_bytes": 235261,
+      "checksum": null
+    },
+    "/workspace/image/train/archie-bunkers-chair-all-family-3-aug10.jpg": {
+      "num_bytes": 264371,
+      "checksum": null
+    },
+    "/workspace/image/train/archie-bunkers-chair-all-family-3-aug11.jpg": {
+      "num_bytes": 237752,
+      "checksum": null
+    },
+    "/workspace/image/train/archie-bunkers-chair-all-family-3-aug14.jpg": {
+      "num_bytes": 183110,
+      "checksum": null
+    },
+    "/workspace/image/train/archie-bunkers-chair-all-family-3-aug18.jpg": {
+      "num_bytes": 298164,
+      "checksum": null
+    },
+    "/workspace/image/train/archie-bunkers-chair-all-family-3.jpg": {
+      "num_bytes": 314961,
+      "checksum": null
+    },
+    "/workspace/image/train/beauty-broken-objects-1-aug0.jpg": {
+      "num_bytes": 590054,
+      "checksum": null
+    },
+    "/workspace/image/train/beauty-broken-objects-1-aug11.jpg": {
+      "num_bytes": 610046,
+      "checksum": null
+    },
+    "/workspace/image/train/beauty-broken-objects-1-aug14.jpg": {
+      "num_bytes": 665282,
+      "checksum": null
+    },
+    "/workspace/image/train/beauty-broken-objects-1-aug16.jpg": {
+      "num_bytes": 710383,
+      "checksum": null
+    },
+    "/workspace/image/train/beauty-broken-objects-1-aug18.jpg": {
+      "num_bytes": 647378,
+      "checksum": null
+    },
+    "/workspace/image/train/beauty-broken-objects-1-aug19.jpg": {
+      "num_bytes": 763971,
+      "checksum": null
+    },
+    "/workspace/image/train/beauty-broken-objects-1-aug2.jpg": {
+      "num_bytes": 587192,
+      "checksum": null
+    },
+    "/workspace/image/train/beauty-broken-objects-1-aug3.jpg": {
+      "num_bytes": 735367,
+      "checksum": null
+    },
+    "/workspace/image/train/beauty-broken-objects-1-aug4.jpg": {
+      "num_bytes": 666877,
+      "checksum": null
+    },
+    "/workspace/image/train/beauty-broken-objects-1-aug5.jpg": {
+      "num_bytes": 632160,
+      "checksum": null
+    },
+    "/workspace/image/train/beauty-broken-objects-1-aug6.jpg": {
+      "num_bytes": 882856,
+      "checksum": null
+    },
+    "/workspace/image/train/beauty-broken-objects-1-aug8.jpg": {
+      "num_bytes": 737419,
+      "checksum": null
+    },
+    "/workspace/image/train/beauty-broken-objects-1-aug9.jpg": {
+      "num_bytes": 588550,
+      "checksum": null
+    },
+    "/workspace/image/train/black-gold-i-1-aug0.jpg": {
+      "num_bytes": 149262,
+      "checksum": null
+    },
+    "/workspace/image/train/black-gold-i-1-aug1.jpg": {
+      "num_bytes": 139522,
+      "checksum": null
+    },
+    "/workspace/image/train/black-gold-i-1-aug11.jpg": {
+      "num_bytes": 110291,
+      "checksum": null
+    },
+    "/workspace/image/train/black-gold-i-1-aug12.jpg": {
+      "num_bytes": 111822,
+      "checksum": null
+    },
+    "/workspace/image/train/black-gold-i-1-aug13.jpg": {
+      "num_bytes": 115421,
+      "checksum": null
+    },
+    "/workspace/image/train/black-gold-i-1-aug14.jpg": {
+      "num_bytes": 142755,
+      "checksum": null
+    },
+    "/workspace/image/train/black-gold-i-1-aug17.jpg": {
+      "num_bytes": 109590,
+      "checksum": null
+    },
+    "/workspace/image/train/black-gold-i-1-aug2.jpg": {
+      "num_bytes": 111934,
+      "checksum": null
+    },
+    "/workspace/image/train/black-gold-i-1-aug3.jpg": {
+      "num_bytes": 120239,
+      "checksum": null
+    },
+    "/workspace/image/train/black-gold-i-1-aug5.jpg": {
+      "num_bytes": 142002,
+      "checksum": null
+    },
+    "/workspace/image/train/black-gold-i-1-aug6.jpg": {
+      "num_bytes": 115631,
+      "checksum": null
+    },
+    "/workspace/image/train/black-gold-i-1-aug7.jpg": {
+      "num_bytes": 135708,
+      "checksum": null
+    },
+    "/workspace/image/train/black-gold-i-1-aug9.jpg": {
+      "num_bytes": 118945,
+      "checksum": null
+    },
+    "/workspace/image/train/chigusa-and-art-tea-1-aug1.jpg": {
+      "num_bytes": 64113,
+      "checksum": null
+    },
+    "/workspace/image/train/chigusa-and-art-tea-1-aug14.jpg": {
+      "num_bytes": 53247,
+      "checksum": null
+    },
+    "/workspace/image/train/chigusa-and-art-tea-1-aug5.jpg": {
+      "num_bytes": 41367,
+      "checksum": null
+    },
+    "/workspace/image/train/chigusa-and-art-tea-1-aug7.jpg": {
+      "num_bytes": 41886,
+      "checksum": null
+    },
+    "/workspace/image/train/chigusa-and-art-tea-1-aug8.jpg": {
+      "num_bytes": 61877,
+      "checksum": null
+    },
+    "/workspace/image/train/chigusa-and-art-tea-1-aug9.jpg": {
+      "num_bytes": 37597,
+      "checksum": null
+    },
+    "/workspace/image/train/chigusa-and-art-tea-1.jpg": {
+      "num_bytes": 29150,
+      "checksum": null
+    },
+    "/workspace/image/train/chigusa-and-art-tea-3-aug10.jpg": {
+      "num_bytes": 70607,
+      "checksum": null
+    },
+    "/workspace/image/train/chigusa-and-art-tea-3-aug17.jpg": {
+      "num_bytes": 56189,
+      "checksum": null
+    },
+    "/workspace/image/train/chigusa-and-art-tea-3-aug6.jpg": {
+      "num_bytes": 80539,
+      "checksum": null
+    },
+    "/workspace/image/train/chigusa-and-art-tea-3-aug7.jpg": {
+      "num_bytes": 51638,
+      "checksum": null
+    },
+    "/workspace/image/train/chigusa-and-art-tea-3-aug9.jpg": {
+      "num_bytes": 71605,
+      "checksum": null
+    },
+    "/workspace/image/train/chigusa-and-art-tea-3.jpg": {
+      "num_bytes": 40726,
+      "checksum": null
+    },
+    "/workspace/image/train/columbia-light-roadster-high-wheel-bicycle-1-aug1.jpg": {
+      "num_bytes": 69915,
+      "checksum": null
+    },
+    "/workspace/image/train/columbia-light-roadster-high-wheel-bicycle-1-aug10.jpg": {
+      "num_bytes": 45531,
+      "checksum": null
+    },
+    "/workspace/image/train/columbia-light-roadster-high-wheel-bicycle-1-aug11.jpg": {
+      "num_bytes": 50118,
+      "checksum": null
+    },
+    "/workspace/image/train/columbia-light-roadster-high-wheel-bicycle-1-aug12.jpg": {
+      "num_bytes": 48678,
+      "checksum": null
+    },
+    "/workspace/image/train/columbia-light-roadster-high-wheel-bicycle-1-aug13.jpg": {
+      "num_bytes": 64915,
+      "checksum": null
+    },
+    "/workspace/image/train/columbia-light-roadster-high-wheel-bicycle-1-aug16.jpg": {
+      "num_bytes": 67742,
+      "checksum": null
+    },
+    "/workspace/image/train/columbia-light-roadster-high-wheel-bicycle-1-aug17.jpg": {
+      "num_bytes": 70074,
+      "checksum": null
+    },
+    "/workspace/image/train/columbia-light-roadster-high-wheel-bicycle-1-aug18.jpg": {
+      "num_bytes": 50664,
+      "checksum": null
+    },
+    "/workspace/image/train/columbia-light-roadster-high-wheel-bicycle-1-aug3.jpg": {
+      "num_bytes": 67560,
+      "checksum": null
+    },
+    "/workspace/image/train/columbia-light-roadster-high-wheel-bicycle-1-aug4.jpg": {
+      "num_bytes": 51545,
+      "checksum": null
+    },
+    "/workspace/image/train/columbia-light-roadster-high-wheel-bicycle-1-aug7.jpg": {
+      "num_bytes": 70167,
+      "checksum": null
+    },
+    "/workspace/image/train/columbia-light-roadster-high-wheel-bicycle-1-aug8.jpg": {
+      "num_bytes": 69193,
+      "checksum": null
+    },
+    "/workspace/image/train/columbia-light-roadster-high-wheel-bicycle-1-aug9.jpg": {
+      "num_bytes": 61739,
+      "checksum": null
+    },
+    "/workspace/image/train/cosmic-beadwork-1-aug0.jpg": {
+      "num_bytes": 694744,
+      "checksum": null
+    },
+    "/workspace/image/train/cosmic-beadwork-1-aug1.jpg": {
+      "num_bytes": 387024,
+      "checksum": null
+    },
+    "/workspace/image/train/cosmic-beadwork-1-aug10.jpg": {
+      "num_bytes": 640801,
+      "checksum": null
+    },
+    "/workspace/image/train/cosmic-beadwork-1-aug13.jpg": {
+      "num_bytes": 659299,
+      "checksum": null
+    },
+    "/workspace/image/train/cosmic-beadwork-1-aug15.jpg": {
+      "num_bytes": 712063,
+      "checksum": null
+    },
+    "/workspace/image/train/cosmic-beadwork-1-aug16.jpg": {
+      "num_bytes": 448685,
+      "checksum": null
+    },
+    "/workspace/image/train/cosmic-beadwork-1-aug18.jpg": {
+      "num_bytes": 602016,
+      "checksum": null
+    },
+    "/workspace/image/train/cosmic-beadwork-1-aug19.jpg": {
+      "num_bytes": 680804,
+      "checksum": null
+    },
+    "/workspace/image/train/cosmic-beadwork-1-aug2.jpg": {
+      "num_bytes": 468424,
+      "checksum": null
+    },
+    "/workspace/image/train/cosmic-beadwork-1-aug3.jpg": {
+      "num_bytes": 444685,
+      "checksum": null
+    },
+    "/workspace/image/train/cosmic-beadwork-1-aug7.jpg": {
+      "num_bytes": 646505,
+      "checksum": null
+    },
+    "/workspace/image/train/cosmic-beadwork-1-aug8.jpg": {
+      "num_bytes": 665454,
+      "checksum": null
+    },
+    "/workspace/image/train/cosmic-beadwork-1-aug9.jpg": {
+      "num_bytes": 481901,
+      "checksum": null
+    },
+    "/workspace/image/train/crayola-crayons-1-aug10.jpg": {
+      "num_bytes": 137370,
+      "checksum": null
+    },
+    "/workspace/image/train/crayola-crayons-1-aug11.jpg": {
+      "num_bytes": 79219,
+      "checksum": null
+    },
+    "/workspace/image/train/crayola-crayons-1-aug14.jpg": {
+      "num_bytes": 120847,
+      "checksum": null
+    },
+    "/workspace/image/train/crayola-crayons-1-aug15.jpg": {
+      "num_bytes": 104117,
+      "checksum": null
+    },
+    "/workspace/image/train/crayola-crayons-1.jpg": {
+      "num_bytes": 162784,
+      "checksum": null
+    },
+    "/workspace/image/train/crayola-crayons-3-aug2.jpg": {
+      "num_bytes": 78701,
+      "checksum": null
+    },
+    "/workspace/image/train/crayola-crayons-3-aug4.jpg": {
+      "num_bytes": 48470,
+      "checksum": null
+    },
+    "/workspace/image/train/crayola-crayons-3-aug5.jpg": {
+      "num_bytes": 69081,
+      "checksum": null
+    },
+    "/workspace/image/train/crayola-crayons-3-aug8.jpg": {
+      "num_bytes": 47444,
+      "checksum": null
+    },
+    "/workspace/image/train/crayola-crayons-3.jpg": {
+      "num_bytes": 76037,
+      "checksum": null
+    },
+    "/workspace/image/train/crayola-crayons-6-aug5.jpg": {
+      "num_bytes": 46294,
+      "checksum": null
+    },
+    "/workspace/image/train/crayola-crayons-6.jpg": {
+      "num_bytes": 80370,
+      "checksum": null
+    },
+    "/workspace/image/train/design-105-taliesin-line-1-aug0.jpg": {
+      "num_bytes": 822792,
+      "checksum": null
+    },
+    "/workspace/image/train/design-105-taliesin-line-1-aug1.jpg": {
+      "num_bytes": 473701,
+      "checksum": null
+    },
+    "/workspace/image/train/design-105-taliesin-line-1-aug10.jpg": {
+      "num_bytes": 719572,
+      "checksum": null
+    },
+    "/workspace/image/train/design-105-taliesin-line-1-aug11.jpg": {
+      "num_bytes": 756160,
+      "checksum": null
+    },
+    "/workspace/image/train/design-105-taliesin-line-1-aug13.jpg": {
+      "num_bytes": 768861,
+      "checksum": null
+    },
+    "/workspace/image/train/design-105-taliesin-line-1-aug15.jpg": {
+      "num_bytes": 455082,
+      "checksum": null
+    },
+    "/workspace/image/train/design-105-taliesin-line-1-aug16.jpg": {
+      "num_bytes": 456878,
+      "checksum": null
+    },
+    "/workspace/image/train/design-105-taliesin-line-1-aug18.jpg": {
+      "num_bytes": 492187,
+      "checksum": null
+    },
+    "/workspace/image/train/design-105-taliesin-line-1-aug19.jpg": {
+      "num_bytes": 733843,
+      "checksum": null
+    },
+    "/workspace/image/train/design-105-taliesin-line-1-aug2.jpg": {
+      "num_bytes": 414262,
+      "checksum": null
+    },
+    "/workspace/image/train/design-105-taliesin-line-1-aug7.jpg": {
+      "num_bytes": 455082,
+      "checksum": null
+    },
+    "/workspace/image/train/design-105-taliesin-line-1-aug8.jpg": {
+      "num_bytes": 658777,
+      "checksum": null
+    },
+    "/workspace/image/train/design-105-taliesin-line-1-aug9.jpg": {
+      "num_bytes": 781571,
+      "checksum": null
+    },
+    "/workspace/image/train/dm-ferry-co-seed-box-1-aug0.jpg": {
+      "num_bytes": 70690,
+      "checksum": null
+    },
+    "/workspace/image/train/dm-ferry-co-seed-box-1-aug1.jpg": {
+      "num_bytes": 85487,
+      "checksum": null
+    },
+    "/workspace/image/train/dm-ferry-co-seed-box-1-aug11.jpg": {
+      "num_bytes": 91130,
+      "checksum": null
+    },
+    "/workspace/image/train/dm-ferry-co-seed-box-1-aug12.jpg": {
+      "num_bytes": 77958,
+      "checksum": null
+    },
+    "/workspace/image/train/dm-ferry-co-seed-box-1-aug14.jpg": {
+      "num_bytes": 104887,
+      "checksum": null
+    },
+    "/workspace/image/train/dm-ferry-co-seed-box-1-aug15.jpg": {
+      "num_bytes": 66036,
+      "checksum": null
+    },
+    "/workspace/image/train/dm-ferry-co-seed-box-1-aug16.jpg": {
+      "num_bytes": 108909,
+      "checksum": null
+    },
+    "/workspace/image/train/dm-ferry-co-seed-box-1-aug3.jpg": {
+      "num_bytes": 112875,
+      "checksum": null
+    },
+    "/workspace/image/train/dm-ferry-co-seed-box-1-aug4.jpg": {
+      "num_bytes": 77465,
+      "checksum": null
+    },
+    "/workspace/image/train/dm-ferry-co-seed-box-1-aug6.jpg": {
+      "num_bytes": 85637,
+      "checksum": null
+    },
+    "/workspace/image/train/dm-ferry-co-seed-box-1-aug7.jpg": {
+      "num_bytes": 77585,
+      "checksum": null
+    },
+    "/workspace/image/train/dm-ferry-co-seed-box-1-aug8.jpg": {
+      "num_bytes": 108595,
+      "checksum": null
+    },
+    "/workspace/image/train/dm-ferry-co-seed-box-1-aug9.jpg": {
+      "num_bytes": 105967,
+      "checksum": null
+    },
+    "/workspace/image/train/duncan-genuine-yo-yo-1-aug0.jpg": {
+      "num_bytes": 42658,
+      "checksum": null
+    },
+    "/workspace/image/train/duncan-genuine-yo-yo-1-aug10.jpg": {
+      "num_bytes": 42526,
+      "checksum": null
+    },
+    "/workspace/image/train/duncan-genuine-yo-yo-1-aug11.jpg": {
+      "num_bytes": 53051,
+      "checksum": null
+    },
+    "/workspace/image/train/duncan-genuine-yo-yo-1-aug12.jpg": {
+      "num_bytes": 42300,
+      "checksum": null
+    },
+    "/workspace/image/train/duncan-genuine-yo-yo-1-aug13.jpg": {
+      "num_bytes": 42488,
+      "checksum": null
+    },
+    "/workspace/image/train/duncan-genuine-yo-yo-1-aug15.jpg": {
+      "num_bytes": 44694,
+      "checksum": null
+    },
+    "/workspace/image/train/duncan-genuine-yo-yo-1-aug17.jpg": {
+      "num_bytes": 52571,
+      "checksum": null
+    },
+    "/workspace/image/train/duncan-genuine-yo-yo-1-aug19.jpg": {
+      "num_bytes": 51826,
+      "checksum": null
+    },
+    "/workspace/image/train/duncan-genuine-yo-yo-1-aug3.jpg": {
+      "num_bytes": 41991,
+      "checksum": null
+    },
+    "/workspace/image/train/duncan-genuine-yo-yo-1-aug4.jpg": {
+      "num_bytes": 50172,
+      "checksum": null
+    },
+    "/workspace/image/train/duncan-genuine-yo-yo-1-aug5.jpg": {
+      "num_bytes": 44451,
+      "checksum": null
+    },
+    "/workspace/image/train/duncan-genuine-yo-yo-1-aug6.jpg": {
+      "num_bytes": 42471,
+      "checksum": null
+    },
+    "/workspace/image/train/duncan-genuine-yo-yo-1-aug8.jpg": {
+      "num_bytes": 52420,
+      "checksum": null
+    },
+    "/workspace/image/train/duryea-automobile-1-aug0.jpg": {
+      "num_bytes": 164806,
+      "checksum": null
+    },
+    "/workspace/image/train/duryea-automobile-1-aug11.jpg": {
+      "num_bytes": 221920,
+      "checksum": null
+    },
+    "/workspace/image/train/duryea-automobile-1-aug12.jpg": {
+      "num_bytes": 246518,
+      "checksum": null
+    },
+    "/workspace/image/train/duryea-automobile-1-aug13.jpg": {
+      "num_bytes": 149245,
+      "checksum": null
+    },
+    "/workspace/image/train/duryea-automobile-1-aug14.jpg": {
+      "num_bytes": 226573,
+      "checksum": null
+    },
+    "/workspace/image/train/duryea-automobile-1-aug15.jpg": {
+      "num_bytes": 160936,
+      "checksum": null
+    },
+    "/workspace/image/train/duryea-automobile-1-aug17.jpg": {
+      "num_bytes": 192400,
+      "checksum": null
+    },
+    "/workspace/image/train/duryea-automobile-1-aug19.jpg": {
+      "num_bytes": 162840,
+      "checksum": null
+    },
+    "/workspace/image/train/duryea-automobile-1-aug5.jpg": {
+      "num_bytes": 246518,
+      "checksum": null
+    },
+    "/workspace/image/train/duryea-automobile-1-aug6.jpg": {
+      "num_bytes": 168398,
+      "checksum": null
+    },
+    "/workspace/image/train/duryea-automobile-1-aug7.jpg": {
+      "num_bytes": 177328,
+      "checksum": null
+    },
+    "/workspace/image/train/duryea-automobile-1-aug8.jpg": {
+      "num_bytes": 157170,
+      "checksum": null
+    },
+    "/workspace/image/train/duryea-automobile-1.jpg": {
+      "num_bytes": 318177,
+      "checksum": null
+    },
+    "/workspace/image/train/edison-light-bulb-1-aug0.jpg": {
+      "num_bytes": 18930,
+      "checksum": null
+    },
+    "/workspace/image/train/edison-light-bulb-1-aug1.jpg": {
+      "num_bytes": 14904,
+      "checksum": null
+    },
+    "/workspace/image/train/edison-light-bulb-1-aug10.jpg": {
+      "num_bytes": 13581,
+      "checksum": null
+    },
+    "/workspace/image/train/edison-light-bulb-1-aug12.jpg": {
+      "num_bytes": 14680,
+      "checksum": null
+    },
+    "/workspace/image/train/edison-light-bulb-1-aug13.jpg": {
+      "num_bytes": 14301,
+      "checksum": null
+    },
+    "/workspace/image/train/edison-light-bulb-1-aug15.jpg": {
+      "num_bytes": 16431,
+      "checksum": null
+    },
+    "/workspace/image/train/edison-light-bulb-1-aug16.jpg": {
+      "num_bytes": 10995,
+      "checksum": null
+    },
+    "/workspace/image/train/edison-light-bulb-1-aug19.jpg": {
+      "num_bytes": 14254,
+      "checksum": null
+    },
+    "/workspace/image/train/edison-light-bulb-1-aug2.jpg": {
+      "num_bytes": 11897,
+      "checksum": null
+    },
+    "/workspace/image/train/edison-light-bulb-1-aug4.jpg": {
+      "num_bytes": 17904,
+      "checksum": null
+    },
+    "/workspace/image/train/edison-light-bulb-1-aug6.jpg": {
+      "num_bytes": 10643,
+      "checksum": null
+    },
+    "/workspace/image/train/edison-light-bulb-1-aug7.jpg": {
+      "num_bytes": 15170,
+      "checksum": null
+    },
+    "/workspace/image/train/edison-light-bulb-1-aug9.jpg": {
+      "num_bytes": 9335,
+      "checksum": null
+    },
+    "/workspace/image/train/evel-knievels-harley-davidson-xr-750-1-aug0.jpg": {
+      "num_bytes": 168956,
+      "checksum": null
+    },
+    "/workspace/image/train/evel-knievels-harley-davidson-xr-750-1-aug1.jpg": {
+      "num_bytes": 174734,
+      "checksum": null
+    },
+    "/workspace/image/train/evel-knievels-harley-davidson-xr-750-1-aug11.jpg": {
+      "num_bytes": 160076,
+      "checksum": null
+    },
+    "/workspace/image/train/evel-knievels-harley-davidson-xr-750-1-aug12.jpg": {
+      "num_bytes": 148987,
+      "checksum": null
+    },
+    "/workspace/image/train/evel-knievels-harley-davidson-xr-750-1-aug13.jpg": {
+      "num_bytes": 116234,
+      "checksum": null
+    },
+    "/workspace/image/train/evel-knievels-harley-davidson-xr-750-1-aug15.jpg": {
+      "num_bytes": 101872,
+      "checksum": null
+    },
+    "/workspace/image/train/evel-knievels-harley-davidson-xr-750-1-aug17.jpg": {
+      "num_bytes": 162680,
+      "checksum": null
+    },
+    "/workspace/image/train/evel-knievels-harley-davidson-xr-750-1-aug19.jpg": {
+      "num_bytes": 109450,
+      "checksum": null
+    },
+    "/workspace/image/train/evel-knievels-harley-davidson-xr-750-1-aug4.jpg": {
+      "num_bytes": 89035,
+      "checksum": null
+    },
+    "/workspace/image/train/evel-knievels-harley-davidson-xr-750-1-aug5.jpg": {
+      "num_bytes": 123192,
+      "checksum": null
+    },
+    "/workspace/image/train/evel-knievels-harley-davidson-xr-750-1-aug6.jpg": {
+      "num_bytes": 191198,
+      "checksum": null
+    },
+    "/workspace/image/train/evel-knievels-harley-davidson-xr-750-1-aug8.jpg": {
+      "num_bytes": 89890,
+      "checksum": null
+    },
+    "/workspace/image/train/evel-knievels-harley-davidson-xr-750-1-aug9.jpg": {
+      "num_bytes": 174023,
+      "checksum": null
+    },
+    "/workspace/image/train/finery-feathered-friend-1-aug0.jpg": {
+      "num_bytes": 47554,
+      "checksum": null
+    },
+    "/workspace/image/train/finery-feathered-friend-1-aug1.jpg": {
+      "num_bytes": 32029,
+      "checksum": null
+    },
+    "/workspace/image/train/finery-feathered-friend-1-aug12.jpg": {
+      "num_bytes": 45526,
+      "checksum": null
+    },
+    "/workspace/image/train/finery-feathered-friend-1-aug13.jpg": {
+      "num_bytes": 46246,
+      "checksum": null
+    },
+    "/workspace/image/train/finery-feathered-friend-1-aug14.jpg": {
+      "num_bytes": 56802,
+      "checksum": null
+    },
+    "/workspace/image/train/finery-feathered-friend-1-aug17.jpg": {
+      "num_bytes": 63869,
+      "checksum": null
+    },
+    "/workspace/image/train/finery-feathered-friend-1-aug18.jpg": {
+      "num_bytes": 32751,
+      "checksum": null
+    },
+    "/workspace/image/train/finery-feathered-friend-1-aug19.jpg": {
+      "num_bytes": 56384,
+      "checksum": null
+    },
+    "/workspace/image/train/finery-feathered-friend-1-aug3.jpg": {
+      "num_bytes": 47458,
+      "checksum": null
+    },
+    "/workspace/image/train/finery-feathered-friend-1-aug4.jpg": {
+      "num_bytes": 45270,
+      "checksum": null
+    },
+    "/workspace/image/train/finery-feathered-friend-1-aug5.jpg": {
+      "num_bytes": 53211,
+      "checksum": null
+    },
+    "/workspace/image/train/finery-feathered-friend-1-aug6.jpg": {
+      "num_bytes": 56247,
+      "checksum": null
+    },
+    "/workspace/image/train/finery-feathered-friend-1-aug9.jpg": {
+      "num_bytes": 44827,
+      "checksum": null
+    },
+    "/workspace/image/train/fish-going-mobile-1-aug1.jpg": {
+      "num_bytes": 92811,
+      "checksum": null
+    },
+    "/workspace/image/train/fish-going-mobile-1-aug10.jpg": {
+      "num_bytes": 82591,
+      "checksum": null
+    },
+    "/workspace/image/train/fish-going-mobile-1-aug12.jpg": {
+      "num_bytes": 71541,
+      "checksum": null
+    },
+    "/workspace/image/train/fish-going-mobile-1-aug14.jpg": {
+      "num_bytes": 103617,
+      "checksum": null
+    },
+    "/workspace/image/train/fish-going-mobile-1-aug15.jpg": {
+      "num_bytes": 79178,
+      "checksum": null
+    },
+    "/workspace/image/train/fish-going-mobile-1-aug16.jpg": {
+      "num_bytes": 106309,
+      "checksum": null
+    },
+    "/workspace/image/train/fish-going-mobile-1-aug18.jpg": {
+      "num_bytes": 99950,
+      "checksum": null
+    },
+    "/workspace/image/train/fish-going-mobile-1-aug19.jpg": {
+      "num_bytes": 83138,
+      "checksum": null
+    },
+    "/workspace/image/train/fish-going-mobile-1-aug3.jpg": {
+      "num_bytes": 89227,
+      "checksum": null
+    },
+    "/workspace/image/train/fish-going-mobile-1-aug4.jpg": {
+      "num_bytes": 81034,
+      "checksum": null
+    },
+    "/workspace/image/train/fish-going-mobile-1-aug5.jpg": {
+      "num_bytes": 82189,
+      "checksum": null
+    },
+    "/workspace/image/train/fish-going-mobile-1-aug7.jpg": {
+      "num_bytes": 89215,
+      "checksum": null
+    },
+    "/workspace/image/train/fish-going-mobile-1-aug8.jpg": {
+      "num_bytes": 86979,
+      "checksum": null
+    },
+    "/workspace/image/train/ford-model-t-snow-attachment-1-aug0.jpg": {
+      "num_bytes": 634336,
+      "checksum": null
+    },
+    "/workspace/image/train/ford-model-t-snow-attachment-1-aug1.jpg": {
+      "num_bytes": 608294,
+      "checksum": null
+    },
+    "/workspace/image/train/ford-model-t-snow-attachment-1-aug11.jpg": {
+      "num_bytes": 653535,
+      "checksum": null
+    },
+    "/workspace/image/train/ford-model-t-snow-attachment-1-aug12.jpg": {
+      "num_bytes": 654545,
+      "checksum": null
+    },
+    "/workspace/image/train/ford-model-t-snow-attachment-1-aug13.jpg": {
+      "num_bytes": 587145,
+      "checksum": null
+    },
+    "/workspace/image/train/ford-model-t-snow-attachment-1-aug17.jpg": {
+      "num_bytes": 563650,
+      "checksum": null
+    },
+    "/workspace/image/train/ford-model-t-snow-attachment-1-aug19.jpg": {
+      "num_bytes": 682190,
+      "checksum": null
+    },
+    "/workspace/image/train/ford-model-t-snow-attachment-1-aug3.jpg": {
+      "num_bytes": 722834,
+      "checksum": null
+    },
+    "/workspace/image/train/ford-model-t-snow-attachment-1-aug4.jpg": {
+      "num_bytes": 641056,
+      "checksum": null
+    },
+    "/workspace/image/train/ford-model-t-snow-attachment-1-aug5.jpg": {
+      "num_bytes": 608121,
+      "checksum": null
+    },
+    "/workspace/image/train/ford-model-t-snow-attachment-1-aug6.jpg": {
+      "num_bytes": 722834,
+      "checksum": null
+    },
+    "/workspace/image/train/ford-model-t-snow-attachment-1-aug8.jpg": {
+      "num_bytes": 435915,
+      "checksum": null
+    },
+    "/workspace/image/train/ford-model-t-snow-attachment-1-aug9.jpg": {
+      "num_bytes": 658949,
+      "checksum": null
+    },
+    "/workspace/image/train/george-washington-farewell-address-candle-stand-1-aug10.jpg": {
+      "num_bytes": 154983,
+      "checksum": null
+    },
+    "/workspace/image/train/george-washington-farewell-address-candle-stand-1-aug11.jpg": {
+      "num_bytes": 106357,
+      "checksum": null
+    },
+    "/workspace/image/train/george-washington-farewell-address-candle-stand-1-aug12.jpg": {
+      "num_bytes": 118473,
+      "checksum": null
+    },
+    "/workspace/image/train/george-washington-farewell-address-candle-stand-1-aug13.jpg": {
+      "num_bytes": 100751,
+      "checksum": null
+    },
+    "/workspace/image/train/george-washington-farewell-address-candle-stand-1-aug17.jpg": {
+      "num_bytes": 105906,
+      "checksum": null
+    },
+    "/workspace/image/train/george-washington-farewell-address-candle-stand-1-aug19.jpg": {
+      "num_bytes": 95687,
+      "checksum": null
+    },
+    "/workspace/image/train/george-washington-farewell-address-candle-stand-1-aug2.jpg": {
+      "num_bytes": 107004,
+      "checksum": null
+    },
+    "/workspace/image/train/george-washington-farewell-address-candle-stand-1-aug3.jpg": {
+      "num_bytes": 81499,
+      "checksum": null
+    },
+    "/workspace/image/train/george-washington-farewell-address-candle-stand-1-aug5.jpg": {
+      "num_bytes": 147989,
+      "checksum": null
+    },
+    "/workspace/image/train/george-washington-farewell-address-candle-stand-1-aug6.jpg": {
+      "num_bytes": 142030,
+      "checksum": null
+    },
+    "/workspace/image/train/george-washington-farewell-address-candle-stand-1-aug7.jpg": {
+      "num_bytes": 146557,
+      "checksum": null
+    },
+    "/workspace/image/train/george-washington-farewell-address-candle-stand-1-aug9.jpg": {
+      "num_bytes": 86700,
+      "checksum": null
+    },
+    "/workspace/image/train/george-washington-farewell-address-candle-stand-1.jpg": {
+      "num_bytes": 110586,
+      "checksum": null
+    },
+    "/workspace/image/train/hat-symbolized-life-and-legacy-1-aug0.jpg": {
+      "num_bytes": 133200,
+      "checksum": null
+    },
+    "/workspace/image/train/hat-symbolized-life-and-legacy-1-aug11.jpg": {
+      "num_bytes": 127194,
+      "checksum": null
+    },
+    "/workspace/image/train/hat-symbolized-life-and-legacy-1-aug12.jpg": {
+      "num_bytes": 116356,
+      "checksum": null
+    },
+    "/workspace/image/train/hat-symbolized-life-and-legacy-1-aug13.jpg": {
+      "num_bytes": 129959,
+      "checksum": null
+    },
+    "/workspace/image/train/hat-symbolized-life-and-legacy-1-aug14.jpg": {
+      "num_bytes": 101790,
+      "checksum": null
+    },
+    "/workspace/image/train/hat-symbolized-life-and-legacy-1-aug15.jpg": {
+      "num_bytes": 154437,
+      "checksum": null
+    },
+    "/workspace/image/train/hat-symbolized-life-and-legacy-1-aug19.jpg": {
+      "num_bytes": 131421,
+      "checksum": null
+    },
+    "/workspace/image/train/hat-symbolized-life-and-legacy-1-aug3.jpg": {
+      "num_bytes": 166867,
+      "checksum": null
+    },
+    "/workspace/image/train/hat-symbolized-life-and-legacy-1-aug4.jpg": {
+      "num_bytes": 195535,
+      "checksum": null
+    },
+    "/workspace/image/train/hat-symbolized-life-and-legacy-1-aug6.jpg": {
+      "num_bytes": 132864,
+      "checksum": null
+    },
+    "/workspace/image/train/hat-symbolized-life-and-legacy-1-aug7.jpg": {
+      "num_bytes": 132801,
+      "checksum": null
+    },
+    "/workspace/image/train/hat-symbolized-life-and-legacy-1-aug8.jpg": {
+      "num_bytes": 90837,
+      "checksum": null
+    },
+    "/workspace/image/train/hat-symbolized-life-and-legacy-1-aug9.jpg": {
+      "num_bytes": 127353,
+      "checksum": null
+    },
+    "/workspace/image/train/helen-kellers-watch-1-aug12.jpg": {
+      "num_bytes": 331634,
+      "checksum": null
+    },
+    "/workspace/image/train/helen-kellers-watch-1.jpg": {
+      "num_bytes": 3053704,
+      "checksum": null
+    },
+    "/workspace/image/train/helen-kellers-watch-3-aug0.jpg": {
+      "num_bytes": 139607,
+      "checksum": null
+    },
+    "/workspace/image/train/helen-kellers-watch-3-aug19.jpg": {
+      "num_bytes": 231407,
+      "checksum": null
+    },
+    "/workspace/image/train/helen-kellers-watch-6-aug1.jpg": {
+      "num_bytes": 95848,
+      "checksum": null
+    },
+    "/workspace/image/train/helen-kellers-watch-6.jpg": {
+      "num_bytes": 126228,
+      "checksum": null
+    },
+    "/workspace/image/train/helen-kellers-watch-7.jpg": {
+      "num_bytes": 114100,
+      "checksum": null
+    },
+    "/workspace/image/train/helen-kellers-watch-8-aug10.jpg": {
+      "num_bytes": 91327,
+      "checksum": null
+    },
+    "/workspace/image/train/helen-kellers-watch-8.jpg": {
+      "num_bytes": 168348,
+      "checksum": null
+    },
+    "/workspace/image/train/helen-kellers-watch-9-aug4.jpg": {
+      "num_bytes": 238366,
+      "checksum": null
+    },
+    "/workspace/image/train/helen-kellers-watch-9.jpg": {
+      "num_bytes": 486767,
+      "checksum": null
+    },
+    "/workspace/image/train/hope-diamond-1.jpg": {
+      "num_bytes": 74026,
+      "checksum": null
+    },
+    "/workspace/image/train/hope-diamond-10.jpg": {
+      "num_bytes": 156636,
+      "checksum": null
+    },
+    "/workspace/image/train/hope-diamond-11.jpg": {
+      "num_bytes": 195380,
+      "checksum": null
+    },
+    "/workspace/image/train/hope-diamond-17.jpg": {
+      "num_bytes": 138621,
+      "checksum": null
+    },
+    "/workspace/image/train/hope-diamond-23.jpg": {
+      "num_bytes": 301418,
+      "checksum": null
+    },
+    "/workspace/image/train/hope-diamond-24.jpg": {
+      "num_bytes": 189427,
+      "checksum": null
+    },
+    "/workspace/image/train/hope-diamond-28.jpg": {
+      "num_bytes": 299704,
+      "checksum": null
+    },
+    "/workspace/image/train/hope-diamond-3.jpg": {
+      "num_bytes": 123938,
+      "checksum": null
+    },
+    "/workspace/image/train/hope-diamond-37.jpg": {
+      "num_bytes": 200799,
+      "checksum": null
+    },
+    "/workspace/image/train/important-pen-civil-rights-history-1-aug0.jpg": {
+      "num_bytes": 651148,
+      "checksum": null
+    },
+    "/workspace/image/train/important-pen-civil-rights-history-1-aug1.jpg": {
+      "num_bytes": 714444,
+      "checksum": null
+    },
+    "/workspace/image/train/important-pen-civil-rights-history-1-aug11.jpg": {
+      "num_bytes": 461936,
+      "checksum": null
+    },
+    "/workspace/image/train/important-pen-civil-rights-history-1-aug13.jpg": {
+      "num_bytes": 720209,
+      "checksum": null
+    },
+    "/workspace/image/train/important-pen-civil-rights-history-1-aug15.jpg": {
+      "num_bytes": 596279,
+      "checksum": null
+    },
+    "/workspace/image/train/important-pen-civil-rights-history-1-aug17.jpg": {
+      "num_bytes": 461381,
+      "checksum": null
+    },
+    "/workspace/image/train/important-pen-civil-rights-history-1-aug18.jpg": {
+      "num_bytes": 592916,
+      "checksum": null
+    },
+    "/workspace/image/train/important-pen-civil-rights-history-1-aug19.jpg": {
+      "num_bytes": 479454,
+      "checksum": null
+    },
+    "/workspace/image/train/important-pen-civil-rights-history-1-aug2.jpg": {
+      "num_bytes": 502496,
+      "checksum": null
+    },
+    "/workspace/image/train/important-pen-civil-rights-history-1-aug3.jpg": {
+      "num_bytes": 473218,
+      "checksum": null
+    },
+    "/workspace/image/train/important-pen-civil-rights-history-1-aug4.jpg": {
+      "num_bytes": 718243,
+      "checksum": null
+    },
+    "/workspace/image/train/important-pen-civil-rights-history-1-aug5.jpg": {
+      "num_bytes": 719450,
+      "checksum": null
+    },
+    "/workspace/image/train/important-pen-civil-rights-history-1-aug6.jpg": {
+      "num_bytes": 440940,
+      "checksum": null
+    },
+    "/workspace/image/train/inline-skate-1823-1-aug0.jpg": {
+      "num_bytes": 76104,
+      "checksum": null
+    },
+    "/workspace/image/train/inline-skate-1823-1-aug1.jpg": {
+      "num_bytes": 101596,
+      "checksum": null
+    },
+    "/workspace/image/train/inline-skate-1823-1-aug10.jpg": {
+      "num_bytes": 92978,
+      "checksum": null
+    },
+    "/workspace/image/train/inline-skate-1823-1-aug11.jpg": {
+      "num_bytes": 103595,
+      "checksum": null
+    },
+    "/workspace/image/train/inline-skate-1823-1-aug12.jpg": {
+      "num_bytes": 121250,
+      "checksum": null
+    },
+    "/workspace/image/train/inline-skate-1823-1-aug13.jpg": {
+      "num_bytes": 90980,
+      "checksum": null
+    },
+    "/workspace/image/train/inline-skate-1823-1-aug14.jpg": {
+      "num_bytes": 63930,
+      "checksum": null
+    },
+    "/workspace/image/train/inline-skate-1823-1-aug15.jpg": {
+      "num_bytes": 76131,
+      "checksum": null
+    },
+    "/workspace/image/train/inline-skate-1823-1-aug16.jpg": {
+      "num_bytes": 56672,
+      "checksum": null
+    },
+    "/workspace/image/train/inline-skate-1823-1-aug17.jpg": {
+      "num_bytes": 96493,
+      "checksum": null
+    },
+    "/workspace/image/train/inline-skate-1823-1-aug2.jpg": {
+      "num_bytes": 111300,
+      "checksum": null
+    },
+    "/workspace/image/train/inline-skate-1823-1-aug6.jpg": {
+      "num_bytes": 73484,
+      "checksum": null
+    },
+    "/workspace/image/train/inline-skate-1823-1-aug8.jpg": {
+      "num_bytes": 71282,
+      "checksum": null
+    },
+    "/workspace/image/train/kermit-frog-puppet-1-aug0.jpg": {
+      "num_bytes": 97986,
+      "checksum": null
+    },
+    "/workspace/image/train/kermit-frog-puppet-1-aug1.jpg": {
+      "num_bytes": 141441,
+      "checksum": null
+    },
+    "/workspace/image/train/kermit-frog-puppet-1-aug11.jpg": {
+      "num_bytes": 145359,
+      "checksum": null
+    },
+    "/workspace/image/train/kermit-frog-puppet-1-aug12.jpg": {
+      "num_bytes": 105926,
+      "checksum": null
+    },
+    "/workspace/image/train/kermit-frog-puppet-1-aug13.jpg": {
+      "num_bytes": 153202,
+      "checksum": null
+    },
+    "/workspace/image/train/kermit-frog-puppet-1-aug14.jpg": {
+      "num_bytes": 102171,
+      "checksum": null
+    },
+    "/workspace/image/train/kermit-frog-puppet-1-aug15.jpg": {
+      "num_bytes": 130835,
+      "checksum": null
+    },
+    "/workspace/image/train/kermit-frog-puppet-1-aug17.jpg": {
+      "num_bytes": 97860,
+      "checksum": null
+    },
+    "/workspace/image/train/kermit-frog-puppet-1-aug18.jpg": {
+      "num_bytes": 139536,
+      "checksum": null
+    },
+    "/workspace/image/train/kermit-frog-puppet-1-aug2.jpg": {
+      "num_bytes": 143286,
+      "checksum": null
+    },
+    "/workspace/image/train/kermit-frog-puppet-1-aug3.jpg": {
+      "num_bytes": 102667,
+      "checksum": null
+    },
+    "/workspace/image/train/kermit-frog-puppet-1-aug5.jpg": {
+      "num_bytes": 99521,
+      "checksum": null
+    },
+    "/workspace/image/train/kermit-frog-puppet-1-aug8.jpg": {
+      "num_bytes": 125294,
+      "checksum": null
+    },
+    "/workspace/image/train/keys-future-1-aug0.jpg": {
+      "num_bytes": 556799,
+      "checksum": null
+    },
+    "/workspace/image/train/keys-future-1-aug1.jpg": {
+      "num_bytes": 849467,
+      "checksum": null
+    },
+    "/workspace/image/train/keys-future-1-aug11.jpg": {
+      "num_bytes": 568672,
+      "checksum": null
+    },
+    "/workspace/image/train/keys-future-1-aug12.jpg": {
+      "num_bytes": 579997,
+      "checksum": null
+    },
+    "/workspace/image/train/keys-future-1-aug13.jpg": {
+      "num_bytes": 714184,
+      "checksum": null
+    },
+    "/workspace/image/train/keys-future-1-aug16.jpg": {
+      "num_bytes": 767430,
+      "checksum": null
+    },
+    "/workspace/image/train/keys-future-1-aug17.jpg": {
+      "num_bytes": 538807,
+      "checksum": null
+    },
+    "/workspace/image/train/keys-future-1-aug18.jpg": {
+      "num_bytes": 646635,
+      "checksum": null
+    },
+    "/workspace/image/train/keys-future-1-aug19.jpg": {
+      "num_bytes": 530459,
+      "checksum": null
+    },
+    "/workspace/image/train/keys-future-1-aug2.jpg": {
+      "num_bytes": 519236,
+      "checksum": null
+    },
+    "/workspace/image/train/keys-future-1-aug3.jpg": {
+      "num_bytes": 730774,
+      "checksum": null
+    },
+    "/workspace/image/train/keys-future-1-aug7.jpg": {
+      "num_bytes": 761288,
+      "checksum": null
+    },
+    "/workspace/image/train/keys-future-1-aug8.jpg": {
+      "num_bytes": 612421,
+      "checksum": null
+    },
+    "/workspace/image/train/kiowa-ah-day-1-aug0.jpg": {
+      "num_bytes": 130477,
+      "checksum": null
+    },
+    "/workspace/image/train/kiowa-ah-day-1-aug10.jpg": {
+      "num_bytes": 118548,
+      "checksum": null
+    },
+    "/workspace/image/train/kiowa-ah-day-1-aug11.jpg": {
+      "num_bytes": 101272,
+      "checksum": null
+    },
+    "/workspace/image/train/kiowa-ah-day-1-aug14.jpg": {
+      "num_bytes": 127795,
+      "checksum": null
+    },
+    "/workspace/image/train/kiowa-ah-day-1-aug15.jpg": {
+      "num_bytes": 126678,
+      "checksum": null
+    },
+    "/workspace/image/train/kiowa-ah-day-1-aug17.jpg": {
+      "num_bytes": 135222,
+      "checksum": null
+    },
+    "/workspace/image/train/kiowa-ah-day-1-aug19.jpg": {
+      "num_bytes": 85808,
+      "checksum": null
+    },
+    "/workspace/image/train/kiowa-ah-day-1-aug2.jpg": {
+      "num_bytes": 88027,
+      "checksum": null
+    },
+    "/workspace/image/train/kiowa-ah-day-1-aug4.jpg": {
+      "num_bytes": 82249,
+      "checksum": null
+    },
+    "/workspace/image/train/kiowa-ah-day-1-aug5.jpg": {
+      "num_bytes": 113757,
+      "checksum": null
+    },
+    "/workspace/image/train/kiowa-ah-day-1-aug6.jpg": {
+      "num_bytes": 80837,
+      "checksum": null
+    },
+    "/workspace/image/train/kiowa-ah-day-1-aug7.jpg": {
+      "num_bytes": 131270,
+      "checksum": null
+    },
+    "/workspace/image/train/kiowa-ah-day-1-aug8.jpg": {
+      "num_bytes": 78224,
+      "checksum": null
+    },
+    "/workspace/image/train/leah-chase-queen-creole-cuisine-1-aug0.jpg": {
+      "num_bytes": 146710,
+      "checksum": null
+    },
+    "/workspace/image/train/leah-chase-queen-creole-cuisine-1-aug1.jpg": {
+      "num_bytes": 149688,
+      "checksum": null
+    },
+    "/workspace/image/train/leah-chase-queen-creole-cuisine-1-aug12.jpg": {
+      "num_bytes": 148431,
+      "checksum": null
+    },
+    "/workspace/image/train/leah-chase-queen-creole-cuisine-1-aug13.jpg": {
+      "num_bytes": 145284,
+      "checksum": null
+    },
+    "/workspace/image/train/leah-chase-queen-creole-cuisine-1-aug15.jpg": {
+      "num_bytes": 127064,
+      "checksum": null
+    },
+    "/workspace/image/train/leah-chase-queen-creole-cuisine-1-aug16.jpg": {
+      "num_bytes": 100923,
+      "checksum": null
+    },
+    "/workspace/image/train/leah-chase-queen-creole-cuisine-1-aug18.jpg": {
+      "num_bytes": 97171,
+      "checksum": null
+    },
+    "/workspace/image/train/leah-chase-queen-creole-cuisine-1-aug19.jpg": {
+      "num_bytes": 143416,
+      "checksum": null
+    },
+    "/workspace/image/train/leah-chase-queen-creole-cuisine-1-aug2.jpg": {
+      "num_bytes": 98485,
+      "checksum": null
+    },
+    "/workspace/image/train/leah-chase-queen-creole-cuisine-1-aug3.jpg": {
+      "num_bytes": 81961,
+      "checksum": null
+    },
+    "/workspace/image/train/leah-chase-queen-creole-cuisine-1-aug4.jpg": {
+      "num_bytes": 99826,
+      "checksum": null
+    },
+    "/workspace/image/train/leah-chase-queen-creole-cuisine-1-aug5.jpg": {
+      "num_bytes": 109916,
+      "checksum": null
+    },
+    "/workspace/image/train/leah-chase-queen-creole-cuisine-1-aug8.jpg": {
+      "num_bytes": 146687,
+      "checksum": null
+    },
+    "/workspace/image/train/lewis-and-clark-expedition-pocket-compass-1-aug11.jpg": {
+      "num_bytes": 113913,
+      "checksum": null
+    },
+    "/workspace/image/train/lewis-and-clark-expedition-pocket-compass-1-aug13.jpg": {
+      "num_bytes": 84920,
+      "checksum": null
+    },
+    "/workspace/image/train/lewis-and-clark-expedition-pocket-compass-1-aug18.jpg": {
+      "num_bytes": 163099,
+      "checksum": null
+    },
+    "/workspace/image/train/lewis-and-clark-expedition-pocket-compass-1.jpg": {
+      "num_bytes": 125675,
+      "checksum": null
+    },
+    "/workspace/image/train/lewis-and-clark-expedition-pocket-compass-4-aug0.jpg": {
+      "num_bytes": 137545,
+      "checksum": null
+    },
+    "/workspace/image/train/lewis-and-clark-expedition-pocket-compass-4-aug15.jpg": {
+      "num_bytes": 155360,
+      "checksum": null
+    },
+    "/workspace/image/train/lewis-and-clark-expedition-pocket-compass-4-aug3.jpg": {
+      "num_bytes": 169199,
+      "checksum": null
+    },
+    "/workspace/image/train/lewis-and-clark-expedition-pocket-compass-4-aug8.jpg": {
+      "num_bytes": 175132,
+      "checksum": null
+    },
+    "/workspace/image/train/lewis-and-clark-expedition-pocket-compass-4.jpg": {
+      "num_bytes": 162339,
+      "checksum": null
+    },
+    "/workspace/image/train/lewis-and-clark-expedition-pocket-compass-7-aug11.jpg": {
+      "num_bytes": 198745,
+      "checksum": null
+    },
+    "/workspace/image/train/lewis-and-clark-expedition-pocket-compass-7-aug16.jpg": {
+      "num_bytes": 189056,
+      "checksum": null
+    },
+    "/workspace/image/train/lewis-and-clark-expedition-pocket-compass-7-aug8.jpg": {
+      "num_bytes": 217517,
+      "checksum": null
+    },
+    "/workspace/image/train/lewis-and-clark-expedition-pocket-compass-7.jpg": {
+      "num_bytes": 267354,
+      "checksum": null
+    },
+    "/workspace/image/train/life-well-laughed-1-aug0.jpg": {
+      "num_bytes": 81539,
+      "checksum": null
+    },
+    "/workspace/image/train/life-well-laughed-1-aug1.jpg": {
+      "num_bytes": 94393,
+      "checksum": null
+    },
+    "/workspace/image/train/life-well-laughed-1-aug10.jpg": {
+      "num_bytes": 80403,
+      "checksum": null
+    },
+    "/workspace/image/train/life-well-laughed-1-aug11.jpg": {
+      "num_bytes": 56351,
+      "checksum": null
+    },
+    "/workspace/image/train/life-well-laughed-1-aug12.jpg": {
+      "num_bytes": 79509,
+      "checksum": null
+    },
+    "/workspace/image/train/life-well-laughed-1-aug14.jpg": {
+      "num_bytes": 65812,
+      "checksum": null
+    },
+    "/workspace/image/train/life-well-laughed-1-aug15.jpg": {
+      "num_bytes": 60573,
+      "checksum": null
+    },
+    "/workspace/image/train/life-well-laughed-1-aug16.jpg": {
+      "num_bytes": 86585,
+      "checksum": null
+    },
+    "/workspace/image/train/life-well-laughed-1-aug17.jpg": {
+      "num_bytes": 75091,
+      "checksum": null
+    },
+    "/workspace/image/train/life-well-laughed-1-aug3.jpg": {
+      "num_bytes": 61309,
+      "checksum": null
+    },
+    "/workspace/image/train/life-well-laughed-1-aug4.jpg": {
+      "num_bytes": 57616,
+      "checksum": null
+    },
+    "/workspace/image/train/life-well-laughed-1-aug8.jpg": {
+      "num_bytes": 85272,
+      "checksum": null
+    },
+    "/workspace/image/train/life-well-laughed-1-aug9.jpg": {
+      "num_bytes": 64522,
+      "checksum": null
+    },
+    "/workspace/image/train/lucky-strike-1-aug0.jpg": {
+      "num_bytes": 1947678,
+      "checksum": null
+    },
+    "/workspace/image/train/lucky-strike-1-aug11.jpg": {
+      "num_bytes": 1239552,
+      "checksum": null
+    },
+    "/workspace/image/train/lucky-strike-1-aug12.jpg": {
+      "num_bytes": 1045496,
+      "checksum": null
+    },
+    "/workspace/image/train/lucky-strike-1-aug15.jpg": {
+      "num_bytes": 1275363,
+      "checksum": null
+    },
+    "/workspace/image/train/lucky-strike-1-aug16.jpg": {
+      "num_bytes": 1880215,
+      "checksum": null
+    },
+    "/workspace/image/train/lucky-strike-1-aug17.jpg": {
+      "num_bytes": 1838813,
+      "checksum": null
+    },
+    "/workspace/image/train/lucky-strike-1-aug18.jpg": {
+      "num_bytes": 1289678,
+      "checksum": null
+    },
+    "/workspace/image/train/lucky-strike-1-aug19.jpg": {
+      "num_bytes": 1323032,
+      "checksum": null
+    },
+    "/workspace/image/train/lucky-strike-1-aug2.jpg": {
+      "num_bytes": 1976303,
+      "checksum": null
+    },
+    "/workspace/image/train/lucky-strike-1-aug3.jpg": {
+      "num_bytes": 875479,
+      "checksum": null
+    },
+    "/workspace/image/train/lucky-strike-1-aug4.jpg": {
+      "num_bytes": 1422427,
+      "checksum": null
+    },
+    "/workspace/image/train/lucky-strike-1-aug6.jpg": {
+      "num_bytes": 1799942,
+      "checksum": null
+    },
+    "/workspace/image/train/lucky-strike-1-aug7.jpg": {
+      "num_bytes": 1015580,
+      "checksum": null
+    },
+    "/workspace/image/train/mary-vaux-walcott-natural-artist-1-aug0.jpg": {
+      "num_bytes": 1163582,
+      "checksum": null
+    },
+    "/workspace/image/train/mary-vaux-walcott-natural-artist-1-aug1.jpg": {
+      "num_bytes": 1483408,
+      "checksum": null
+    },
+    "/workspace/image/train/mary-vaux-walcott-natural-artist-1-aug12.jpg": {
+      "num_bytes": 845894,
+      "checksum": null
+    },
+    "/workspace/image/train/mary-vaux-walcott-natural-artist-1-aug13.jpg": {
+      "num_bytes": 1496082,
+      "checksum": null
+    },
+    "/workspace/image/train/mary-vaux-walcott-natural-artist-1-aug15.jpg": {
+      "num_bytes": 1606327,
+      "checksum": null
+    },
+    "/workspace/image/train/mary-vaux-walcott-natural-artist-1-aug16.jpg": {
+      "num_bytes": 968975,
+      "checksum": null
+    },
+    "/workspace/image/train/mary-vaux-walcott-natural-artist-1-aug18.jpg": {
+      "num_bytes": 1121994,
+      "checksum": null
+    },
+    "/workspace/image/train/mary-vaux-walcott-natural-artist-1-aug19.jpg": {
+      "num_bytes": 1460628,
+      "checksum": null
+    },
+    "/workspace/image/train/mary-vaux-walcott-natural-artist-1-aug2.jpg": {
+      "num_bytes": 1169526,
+      "checksum": null
+    },
+    "/workspace/image/train/mary-vaux-walcott-natural-artist-1-aug3.jpg": {
+      "num_bytes": 1355610,
+      "checksum": null
+    },
+    "/workspace/image/train/mary-vaux-walcott-natural-artist-1-aug5.jpg": {
+      "num_bytes": 1156896,
+      "checksum": null
+    },
+    "/workspace/image/train/mary-vaux-walcott-natural-artist-1-aug6.jpg": {
+      "num_bytes": 1220026,
+      "checksum": null
+    },
+    "/workspace/image/train/mary-vaux-walcott-natural-artist-1-aug9.jpg": {
+      "num_bytes": 1364054,
+      "checksum": null
+    },
+    "/workspace/image/train/medal-purple-heart-1-aug0.jpg": {
+      "num_bytes": 233493,
+      "checksum": null
+    },
+    "/workspace/image/train/medal-purple-heart-1-aug16.jpg": {
+      "num_bytes": 402639,
+      "checksum": null
+    },
+    "/workspace/image/train/medal-purple-heart-1-aug17.jpg": {
+      "num_bytes": 344813,
+      "checksum": null
+    },
+    "/workspace/image/train/medal-purple-heart-1-aug18.jpg": {
+      "num_bytes": 370971,
+      "checksum": null
+    },
+    "/workspace/image/train/medal-purple-heart-1-aug3.jpg": {
+      "num_bytes": 385181,
+      "checksum": null
+    },
+    "/workspace/image/train/medal-purple-heart-1-aug9.jpg": {
+      "num_bytes": 212109,
+      "checksum": null
+    },
+    "/workspace/image/train/medal-purple-heart-3-aug0.jpg": {
+      "num_bytes": 347908,
+      "checksum": null
+    },
+    "/workspace/image/train/medal-purple-heart-3-aug1.jpg": {
+      "num_bytes": 232686,
+      "checksum": null
+    },
+    "/workspace/image/train/medal-purple-heart-3-aug19.jpg": {
+      "num_bytes": 396270,
+      "checksum": null
+    },
+    "/workspace/image/train/medal-purple-heart-3-aug3.jpg": {
+      "num_bytes": 236804,
+      "checksum": null
+    },
+    "/workspace/image/train/medal-purple-heart-3-aug4.jpg": {
+      "num_bytes": 407138,
+      "checksum": null
+    },
+    "/workspace/image/train/medal-purple-heart-3-aug5.jpg": {
+      "num_bytes": 253112,
+      "checksum": null
+    },
+    "/workspace/image/train/metadata.csv": {
+      "num_bytes": 1136311,
+      "checksum": null
+    },
+    "/workspace/image/train/mid-century-spin-weaving-1-aug0.jpg": {
+      "num_bytes": 311938,
+      "checksum": null
+    },
+    "/workspace/image/train/mid-century-spin-weaving-1-aug1.jpg": {
+      "num_bytes": 305420,
+      "checksum": null
+    },
+    "/workspace/image/train/mid-century-spin-weaving-1-aug10.jpg": {
+      "num_bytes": 310268,
+      "checksum": null
+    },
+    "/workspace/image/train/mid-century-spin-weaving-1-aug13.jpg": {
+      "num_bytes": 516279,
+      "checksum": null
+    },
+    "/workspace/image/train/mid-century-spin-weaving-1-aug16.jpg": {
+      "num_bytes": 320949,
+      "checksum": null
+    },
+    "/workspace/image/train/mid-century-spin-weaving-1-aug17.jpg": {
+      "num_bytes": 293937,
+      "checksum": null
+    },
+    "/workspace/image/train/mid-century-spin-weaving-1-aug18.jpg": {
+      "num_bytes": 450355,
+      "checksum": null
+    },
+    "/workspace/image/train/mid-century-spin-weaving-1-aug19.jpg": {
+      "num_bytes": 503058,
+      "checksum": null
+    },
+    "/workspace/image/train/mid-century-spin-weaving-1-aug3.jpg": {
+      "num_bytes": 525319,
+      "checksum": null
+    },
+    "/workspace/image/train/mid-century-spin-weaving-1-aug4.jpg": {
+      "num_bytes": 489544,
+      "checksum": null
+    },
+    "/workspace/image/train/mid-century-spin-weaving-1-aug5.jpg": {
+      "num_bytes": 499129,
+      "checksum": null
+    },
+    "/workspace/image/train/mid-century-spin-weaving-1-aug6.jpg": {
+      "num_bytes": 417583,
+      "checksum": null
+    },
+    "/workspace/image/train/mid-century-spin-weaving-1-aug7.jpg": {
+      "num_bytes": 427137,
+      "checksum": null
+    },
+    "/workspace/image/train/nakhla-meteorite-fragment-1-aug0.jpg": {
+      "num_bytes": 80234,
+      "checksum": null
+    },
+    "/workspace/image/train/nakhla-meteorite-fragment-1-aug1.jpg": {
+      "num_bytes": 68396,
+      "checksum": null
+    },
+    "/workspace/image/train/nakhla-meteorite-fragment-1-aug12.jpg": {
+      "num_bytes": 60725,
+      "checksum": null
+    },
+    "/workspace/image/train/nakhla-meteorite-fragment-1-aug13.jpg": {
+      "num_bytes": 65901,
+      "checksum": null
+    },
+    "/workspace/image/train/nakhla-meteorite-fragment-1-aug14.jpg": {
+      "num_bytes": 58062,
+      "checksum": null
+    },
+    "/workspace/image/train/nakhla-meteorite-fragment-1-aug15.jpg": {
+      "num_bytes": 55363,
+      "checksum": null
+    },
+    "/workspace/image/train/nakhla-meteorite-fragment-1-aug17.jpg": {
+      "num_bytes": 56145,
+      "checksum": null
+    },
+    "/workspace/image/train/nakhla-meteorite-fragment-1-aug19.jpg": {
+      "num_bytes": 64734,
+      "checksum": null
+    },
+    "/workspace/image/train/nakhla-meteorite-fragment-1-aug2.jpg": {
+      "num_bytes": 56090,
+      "checksum": null
+    },
+    "/workspace/image/train/nakhla-meteorite-fragment-1-aug3.jpg": {
+      "num_bytes": 94189,
+      "checksum": null
+    },
+    "/workspace/image/train/nakhla-meteorite-fragment-1-aug4.jpg": {
+      "num_bytes": 95379,
+      "checksum": null
+    },
+    "/workspace/image/train/nakhla-meteorite-fragment-1-aug6.jpg": {
+      "num_bytes": 59029,
+      "checksum": null
+    },
+    "/workspace/image/train/nakhla-meteorite-fragment-1-aug9.jpg": {
+      "num_bytes": 58498,
+      "checksum": null
+    },
+    "/workspace/image/train/nbc-fireside-chat-microphone-1-aug0.jpg": {
+      "num_bytes": 223831,
+      "checksum": null
+    },
+    "/workspace/image/train/nbc-fireside-chat-microphone-1-aug10.jpg": {
+      "num_bytes": 139394,
+      "checksum": null
+    },
+    "/workspace/image/train/nbc-fireside-chat-microphone-1-aug11.jpg": {
+      "num_bytes": 143776,
+      "checksum": null
+    },
+    "/workspace/image/train/nbc-fireside-chat-microphone-1-aug12.jpg": {
+      "num_bytes": 129520,
+      "checksum": null
+    },
+    "/workspace/image/train/nbc-fireside-chat-microphone-1-aug13.jpg": {
+      "num_bytes": 129897,
+      "checksum": null
+    },
+    "/workspace/image/train/nbc-fireside-chat-microphone-1-aug15.jpg": {
+      "num_bytes": 125185,
+      "checksum": null
+    },
+    "/workspace/image/train/nbc-fireside-chat-microphone-1-aug17.jpg": {
+      "num_bytes": 257665,
+      "checksum": null
+    },
+    "/workspace/image/train/nbc-fireside-chat-microphone-1-aug18.jpg": {
+      "num_bytes": 223826,
+      "checksum": null
+    },
+    "/workspace/image/train/nbc-fireside-chat-microphone-1-aug19.jpg": {
+      "num_bytes": 196087,
+      "checksum": null
+    },
+    "/workspace/image/train/nbc-fireside-chat-microphone-1-aug3.jpg": {
+      "num_bytes": 141156,
+      "checksum": null
+    },
+    "/workspace/image/train/nbc-fireside-chat-microphone-1-aug7.jpg": {
+      "num_bytes": 135290,
+      "checksum": null
+    },
+    "/workspace/image/train/nbc-fireside-chat-microphone-1-aug9.jpg": {
+      "num_bytes": 194233,
+      "checksum": null
+    },
+    "/workspace/image/train/nbc-fireside-chat-microphone-1.jpg": {
+      "num_bytes": 275711,
+      "checksum": null
+    },
+    "/workspace/image/train/origin-species-charles-darwin-1-aug0.jpg": {
+      "num_bytes": 64458,
+      "checksum": null
+    },
+    "/workspace/image/train/origin-species-charles-darwin-1-aug1.jpg": {
+      "num_bytes": 64933,
+      "checksum": null
+    },
+    "/workspace/image/train/origin-species-charles-darwin-1-aug10.jpg": {
+      "num_bytes": 83965,
+      "checksum": null
+    },
+    "/workspace/image/train/origin-species-charles-darwin-1-aug12.jpg": {
+      "num_bytes": 64359,
+      "checksum": null
+    },
+    "/workspace/image/train/origin-species-charles-darwin-1-aug13.jpg": {
+      "num_bytes": 84574,
+      "checksum": null
+    },
+    "/workspace/image/train/origin-species-charles-darwin-1-aug14.jpg": {
+      "num_bytes": 66834,
+      "checksum": null
+    },
+    "/workspace/image/train/origin-species-charles-darwin-1-aug16.jpg": {
+      "num_bytes": 66737,
+      "checksum": null
+    },
+    "/workspace/image/train/origin-species-charles-darwin-1-aug2.jpg": {
+      "num_bytes": 64192,
+      "checksum": null
+    },
+    "/workspace/image/train/origin-species-charles-darwin-1-aug3.jpg": {
+      "num_bytes": 66396,
+      "checksum": null
+    },
+    "/workspace/image/train/origin-species-charles-darwin-1-aug4.jpg": {
+      "num_bytes": 61467,
+      "checksum": null
+    },
+    "/workspace/image/train/origin-species-charles-darwin-1-aug7.jpg": {
+      "num_bytes": 87771,
+      "checksum": null
+    },
+    "/workspace/image/train/origin-species-charles-darwin-1-aug8.jpg": {
+      "num_bytes": 63976,
+      "checksum": null
+    },
+    "/workspace/image/train/origin-species-charles-darwin-1-aug9.jpg": {
+      "num_bytes": 68118,
+      "checksum": null
+    },
+    "/workspace/image/train/philosophy-meets-motorcycle-maintenance-road-trip-1-aug0.jpg": {
+      "num_bytes": 109909,
+      "checksum": null
+    },
+    "/workspace/image/train/philosophy-meets-motorcycle-maintenance-road-trip-1-aug1.jpg": {
+      "num_bytes": 108534,
+      "checksum": null
+    },
+    "/workspace/image/train/philosophy-meets-motorcycle-maintenance-road-trip-1-aug10.jpg": {
+      "num_bytes": 66825,
+      "checksum": null
+    },
+    "/workspace/image/train/philosophy-meets-motorcycle-maintenance-road-trip-1-aug11.jpg": {
+      "num_bytes": 98300,
+      "checksum": null
+    },
+    "/workspace/image/train/philosophy-meets-motorcycle-maintenance-road-trip-1-aug12.jpg": {
+      "num_bytes": 92464,
+      "checksum": null
+    },
+    "/workspace/image/train/philosophy-meets-motorcycle-maintenance-road-trip-1-aug15.jpg": {
+      "num_bytes": 94755,
+      "checksum": null
+    },
+    "/workspace/image/train/philosophy-meets-motorcycle-maintenance-road-trip-1-aug2.jpg": {
+      "num_bytes": 110804,
+      "checksum": null
+    },
+    "/workspace/image/train/philosophy-meets-motorcycle-maintenance-road-trip-1-aug3.jpg": {
+      "num_bytes": 71079,
+      "checksum": null
+    },
+    "/workspace/image/train/philosophy-meets-motorcycle-maintenance-road-trip-1-aug4.jpg": {
+      "num_bytes": 104200,
+      "checksum": null
+    },
+    "/workspace/image/train/philosophy-meets-motorcycle-maintenance-road-trip-1-aug5.jpg": {
+      "num_bytes": 105509,
+      "checksum": null
+    },
+    "/workspace/image/train/philosophy-meets-motorcycle-maintenance-road-trip-1-aug6.jpg": {
+      "num_bytes": 103597,
+      "checksum": null
+    },
+    "/workspace/image/train/philosophy-meets-motorcycle-maintenance-road-trip-1-aug8.jpg": {
+      "num_bytes": 108915,
+      "checksum": null
+    },
+    "/workspace/image/train/philosophy-meets-motorcycle-maintenance-road-trip-1-aug9.jpg": {
+      "num_bytes": 70509,
+      "checksum": null
+    },
+    "/workspace/image/train/plymouth-rock-piece-1-aug0.jpg": {
+      "num_bytes": 91597,
+      "checksum": null
+    },
+    "/workspace/image/train/plymouth-rock-piece-1-aug1.jpg": {
+      "num_bytes": 96126,
+      "checksum": null
+    },
+    "/workspace/image/train/plymouth-rock-piece-1-aug11.jpg": {
+      "num_bytes": 93487,
+      "checksum": null
+    },
+    "/workspace/image/train/plymouth-rock-piece-1-aug12.jpg": {
+      "num_bytes": 89652,
+      "checksum": null
+    },
+    "/workspace/image/train/plymouth-rock-piece-1-aug13.jpg": {
+      "num_bytes": 64562,
+      "checksum": null
+    },
+    "/workspace/image/train/plymouth-rock-piece-1-aug16.jpg": {
+      "num_bytes": 66623,
+      "checksum": null
+    },
+    "/workspace/image/train/plymouth-rock-piece-1-aug17.jpg": {
+      "num_bytes": 94961,
+      "checksum": null
+    },
+    "/workspace/image/train/plymouth-rock-piece-1-aug18.jpg": {
+      "num_bytes": 92259,
+      "checksum": null
+    },
+    "/workspace/image/train/plymouth-rock-piece-1-aug19.jpg": {
+      "num_bytes": 92680,
+      "checksum": null
+    },
+    "/workspace/image/train/plymouth-rock-piece-1-aug2.jpg": {
+      "num_bytes": 91994,
+      "checksum": null
+    },
+    "/workspace/image/train/plymouth-rock-piece-1-aug4.jpg": {
+      "num_bytes": 65526,
+      "checksum": null
+    },
+    "/workspace/image/train/plymouth-rock-piece-1-aug8.jpg": {
+      "num_bytes": 92143,
+      "checksum": null
+    },
+    "/workspace/image/train/plymouth-rock-piece-1-aug9.jpg": {
+      "num_bytes": 91814,
+      "checksum": null
+    },
+    "/workspace/image/train/pneumatic-mail-container-1-aug0.jpg": {
+      "num_bytes": 40314,
+      "checksum": null
+    },
+    "/workspace/image/train/pneumatic-mail-container-1-aug1.jpg": {
+      "num_bytes": 30569,
+      "checksum": null
+    },
+    "/workspace/image/train/pneumatic-mail-container-1-aug11.jpg": {
+      "num_bytes": 47091,
+      "checksum": null
+    },
+    "/workspace/image/train/pneumatic-mail-container-1-aug12.jpg": {
+      "num_bytes": 45268,
+      "checksum": null
+    },
+    "/workspace/image/train/pneumatic-mail-container-1-aug13.jpg": {
+      "num_bytes": 45327,
+      "checksum": null
+    },
+    "/workspace/image/train/pneumatic-mail-container-1-aug15.jpg": {
+      "num_bytes": 36816,
+      "checksum": null
+    },
+    "/workspace/image/train/pneumatic-mail-container-1-aug16.jpg": {
+      "num_bytes": 28362,
+      "checksum": null
+    },
+    "/workspace/image/train/pneumatic-mail-container-1-aug17.jpg": {
+      "num_bytes": 50074,
+      "checksum": null
+    },
+    "/workspace/image/train/pneumatic-mail-container-1-aug3.jpg": {
+      "num_bytes": 34226,
+      "checksum": null
+    },
+    "/workspace/image/train/pneumatic-mail-container-1-aug5.jpg": {
+      "num_bytes": 42531,
+      "checksum": null
+    },
+    "/workspace/image/train/pneumatic-mail-container-1-aug6.jpg": {
+      "num_bytes": 35419,
+      "checksum": null
+    },
+    "/workspace/image/train/pneumatic-mail-container-1-aug7.jpg": {
+      "num_bytes": 36508,
+      "checksum": null
+    },
+    "/workspace/image/train/pneumatic-mail-container-1-aug8.jpg": {
+      "num_bytes": 40481,
+      "checksum": null
+    },
+    "/workspace/image/train/rock-n-roll-ride-1-aug0.jpg": {
+      "num_bytes": 71119,
+      "checksum": null
+    },
+    "/workspace/image/train/rock-n-roll-ride-1-aug10.jpg": {
+      "num_bytes": 49267,
+      "checksum": null
+    },
+    "/workspace/image/train/rock-n-roll-ride-1-aug11.jpg": {
+      "num_bytes": 54452,
+      "checksum": null
+    },
+    "/workspace/image/train/rock-n-roll-ride-1-aug14.jpg": {
+      "num_bytes": 47001,
+      "checksum": null
+    },
+    "/workspace/image/train/rock-n-roll-ride-1-aug15.jpg": {
+      "num_bytes": 53807,
+      "checksum": null
+    },
+    "/workspace/image/train/rock-n-roll-ride-1-aug17.jpg": {
+      "num_bytes": 42472,
+      "checksum": null
+    },
+    "/workspace/image/train/rock-n-roll-ride-1-aug19.jpg": {
+      "num_bytes": 48119,
+      "checksum": null
+    },
+    "/workspace/image/train/rock-n-roll-ride-1-aug2.jpg": {
+      "num_bytes": 44341,
+      "checksum": null
+    },
+    "/workspace/image/train/rock-n-roll-ride-1-aug3.jpg": {
+      "num_bytes": 51090,
+      "checksum": null
+    },
+    "/workspace/image/train/rock-n-roll-ride-1-aug5.jpg": {
+      "num_bytes": 69913,
+      "checksum": null
+    },
+    "/workspace/image/train/rock-n-roll-ride-1-aug6.jpg": {
+      "num_bytes": 50661,
+      "checksum": null
+    },
+    "/workspace/image/train/rock-n-roll-ride-1-aug7.jpg": {
+      "num_bytes": 55033,
+      "checksum": null
+    },
+    "/workspace/image/train/rock-n-roll-ride-1-aug9.jpg": {
+      "num_bytes": 54430,
+      "checksum": null
+    },
+    "/workspace/image/train/serving-holiday-classics-1-aug1.jpg": {
+      "num_bytes": 110988,
+      "checksum": null
+    },
+    "/workspace/image/train/serving-holiday-classics-1-aug11.jpg": {
+      "num_bytes": 96685,
+      "checksum": null
+    },
+    "/workspace/image/train/serving-holiday-classics-1-aug12.jpg": {
+      "num_bytes": 55090,
+      "checksum": null
+    },
+    "/workspace/image/train/serving-holiday-classics-1-aug14.jpg": {
+      "num_bytes": 69284,
+      "checksum": null
+    },
+    "/workspace/image/train/serving-holiday-classics-1-aug16.jpg": {
+      "num_bytes": 110845,
+      "checksum": null
+    },
+    "/workspace/image/train/serving-holiday-classics-1-aug17.jpg": {
+      "num_bytes": 102546,
+      "checksum": null
+    },
+    "/workspace/image/train/serving-holiday-classics-1-aug18.jpg": {
+      "num_bytes": 58048,
+      "checksum": null
+    },
+    "/workspace/image/train/serving-holiday-classics-1-aug19.jpg": {
+      "num_bytes": 88001,
+      "checksum": null
+    },
+    "/workspace/image/train/serving-holiday-classics-1-aug2.jpg": {
+      "num_bytes": 73044,
+      "checksum": null
+    },
+    "/workspace/image/train/serving-holiday-classics-1-aug3.jpg": {
+      "num_bytes": 85011,
+      "checksum": null
+    },
+    "/workspace/image/train/serving-holiday-classics-1-aug5.jpg": {
+      "num_bytes": 86277,
+      "checksum": null
+    },
+    "/workspace/image/train/serving-holiday-classics-1-aug6.jpg": {
+      "num_bytes": 55351,
+      "checksum": null
+    },
+    "/workspace/image/train/serving-holiday-classics-1-aug9.jpg": {
+      "num_bytes": 68508,
+      "checksum": null
+    },
+    "/workspace/image/train/sonja-henies-autographed-ice-skates-1-aug0.jpg": {
+      "num_bytes": 51278,
+      "checksum": null
+    },
+    "/workspace/image/train/sonja-henies-autographed-ice-skates-1-aug10.jpg": {
+      "num_bytes": 62748,
+      "checksum": null
+    },
+    "/workspace/image/train/sonja-henies-autographed-ice-skates-1-aug11.jpg": {
+      "num_bytes": 60508,
+      "checksum": null
+    },
+    "/workspace/image/train/sonja-henies-autographed-ice-skates-1-aug12.jpg": {
+      "num_bytes": 51099,
+      "checksum": null
+    },
+    "/workspace/image/train/sonja-henies-autographed-ice-skates-1-aug14.jpg": {
+      "num_bytes": 47580,
+      "checksum": null
+    },
+    "/workspace/image/train/sonja-henies-autographed-ice-skates-1-aug17.jpg": {
+      "num_bytes": 49524,
+      "checksum": null
+    },
+    "/workspace/image/train/sonja-henies-autographed-ice-skates-1-aug18.jpg": {
+      "num_bytes": 34887,
+      "checksum": null
+    },
+    "/workspace/image/train/sonja-henies-autographed-ice-skates-1-aug3.jpg": {
+      "num_bytes": 51326,
+      "checksum": null
+    },
+    "/workspace/image/train/sonja-henies-autographed-ice-skates-1-aug4.jpg": {
+      "num_bytes": 45072,
+      "checksum": null
+    },
+    "/workspace/image/train/sonja-henies-autographed-ice-skates-1-aug6.jpg": {
+      "num_bytes": 68282,
+      "checksum": null
+    },
+    "/workspace/image/train/sonja-henies-autographed-ice-skates-1-aug7.jpg": {
+      "num_bytes": 48414,
+      "checksum": null
+    },
+    "/workspace/image/train/sonja-henies-autographed-ice-skates-1-aug8.jpg": {
+      "num_bytes": 41870,
+      "checksum": null
+    },
+    "/workspace/image/train/sonja-henies-autographed-ice-skates-1-aug9.jpg": {
+      "num_bytes": 73660,
+      "checksum": null
+    },
+    "/workspace/image/train/statue-liberty-souvenir-new-york-new-york-1885-3-aug15.jpg": {
+      "num_bytes": 159532,
+      "checksum": null
+    },
+    "/workspace/image/train/statue-liberty-souvenir-new-york-new-york-1885-3-aug18.jpg": {
+      "num_bytes": 279704,
+      "checksum": null
+    },
+    "/workspace/image/train/statue-liberty-souvenir-new-york-new-york-1885-3-aug5.jpg": {
+      "num_bytes": 253647,
+      "checksum": null
+    },
+    "/workspace/image/train/statue-liberty-souvenir-new-york-new-york-1885-3-aug8.jpg": {
+      "num_bytes": 248591,
+      "checksum": null
+    },
+    "/workspace/image/train/statue-liberty-souvenir-new-york-new-york-1885-3.jpg": {
+      "num_bytes": 308062,
+      "checksum": null
+    },
+    "/workspace/image/train/statue-liberty-souvenir-new-york-new-york-1885-4-aug2.jpg": {
+      "num_bytes": 125102,
+      "checksum": null
+    },
+    "/workspace/image/train/statue-liberty-souvenir-new-york-new-york-1885-4-aug7.jpg": {
+      "num_bytes": 128903,
+      "checksum": null
+    },
+    "/workspace/image/train/statue-liberty-souvenir-new-york-new-york-1885-4.jpg": {
+      "num_bytes": 199197,
+      "checksum": null
+    },
+    "/workspace/image/train/statue-liberty-souvenir-new-york-new-york-1885-6-aug0.jpg": {
+      "num_bytes": 210285,
+      "checksum": null
+    },
+    "/workspace/image/train/statue-liberty-souvenir-new-york-new-york-1885-6-aug18.jpg": {
+      "num_bytes": 137455,
+      "checksum": null
+    },
+    "/workspace/image/train/statue-liberty-souvenir-new-york-new-york-1885-6-aug2.jpg": {
+      "num_bytes": 127498,
+      "checksum": null
+    },
+    "/workspace/image/train/statue-liberty-souvenir-new-york-new-york-1885-6-aug7.jpg": {
+      "num_bytes": 134206,
+      "checksum": null
+    },
+    "/workspace/image/train/statue-liberty-souvenir-new-york-new-york-1885-6.jpg": {
+      "num_bytes": 176702,
+      "checksum": null
+    },
+    "/workspace/image/train/stay-sharp-school-year-1-aug1.jpg": {
+      "num_bytes": 135263,
+      "checksum": null
+    },
+    "/workspace/image/train/stay-sharp-school-year-1-aug10.jpg": {
+      "num_bytes": 174994,
+      "checksum": null
+    },
+    "/workspace/image/train/stay-sharp-school-year-1-aug12.jpg": {
+      "num_bytes": 196552,
+      "checksum": null
+    },
+    "/workspace/image/train/stay-sharp-school-year-1-aug13.jpg": {
+      "num_bytes": 145755,
+      "checksum": null
+    },
+    "/workspace/image/train/stay-sharp-school-year-1-aug15.jpg": {
+      "num_bytes": 189216,
+      "checksum": null
+    },
+    "/workspace/image/train/stay-sharp-school-year-1-aug17.jpg": {
+      "num_bytes": 124355,
+      "checksum": null
+    },
+    "/workspace/image/train/stay-sharp-school-year-1-aug18.jpg": {
+      "num_bytes": 203427,
+      "checksum": null
+    },
+    "/workspace/image/train/stay-sharp-school-year-1-aug19.jpg": {
+      "num_bytes": 140603,
+      "checksum": null
+    },
+    "/workspace/image/train/stay-sharp-school-year-1-aug2.jpg": {
+      "num_bytes": 177687,
+      "checksum": null
+    },
+    "/workspace/image/train/stay-sharp-school-year-1-aug3.jpg": {
+      "num_bytes": 171886,
+      "checksum": null
+    },
+    "/workspace/image/train/stay-sharp-school-year-1-aug5.jpg": {
+      "num_bytes": 143132,
+      "checksum": null
+    },
+    "/workspace/image/train/stay-sharp-school-year-1-aug6.jpg": {
+      "num_bytes": 192143,
+      "checksum": null
+    },
+    "/workspace/image/train/stay-sharp-school-year-1-aug8.jpg": {
+      "num_bytes": 193536,
+      "checksum": null
+    },
+    "/workspace/image/train/still-rolling-around-1-aug0.jpg": {
+      "num_bytes": 120081,
+      "checksum": null
+    },
+    "/workspace/image/train/still-rolling-around-1-aug1.jpg": {
+      "num_bytes": 105893,
+      "checksum": null
+    },
+    "/workspace/image/train/still-rolling-around-1-aug11.jpg": {
+      "num_bytes": 132613,
+      "checksum": null
+    },
+    "/workspace/image/train/still-rolling-around-1-aug12.jpg": {
+      "num_bytes": 126100,
+      "checksum": null
+    },
+    "/workspace/image/train/still-rolling-around-1-aug13.jpg": {
+      "num_bytes": 108533,
+      "checksum": null
+    },
+    "/workspace/image/train/still-rolling-around-1-aug14.jpg": {
+      "num_bytes": 83980,
+      "checksum": null
+    },
+    "/workspace/image/train/still-rolling-around-1-aug15.jpg": {
+      "num_bytes": 124546,
+      "checksum": null
+    },
+    "/workspace/image/train/still-rolling-around-1-aug16.jpg": {
+      "num_bytes": 132852,
+      "checksum": null
+    },
+    "/workspace/image/train/still-rolling-around-1-aug17.jpg": {
+      "num_bytes": 100838,
+      "checksum": null
+    },
+    "/workspace/image/train/still-rolling-around-1-aug18.jpg": {
+      "num_bytes": 108711,
+      "checksum": null
+    },
+    "/workspace/image/train/still-rolling-around-1-aug19.jpg": {
+      "num_bytes": 105101,
+      "checksum": null
+    },
+    "/workspace/image/train/still-rolling-around-1-aug3.jpg": {
+      "num_bytes": 107300,
+      "checksum": null
+    },
+    "/workspace/image/train/still-rolling-around-1-aug7.jpg": {
+      "num_bytes": 93928,
+      "checksum": null
+    },
+    "/workspace/image/train/strong-and-lasting-bond-1-aug1.jpg": {
+      "num_bytes": 193250,
+      "checksum": null
+    },
+    "/workspace/image/train/strong-and-lasting-bond-1-aug13.jpg": {
+      "num_bytes": 200505,
+      "checksum": null
+    },
+    "/workspace/image/train/strong-and-lasting-bond-1-aug15.jpg": {
+      "num_bytes": 242119,
+      "checksum": null
+    },
+    "/workspace/image/train/strong-and-lasting-bond-1-aug16.jpg": {
+      "num_bytes": 209113,
+      "checksum": null
+    },
+    "/workspace/image/train/strong-and-lasting-bond-1-aug18.jpg": {
+      "num_bytes": 156345,
+      "checksum": null
+    },
+    "/workspace/image/train/strong-and-lasting-bond-1-aug19.jpg": {
+      "num_bytes": 204174,
+      "checksum": null
+    },
+    "/workspace/image/train/strong-and-lasting-bond-1-aug2.jpg": {
+      "num_bytes": 244724,
+      "checksum": null
+    },
+    "/workspace/image/train/strong-and-lasting-bond-1-aug3.jpg": {
+      "num_bytes": 273828,
+      "checksum": null
+    },
+    "/workspace/image/train/strong-and-lasting-bond-1-aug4.jpg": {
+      "num_bytes": 270051,
+      "checksum": null
+    },
+    "/workspace/image/train/strong-and-lasting-bond-1-aug6.jpg": {
+      "num_bytes": 211838,
+      "checksum": null
+    },
+    "/workspace/image/train/strong-and-lasting-bond-1-aug7.jpg": {
+      "num_bytes": 259485,
+      "checksum": null
+    },
+    "/workspace/image/train/strong-and-lasting-bond-1-aug8.jpg": {
+      "num_bytes": 206363,
+      "checksum": null
+    },
+    "/workspace/image/train/strong-and-lasting-bond-1-aug9.jpg": {
+      "num_bytes": 204493,
+      "checksum": null
+    },
+    "/workspace/image/train/super-bowl-xiv-football-1-aug1.jpg": {
+      "num_bytes": 70048,
+      "checksum": null
+    },
+    "/workspace/image/train/super-bowl-xiv-football-1-aug11.jpg": {
+      "num_bytes": 58041,
+      "checksum": null
+    },
+    "/workspace/image/train/super-bowl-xiv-football-1-aug12.jpg": {
+      "num_bytes": 58784,
+      "checksum": null
+    },
+    "/workspace/image/train/super-bowl-xiv-football-1-aug13.jpg": {
+      "num_bytes": 72371,
+      "checksum": null
+    },
+    "/workspace/image/train/super-bowl-xiv-football-1-aug15.jpg": {
+      "num_bytes": 58422,
+      "checksum": null
+    },
+    "/workspace/image/train/super-bowl-xiv-football-1-aug16.jpg": {
+      "num_bytes": 48652,
+      "checksum": null
+    },
+    "/workspace/image/train/super-bowl-xiv-football-1-aug17.jpg": {
+      "num_bytes": 72068,
+      "checksum": null
+    },
+    "/workspace/image/train/super-bowl-xiv-football-1-aug2.jpg": {
+      "num_bytes": 55636,
+      "checksum": null
+    },
+    "/workspace/image/train/super-bowl-xiv-football-1-aug3.jpg": {
+      "num_bytes": 79852,
+      "checksum": null
+    },
+    "/workspace/image/train/super-bowl-xiv-football-1-aug4.jpg": {
+      "num_bytes": 73309,
+      "checksum": null
+    },
+    "/workspace/image/train/super-bowl-xiv-football-1-aug7.jpg": {
+      "num_bytes": 55076,
+      "checksum": null
+    },
+    "/workspace/image/train/super-bowl-xiv-football-1-aug8.jpg": {
+      "num_bytes": 83489,
+      "checksum": null
+    },
+    "/workspace/image/train/super-bowl-xiv-football-1-aug9.jpg": {
+      "num_bytes": 54841,
+      "checksum": null
+    },
+    "/workspace/image/train/teapot-made-peter-bentzon-1-aug3.jpg": {
+      "num_bytes": 86498,
+      "checksum": null
+    },
+    "/workspace/image/train/teapot-made-peter-bentzon-1.jpg": {
+      "num_bytes": 89788,
+      "checksum": null
+    },
+    "/workspace/image/train/teapot-made-peter-bentzon-11.jpg": {
+      "num_bytes": 74180,
+      "checksum": null
+    },
+    "/workspace/image/train/teapot-made-peter-bentzon-2-aug11.jpg": {
+      "num_bytes": 91360,
+      "checksum": null
+    },
+    "/workspace/image/train/teapot-made-peter-bentzon-2.jpg": {
+      "num_bytes": 108810,
+      "checksum": null
+    },
+    "/workspace/image/train/teapot-made-peter-bentzon-5.jpg": {
+      "num_bytes": 92648,
+      "checksum": null
+    },
+    "/workspace/image/train/teapot-made-peter-bentzon-7-aug14.jpg": {
+      "num_bytes": 62068,
+      "checksum": null
+    },
+    "/workspace/image/train/teapot-made-peter-bentzon-7.jpg": {
+      "num_bytes": 67838,
+      "checksum": null
+    },
+    "/workspace/image/train/teapot-made-peter-bentzon-8-aug9.jpg": {
+      "num_bytes": 92224,
+      "checksum": null
+    },
+    "/workspace/image/train/teapot-made-peter-bentzon-8.jpg": {
+      "num_bytes": 90856,
+      "checksum": null
+    },
+    "/workspace/image/train/teapot-made-peter-bentzon-9.jpg": {
+      "num_bytes": 80767,
+      "checksum": null
+    },
+    "/workspace/image/train/telescoping-shopping-cart-1-aug0.jpg": {
+      "num_bytes": 98771,
+      "checksum": null
+    },
+    "/workspace/image/train/telescoping-shopping-cart-1-aug1.jpg": {
+      "num_bytes": 130852,
+      "checksum": null
+    },
+    "/workspace/image/train/telescoping-shopping-cart-1-aug10.jpg": {
+      "num_bytes": 121838,
+      "checksum": null
+    },
+    "/workspace/image/train/telescoping-shopping-cart-1-aug12.jpg": {
+      "num_bytes": 96132,
+      "checksum": null
+    },
+    "/workspace/image/train/telescoping-shopping-cart-1-aug14.jpg": {
+      "num_bytes": 85422,
+      "checksum": null
+    },
+    "/workspace/image/train/telescoping-shopping-cart-1-aug15.jpg": {
+      "num_bytes": 94786,
+      "checksum": null
+    },
+    "/workspace/image/train/telescoping-shopping-cart-1-aug16.jpg": {
+      "num_bytes": 137683,
+      "checksum": null
+    },
+    "/workspace/image/train/telescoping-shopping-cart-1-aug17.jpg": {
+      "num_bytes": 100421,
+      "checksum": null
+    },
+    "/workspace/image/train/telescoping-shopping-cart-1-aug2.jpg": {
+      "num_bytes": 145418,
+      "checksum": null
+    },
+    "/workspace/image/train/telescoping-shopping-cart-1-aug3.jpg": {
+      "num_bytes": 132533,
+      "checksum": null
+    },
+    "/workspace/image/train/telescoping-shopping-cart-1-aug4.jpg": {
+      "num_bytes": 103813,
+      "checksum": null
+    },
+    "/workspace/image/train/telescoping-shopping-cart-1-aug5.jpg": {
+      "num_bytes": 137385,
+      "checksum": null
+    },
+    "/workspace/image/train/telescoping-shopping-cart-1-aug9.jpg": {
+      "num_bytes": 98109,
+      "checksum": null
+    },
+    "/workspace/image/train/thomas-jeffersons-desk-1-aug2.jpg": {
+      "num_bytes": 53011,
+      "checksum": null
+    },
+    "/workspace/image/train/thomas-jeffersons-desk-1.jpg": {
+      "num_bytes": 104709,
+      "checksum": null
+    },
+    "/workspace/image/train/thomas-jeffersons-desk-12-aug11.jpg": {
+      "num_bytes": 26343,
+      "checksum": null
+    },
+    "/workspace/image/train/thomas-jeffersons-desk-12.jpg": {
+      "num_bytes": 77815,
+      "checksum": null
+    },
+    "/workspace/image/train/thomas-jeffersons-desk-3.jpg": {
+      "num_bytes": 77398,
+      "checksum": null
+    },
+    "/workspace/image/train/thomas-jeffersons-desk-6-aug1.jpg": {
+      "num_bytes": 9450,
+      "checksum": null
+    },
+    "/workspace/image/train/thomas-jeffersons-desk-6.jpg": {
+      "num_bytes": 36401,
+      "checksum": null
+    },
+    "/workspace/image/train/thomas-jeffersons-desk-8-aug12.jpg": {
+      "num_bytes": 49153,
+      "checksum": null
+    },
+    "/workspace/image/train/thomas-jeffersons-desk-8.jpg": {
+      "num_bytes": 93848,
+      "checksum": null
+    },
+    "/workspace/image/train/thomas-jeffersons-desk-9.jpg": {
+      "num_bytes": 161405,
+      "checksum": null
+    },
+    "/workspace/image/train/ulysses-s-grants-chair-appomattox-2-aug0.jpg": {
+      "num_bytes": 139671,
+      "checksum": null
+    },
+    "/workspace/image/train/ulysses-s-grants-chair-appomattox-2-aug1.jpg": {
+      "num_bytes": 114185,
+      "checksum": null
+    },
+    "/workspace/image/train/ulysses-s-grants-chair-appomattox-2-aug10.jpg": {
+      "num_bytes": 155081,
+      "checksum": null
+    },
+    "/workspace/image/train/ulysses-s-grants-chair-appomattox-2-aug11.jpg": {
+      "num_bytes": 114560,
+      "checksum": null
+    },
+    "/workspace/image/train/ulysses-s-grants-chair-appomattox-2-aug12.jpg": {
+      "num_bytes": 151102,
+      "checksum": null
+    },
+    "/workspace/image/train/ulysses-s-grants-chair-appomattox-2-aug15.jpg": {
+      "num_bytes": 137143,
+      "checksum": null
+    },
+    "/workspace/image/train/ulysses-s-grants-chair-appomattox-2-aug16.jpg": {
+      "num_bytes": 108015,
+      "checksum": null
+    },
+    "/workspace/image/train/ulysses-s-grants-chair-appomattox-2-aug18.jpg": {
+      "num_bytes": 162394,
+      "checksum": null
+    },
+    "/workspace/image/train/ulysses-s-grants-chair-appomattox-2-aug3.jpg": {
+      "num_bytes": 157403,
+      "checksum": null
+    },
+    "/workspace/image/train/ulysses-s-grants-chair-appomattox-2-aug6.jpg": {
+      "num_bytes": 102867,
+      "checksum": null
+    },
+    "/workspace/image/train/ulysses-s-grants-chair-appomattox-2-aug7.jpg": {
+      "num_bytes": 169552,
+      "checksum": null
+    },
+    "/workspace/image/train/ulysses-s-grants-chair-appomattox-2-aug9.jpg": {
+      "num_bytes": 103195,
+      "checksum": null
+    },
+    "/workspace/image/train/ulysses-s-grants-chair-appomattox-2.jpg": {
+      "num_bytes": 177760,
+      "checksum": null
+    },
+    "/workspace/image/train/universal-access-flag-lap-blanket-1-aug0.jpg": {
+      "num_bytes": 175566,
+      "checksum": null
+    },
+    "/workspace/image/train/universal-access-flag-lap-blanket-1-aug1.jpg": {
+      "num_bytes": 144149,
+      "checksum": null
+    },
+    "/workspace/image/train/universal-access-flag-lap-blanket-1-aug12.jpg": {
+      "num_bytes": 137693,
+      "checksum": null
+    },
+    "/workspace/image/train/universal-access-flag-lap-blanket-1-aug13.jpg": {
+      "num_bytes": 198177,
+      "checksum": null
+    },
+    "/workspace/image/train/universal-access-flag-lap-blanket-1-aug15.jpg": {
+      "num_bytes": 113853,
+      "checksum": null
+    },
+    "/workspace/image/train/universal-access-flag-lap-blanket-1-aug17.jpg": {
+      "num_bytes": 134617,
+      "checksum": null
+    },
+    "/workspace/image/train/universal-access-flag-lap-blanket-1-aug19.jpg": {
+      "num_bytes": 136951,
+      "checksum": null
+    },
+    "/workspace/image/train/universal-access-flag-lap-blanket-1-aug2.jpg": {
+      "num_bytes": 214243,
+      "checksum": null
+    },
+    "/workspace/image/train/universal-access-flag-lap-blanket-1-aug4.jpg": {
+      "num_bytes": 185980,
+      "checksum": null
+    },
+    "/workspace/image/train/universal-access-flag-lap-blanket-1-aug6.jpg": {
+      "num_bytes": 169518,
+      "checksum": null
+    },
+    "/workspace/image/train/universal-access-flag-lap-blanket-1-aug8.jpg": {
+      "num_bytes": 129357,
+      "checksum": null
+    },
+    "/workspace/image/train/universal-access-flag-lap-blanket-1-aug9.jpg": {
+      "num_bytes": 127383,
+      "checksum": null
+    },
+    "/workspace/image/train/universal-access-flag-lap-blanket-1.jpg": {
+      "num_bytes": 162159,
+      "checksum": null
+    },
+    "/workspace/image/train/vallenato-makes-history-smithsonian-1-aug0.jpg": {
+      "num_bytes": 84886,
+      "checksum": null
+    },
+    "/workspace/image/train/vallenato-makes-history-smithsonian-1-aug10.jpg": {
+      "num_bytes": 83618,
+      "checksum": null
+    },
+    "/workspace/image/train/vallenato-makes-history-smithsonian-1-aug11.jpg": {
+      "num_bytes": 76860,
+      "checksum": null
+    },
+    "/workspace/image/train/vallenato-makes-history-smithsonian-1-aug13.jpg": {
+      "num_bytes": 66966,
+      "checksum": null
+    },
+    "/workspace/image/train/vallenato-makes-history-smithsonian-1-aug15.jpg": {
+      "num_bytes": 90975,
+      "checksum": null
+    },
+    "/workspace/image/train/vallenato-makes-history-smithsonian-1-aug16.jpg": {
+      "num_bytes": 97372,
+      "checksum": null
+    },
+    "/workspace/image/train/vallenato-makes-history-smithsonian-1-aug17.jpg": {
+      "num_bytes": 93960,
+      "checksum": null
+    },
+    "/workspace/image/train/vallenato-makes-history-smithsonian-1-aug18.jpg": {
+      "num_bytes": 84619,
+      "checksum": null
+    },
+    "/workspace/image/train/vallenato-makes-history-smithsonian-1-aug19.jpg": {
+      "num_bytes": 85891,
+      "checksum": null
+    },
+    "/workspace/image/train/vallenato-makes-history-smithsonian-1-aug4.jpg": {
+      "num_bytes": 61869,
+      "checksum": null
+    },
+    "/workspace/image/train/vallenato-makes-history-smithsonian-1-aug7.jpg": {
+      "num_bytes": 69839,
+      "checksum": null
+    },
+    "/workspace/image/train/vallenato-makes-history-smithsonian-1-aug8.jpg": {
+      "num_bytes": 89400,
+      "checksum": null
+    },
+    "/workspace/image/train/vallenato-makes-history-smithsonian-1-aug9.jpg": {
+      "num_bytes": 74188,
+      "checksum": null
+    },
+    "/workspace/image/train/valley-farms-1-aug1.jpg": {
+      "num_bytes": 110573,
+      "checksum": null
+    },
+    "/workspace/image/train/valley-farms-1-aug10.jpg": {
+      "num_bytes": 109971,
+      "checksum": null
+    },
+    "/workspace/image/train/valley-farms-1-aug11.jpg": {
+      "num_bytes": 148680,
+      "checksum": null
+    },
+    "/workspace/image/train/valley-farms-1-aug13.jpg": {
+      "num_bytes": 137945,
+      "checksum": null
+    },
+    "/workspace/image/train/valley-farms-1-aug14.jpg": {
+      "num_bytes": 100577,
+      "checksum": null
+    },
+    "/workspace/image/train/valley-farms-1-aug17.jpg": {
+      "num_bytes": 84126,
+      "checksum": null
+    },
+    "/workspace/image/train/valley-farms-1-aug18.jpg": {
+      "num_bytes": 112347,
+      "checksum": null
+    },
+    "/workspace/image/train/valley-farms-1-aug2.jpg": {
+      "num_bytes": 122090,
+      "checksum": null
+    },
+    "/workspace/image/train/valley-farms-1-aug3.jpg": {
+      "num_bytes": 120341,
+      "checksum": null
+    },
+    "/workspace/image/train/valley-farms-1-aug4.jpg": {
+      "num_bytes": 146529,
+      "checksum": null
+    },
+    "/workspace/image/train/valley-farms-1-aug7.jpg": {
+      "num_bytes": 118458,
+      "checksum": null
+    },
+    "/workspace/image/train/valley-farms-1-aug8.jpg": {
+      "num_bytes": 142701,
+      "checksum": null
+    },
+    "/workspace/image/train/valley-farms-1-aug9.jpg": {
+      "num_bytes": 136803,
+      "checksum": null
+    },
+    "/workspace/image/train/weathervane-teapot-1-aug1.jpg": {
+      "num_bytes": 73365,
+      "checksum": null
+    },
+    "/workspace/image/train/weathervane-teapot-1-aug10.jpg": {
+      "num_bytes": 73171,
+      "checksum": null
+    },
+    "/workspace/image/train/weathervane-teapot-1-aug13.jpg": {
+      "num_bytes": 97244,
+      "checksum": null
+    },
+    "/workspace/image/train/weathervane-teapot-1-aug14.jpg": {
+      "num_bytes": 95303,
+      "checksum": null
+    },
+    "/workspace/image/train/weathervane-teapot-1-aug16.jpg": {
+      "num_bytes": 95704,
+      "checksum": null
+    },
+    "/workspace/image/train/weathervane-teapot-1-aug18.jpg": {
+      "num_bytes": 43475,
+      "checksum": null
+    },
+    "/workspace/image/train/weathervane-teapot-1-aug19.jpg": {
+      "num_bytes": 75226,
+      "checksum": null
+    },
+    "/workspace/image/train/weathervane-teapot-1-aug2.jpg": {
+      "num_bytes": 74933,
+      "checksum": null
+    },
+    "/workspace/image/train/weathervane-teapot-1-aug3.jpg": {
+      "num_bytes": 50169,
+      "checksum": null
+    },
+    "/workspace/image/train/weathervane-teapot-1-aug5.jpg": {
+      "num_bytes": 80734,
+      "checksum": null
+    },
+    "/workspace/image/train/weathervane-teapot-1-aug6.jpg": {
+      "num_bytes": 82746,
+      "checksum": null
+    },
+    "/workspace/image/train/weathervane-teapot-1-aug8.jpg": {
+      "num_bytes": 100195,
+      "checksum": null
+    },
+    "/workspace/image/train/weathervane-teapot-1-aug9.jpg": {
+      "num_bytes": 94273,
+      "checksum": null
+    },
+    "/workspace/image/train/witness-war-1-aug0.jpg": {
+      "num_bytes": 140322,
+      "checksum": null
+    },
+    "/workspace/image/train/witness-war-1-aug10.jpg": {
+      "num_bytes": 199746,
+      "checksum": null
+    },
+    "/workspace/image/train/witness-war-1-aug11.jpg": {
+      "num_bytes": 140452,
+      "checksum": null
+    },
+    "/workspace/image/train/witness-war-1-aug13.jpg": {
+      "num_bytes": 138162,
+      "checksum": null
+    },
+    "/workspace/image/train/witness-war-1-aug14.jpg": {
+      "num_bytes": 155236,
+      "checksum": null
+    },
+    "/workspace/image/train/witness-war-1-aug15.jpg": {
+      "num_bytes": 162072,
+      "checksum": null
+    },
+    "/workspace/image/train/witness-war-1-aug16.jpg": {
+      "num_bytes": 164447,
+      "checksum": null
+    },
+    "/workspace/image/train/witness-war-1-aug17.jpg": {
+      "num_bytes": 156179,
+      "checksum": null
+    },
+    "/workspace/image/train/witness-war-1-aug19.jpg": {
+      "num_bytes": 170743,
+      "checksum": null
+    },
+    "/workspace/image/train/witness-war-1-aug2.jpg": {
+      "num_bytes": 213912,
+      "checksum": null
+    },
+    "/workspace/image/train/witness-war-1-aug3.jpg": {
+      "num_bytes": 133825,
+      "checksum": null
+    },
+    "/workspace/image/train/witness-war-1-aug4.jpg": {
+      "num_bytes": 200231,
+      "checksum": null
+    },
+    "/workspace/image/train/witness-war-1-aug6.jpg": {
+      "num_bytes": 124696,
+      "checksum": null
+    },
+    "/workspace/image/test/metadata.csv": {
+      "num_bytes": 104441,
+      "checksum": null
+    },
+    "/workspace/image/validation/metadata.csv": {
+      "num_bytes": 111945,
+      "checksum": null
+    },
+    "/workspace/image/validation/1-decadrachm-syracuse-about-400-bce-1-aug0.jpg": {
+      "num_bytes": 192406,
+      "checksum": null
+    },
+    "/workspace/image/validation/1-decadrachm-syracuse-about-400-bce-2-aug9.jpg": {
+      "num_bytes": 143627,
+      "checksum": null
+    },
+    "/workspace/image/validation/1903-wright-flyer-11.jpg": {
+      "num_bytes": 225295,
+      "checksum": null
+    },
+    "/workspace/image/validation/1903-wright-flyer-2.jpg": {
+      "num_bytes": 216979,
+      "checksum": null
+    },
+    "/workspace/image/validation/1903-wright-flyer-5.jpg": {
+      "num_bytes": 227098,
+      "checksum": null
+    },
+    "/workspace/image/validation/1926-new-york-yankees-autographed-baseball-2.jpg": {
+      "num_bytes": 50875,
+      "checksum": null
+    },
+    "/workspace/image/validation/20-dollars-pattern-united-states-1879-1.jpg": {
+      "num_bytes": 109215,
+      "checksum": null
+    },
+    "/workspace/image/validation/20-dollars-pattern-united-states-1879-2.jpg": {
+      "num_bytes": 144852,
+      "checksum": null
+    },
+    "/workspace/image/validation/abraham-lincolns-coffee-cup-3.jpg": {
+      "num_bytes": 142362,
+      "checksum": null
+    },
+    "/workspace/image/validation/abraham-lincolns-coffee-cup-4.jpg": {
+      "num_bytes": 145539,
+      "checksum": null
+    },
+    "/workspace/image/validation/abraham-lincolns-watch-around-1858-1-aug2.jpg": {
+      "num_bytes": 127753,
+      "checksum": null
+    },
+    "/workspace/image/validation/abraham-lincolns-watch-around-1858-2-aug1.jpg": {
+      "num_bytes": 76464,
+      "checksum": null
+    },
+    "/workspace/image/validation/abraham-lincolns-watch-around-1858-3-aug2.jpg": {
+      "num_bytes": 300619,
+      "checksum": null
+    },
+    "/workspace/image/validation/albert-einsteins-pipe-1-aug13.jpg": {
+      "num_bytes": 36539,
+      "checksum": null
+    },
+    "/workspace/image/validation/alexander-graham-bells-large-box-telephone-1-aug10.jpg": {
+      "num_bytes": 626892,
+      "checksum": null
+    },
+    "/workspace/image/validation/apollo-17-spacesuit-1-aug5.jpg": {
+      "num_bytes": 66377,
+      "checksum": null
+    },
+    "/workspace/image/validation/apple-classic-macintosh-personal-computer-1-aug11.jpg": {
+      "num_bytes": 82050,
+      "checksum": null
+    },
+    "/workspace/image/validation/archie-bunkers-chair-all-family-1.jpg": {
+      "num_bytes": 358436,
+      "checksum": null
+    },
+    "/workspace/image/validation/beauty-broken-objects-1-aug13.jpg": {
+      "num_bytes": 851123,
+      "checksum": null
+    },
+    "/workspace/image/validation/black-gold-i-1-aug15.jpg": {
+      "num_bytes": 149233,
+      "checksum": null
+    },
+    "/workspace/image/validation/chigusa-and-art-tea-4.jpg": {
+      "num_bytes": 36090,
+      "checksum": null
+    },
+    "/workspace/image/validation/columbia-light-roadster-high-wheel-bicycle-1-aug6.jpg": {
+      "num_bytes": 48703,
+      "checksum": null
+    },
+    "/workspace/image/validation/cosmic-beadwork-1-aug17.jpg": {
+      "num_bytes": 663008,
+      "checksum": null
+    },
+    "/workspace/image/validation/crayola-crayons-2.jpg": {
+      "num_bytes": 79265,
+      "checksum": null
+    },
+    "/workspace/image/validation/crayola-crayons-4.jpg": {
+      "num_bytes": 83628,
+      "checksum": null
+    },
+    "/workspace/image/validation/design-105-taliesin-line-1.jpg": {
+      "num_bytes": 660022,
+      "checksum": null
+    },
+    "/workspace/image/validation/dm-ferry-co-seed-box-1-aug18.jpg": {
+      "num_bytes": 78969,
+      "checksum": null
+    },
+    "/workspace/image/validation/duncan-genuine-yo-yo-1-aug1.jpg": {
+      "num_bytes": 42657,
+      "checksum": null
+    },
+    "/workspace/image/validation/duryea-automobile-3.jpg": {
+      "num_bytes": 300473,
+      "checksum": null
+    },
+    "/workspace/image/validation/edison-light-bulb-1-aug5.jpg": {
+      "num_bytes": 15259,
+      "checksum": null
+    },
+    "/workspace/image/validation/evel-knievels-harley-davidson-xr-750-1.jpg": {
+      "num_bytes": 593653,
+      "checksum": null
+    },
+    "/workspace/image/validation/finery-feathered-friend-1-aug15.jpg": {
+      "num_bytes": 59496,
+      "checksum": null
+    },
+    "/workspace/image/validation/fish-going-mobile-1-aug2.jpg": {
+      "num_bytes": 73069,
+      "checksum": null
+    },
+    "/workspace/image/validation/ford-model-t-snow-attachment-1-aug7.jpg": {
+      "num_bytes": 430698,
+      "checksum": null
+    },
+    "/workspace/image/validation/george-washington-farewell-address-candle-stand-2.jpg": {
+      "num_bytes": 42978,
+      "checksum": null
+    },
+    "/workspace/image/validation/hat-symbolized-life-and-legacy-1-aug2.jpg": {
+      "num_bytes": 137820,
+      "checksum": null
+    },
+    "/workspace/image/validation/helen-kellers-watch-2.jpg": {
+      "num_bytes": 172906,
+      "checksum": null
+    },
+    "/workspace/image/validation/helen-kellers-watch-3.jpg": {
+      "num_bytes": 242604,
+      "checksum": null
+    },
+    "/workspace/image/validation/hope-diamond-16.jpg": {
+      "num_bytes": 126010,
+      "checksum": null
+    },
+    "/workspace/image/validation/hope-diamond-27.jpg": {
+      "num_bytes": 187888,
+      "checksum": null
+    },
+    "/workspace/image/validation/hope-diamond-6.jpg": {
+      "num_bytes": 166793,
+      "checksum": null
+    },
+    "/workspace/image/validation/important-pen-civil-rights-history-1-aug9.jpg": {
+      "num_bytes": 502496,
+      "checksum": null
+    },
+    "/workspace/image/validation/inline-skate-1823-1-aug7.jpg": {
+      "num_bytes": 78602,
+      "checksum": null
+    },
+    "/workspace/image/validation/kermit-frog-puppet-1.jpg": {
+      "num_bytes": 169250,
+      "checksum": null
+    },
+    "/workspace/image/validation/keys-future-1-aug4.jpg": {
+      "num_bytes": 560240,
+      "checksum": null
+    },
+    "/workspace/image/validation/kiowa-ah-day-1.jpg": {
+      "num_bytes": 149704,
+      "checksum": null
+    },
+    "/workspace/image/validation/leah-chase-queen-creole-cuisine-1-aug17.jpg": {
+      "num_bytes": 164626,
+      "checksum": null
+    },
+    "/workspace/image/validation/lewis-and-clark-expedition-pocket-compass-2.jpg": {
+      "num_bytes": 85456,
+      "checksum": null
+    },
+    "/workspace/image/validation/life-well-laughed-1-aug2.jpg": {
+      "num_bytes": 86339,
+      "checksum": null
+    },
+    "/workspace/image/validation/lucky-strike-1-aug8.jpg": {
+      "num_bytes": 1014390,
+      "checksum": null
+    },
+    "/workspace/image/validation/mary-vaux-walcott-natural-artist-1-aug4.jpg": {
+      "num_bytes": 1182109,
+      "checksum": null
+    },
+    "/workspace/image/validation/medal-purple-heart-1.jpg": {
+      "num_bytes": 940038,
+      "checksum": null
+    },
+    "/workspace/image/validation/medal-purple-heart-3.jpg": {
+      "num_bytes": 1010493,
+      "checksum": null
+    },
+    "/workspace/image/validation/mid-century-spin-weaving-1-aug2.jpg": {
+      "num_bytes": 477872,
+      "checksum": null
+    },
+    "/workspace/image/validation/nakhla-meteorite-fragment-1-aug8.jpg": {
+      "num_bytes": 103382,
+      "checksum": null
+    },
+    "/workspace/image/validation/nbc-fireside-chat-microphone-2.jpg": {
+      "num_bytes": 96274,
+      "checksum": null
+    },
+    "/workspace/image/validation/origin-species-charles-darwin-1-aug19.jpg": {
+      "num_bytes": 92743,
+      "checksum": null
+    },
+    "/workspace/image/validation/philosophy-meets-motorcycle-maintenance-road-trip-1-aug18.jpg": {
+      "num_bytes": 110967,
+      "checksum": null
+    },
+    "/workspace/image/validation/plymouth-rock-piece-1-aug7.jpg": {
+      "num_bytes": 97236,
+      "checksum": null
+    },
+    "/workspace/image/validation/pneumatic-mail-container-1-aug2.jpg": {
+      "num_bytes": 36768,
+      "checksum": null
+    },
+    "/workspace/image/validation/rock-n-roll-ride-1-aug4.jpg": {
+      "num_bytes": 51873,
+      "checksum": null
+    },
+    "/workspace/image/validation/serving-holiday-classics-1-aug0.jpg": {
+      "num_bytes": 61069,
+      "checksum": null
+    },
+    "/workspace/image/validation/sonja-henies-autographed-ice-skates-1-aug1.jpg": {
+      "num_bytes": 67176,
+      "checksum": null
+    },
+    "/workspace/image/validation/statue-liberty-souvenir-new-york-new-york-1885-5.jpg": {
+      "num_bytes": 150859,
+      "checksum": null
+    },
+    "/workspace/image/validation/stay-sharp-school-year-1-aug9.jpg": {
+      "num_bytes": 219415,
+      "checksum": null
+    },
+    "/workspace/image/validation/still-rolling-around-1-aug10.jpg": {
+      "num_bytes": 107290,
+      "checksum": null
+    },
+    "/workspace/image/validation/strong-and-lasting-bond-1-aug14.jpg": {
+      "num_bytes": 256699,
+      "checksum": null
+    },
+    "/workspace/image/validation/super-bowl-xiv-football-1-aug0.jpg": {
+      "num_bytes": 85028,
+      "checksum": null
+    },
+    "/workspace/image/validation/teapot-made-peter-bentzon-10.jpg": {
+      "num_bytes": 94038,
+      "checksum": null
+    },
+    "/workspace/image/validation/teapot-made-peter-bentzon-12.jpg": {
+      "num_bytes": 87616,
+      "checksum": null
+    },
+    "/workspace/image/validation/teapot-made-peter-bentzon-13.jpg": {
+      "num_bytes": 91182,
+      "checksum": null
+    },
+    "/workspace/image/validation/telescoping-shopping-cart-1-aug19.jpg": {
+      "num_bytes": 95161,
+      "checksum": null
+    },
+    "/workspace/image/validation/thomas-jeffersons-desk-13.jpg": {
+      "num_bytes": 64254,
+      "checksum": null
+    },
+    "/workspace/image/validation/thomas-jeffersons-desk-16.jpg": {
+      "num_bytes": 58276,
+      "checksum": null
+    },
+    "/workspace/image/validation/thomas-jeffersons-desk-2.jpg": {
+      "num_bytes": 63711,
+      "checksum": null
+    },
+    "/workspace/image/validation/thomas-jeffersons-desk-5.jpg": {
+      "num_bytes": 76168,
+      "checksum": null
+    },
+    "/workspace/image/validation/ulysses-s-grants-chair-appomattox-1.jpg": {
+      "num_bytes": 143454,
+      "checksum": null
+    },
+    "/workspace/image/validation/universal-access-flag-lap-blanket-3.jpg": {
+      "num_bytes": 491860,
+      "checksum": null
+    },
+    "/workspace/image/validation/vallenato-makes-history-smithsonian-1-aug1.jpg": {
+      "num_bytes": 66186,
+      "checksum": null
+    },
+    "/workspace/image/validation/valley-farms-1-aug19.jpg": {
+      "num_bytes": 111114,
+      "checksum": null
+    },
+    "/workspace/image/validation/weathervane-teapot-1-aug0.jpg": {
+      "num_bytes": 75473,
+      "checksum": null
+    },
+    "/workspace/image/validation/witness-war-1-aug7.jpg": {
+      "num_bytes": 159224,
+      "checksum": null
+    },
+    "/workspace/image/test/1-decadrachm-syracuse-about-400-bce-1.jpg": {
+      "num_bytes": 187692,
+      "checksum": null
+    },
+    "/workspace/image/test/1-decadrachm-syracuse-about-400-bce-2.jpg": {
+      "num_bytes": 161493,
+      "checksum": null
+    },
+    "/workspace/image/test/1903-wright-flyer-3.jpg": {
+      "num_bytes": 211170,
+      "checksum": null
+    },
+    "/workspace/image/test/1903-wright-flyer-8.jpg": {
+      "num_bytes": 228944,
+      "checksum": null
+    },
+    "/workspace/image/test/1926-new-york-yankees-autographed-baseball-3.jpg": {
+      "num_bytes": 187743,
+      "checksum": null
+    },
+    "/workspace/image/test/20-dollars-pattern-united-states-1879-3.jpg": {
+      "num_bytes": 117973,
+      "checksum": null
+    },
+    "/workspace/image/test/20-dollars-pattern-united-states-1879-4.jpg": {
+      "num_bytes": 126084,
+      "checksum": null
+    },
+    "/workspace/image/test/abraham-lincolns-coffee-cup-1.jpg": {
+      "num_bytes": 192087,
+      "checksum": null
+    },
+    "/workspace/image/test/abraham-lincolns-coffee-cup-2.jpg": {
+      "num_bytes": 197768,
+      "checksum": null
+    },
+    "/workspace/image/test/abraham-lincolns-watch-around-1858-1.jpg": {
+      "num_bytes": 161747,
+      "checksum": null
+    },
+    "/workspace/image/test/abraham-lincolns-watch-around-1858-2.jpg": {
+      "num_bytes": 153797,
+      "checksum": null
+    },
+    "/workspace/image/test/abraham-lincolns-watch-around-1858-3.jpg": {
+      "num_bytes": 376627,
+      "checksum": null
+    },
+    "/workspace/image/test/albert-einsteins-pipe-1.jpg": {
+      "num_bytes": 81002,
+      "checksum": null
+    },
+    "/workspace/image/test/alexander-graham-bells-large-box-telephone-1.jpg": {
+      "num_bytes": 2276036,
+      "checksum": null
+    },
+    "/workspace/image/test/apollo-17-spacesuit-1.jpg": {
+      "num_bytes": 123184,
+      "checksum": null
+    },
+    "/workspace/image/test/apple-classic-macintosh-personal-computer-1.jpg": {
+      "num_bytes": 141559,
+      "checksum": null
+    },
+    "/workspace/image/test/archie-bunkers-chair-all-family-4.jpg": {
+      "num_bytes": 213464,
+      "checksum": null
+    },
+    "/workspace/image/test/beauty-broken-objects-1.jpg": {
+      "num_bytes": 628705,
+      "checksum": null
+    },
+    "/workspace/image/test/black-gold-i-1.jpg": {
+      "num_bytes": 155955,
+      "checksum": null
+    },
+    "/workspace/image/test/chigusa-and-art-tea-2.jpg": {
+      "num_bytes": 27402,
+      "checksum": null
+    },
+    "/workspace/image/test/columbia-light-roadster-high-wheel-bicycle-1.jpg": {
+      "num_bytes": 82187,
+      "checksum": null
+    },
+    "/workspace/image/test/cosmic-beadwork-1.jpg": {
+      "num_bytes": 465566,
+      "checksum": null
+    },
+    "/workspace/image/test/crayola-crayons-5.jpg": {
+      "num_bytes": 121586,
+      "checksum": null
+    },
+    "/workspace/image/test/design-105-taliesin-line-2.jpg": {
+      "num_bytes": 574609,
+      "checksum": null
+    },
+    "/workspace/image/test/dm-ferry-co-seed-box-1.jpg": {
+      "num_bytes": 76472,
+      "checksum": null
+    },
+    "/workspace/image/test/duncan-genuine-yo-yo-1.jpg": {
+      "num_bytes": 27438,
+      "checksum": null
+    },
+    "/workspace/image/test/duryea-automobile-2.jpg": {
+      "num_bytes": 165753,
+      "checksum": null
+    },
+    "/workspace/image/test/edison-light-bulb-1.jpg": {
+      "num_bytes": 35533,
+      "checksum": null
+    },
+    "/workspace/image/test/evel-knievels-harley-davidson-xr-750-2.jpg": {
+      "num_bytes": 140554,
+      "checksum": null
+    },
+    "/workspace/image/test/finery-feathered-friend-1.jpg": {
+      "num_bytes": 148217,
+      "checksum": null
+    },
+    "/workspace/image/test/fish-going-mobile-1.jpg": {
+      "num_bytes": 52834,
+      "checksum": null
+    },
+    "/workspace/image/test/ford-model-t-snow-attachment-1.jpg": {
+      "num_bytes": 581341,
+      "checksum": null
+    },
+    "/workspace/image/test/george-washington-farewell-address-candle-stand-3.jpg": {
+      "num_bytes": 155283,
+      "checksum": null
+    },
+    "/workspace/image/test/hat-symbolized-life-and-legacy-1.jpg": {
+      "num_bytes": 205752,
+      "checksum": null
+    },
+    "/workspace/image/test/helen-kellers-watch-4.jpg": {
+      "num_bytes": 118919,
+      "checksum": null
+    },
+    "/workspace/image/test/helen-kellers-watch-5.jpg": {
+      "num_bytes": 122273,
+      "checksum": null
+    },
+    "/workspace/image/test/hope-diamond-15.jpg": {
+      "num_bytes": 153463,
+      "checksum": null
+    },
+    "/workspace/image/test/hope-diamond-2.jpg": {
+      "num_bytes": 57690,
+      "checksum": null
+    },
+    "/workspace/image/test/hope-diamond-9.jpg": {
+      "num_bytes": 624208,
+      "checksum": null
+    },
+    "/workspace/image/test/important-pen-civil-rights-history-1.jpg": {
+      "num_bytes": 1508695,
+      "checksum": null
+    },
+    "/workspace/image/test/inline-skate-1823-1.jpg": {
+      "num_bytes": 237130,
+      "checksum": null
+    },
+    "/workspace/image/test/kermit-frog-puppet-2.jpg": {
+      "num_bytes": 521600,
+      "checksum": null
+    },
+    "/workspace/image/test/keys-future-1.jpg": {
+      "num_bytes": 686247,
+      "checksum": null
+    },
+    "/workspace/image/test/kiowa-ah-day-2.jpg": {
+      "num_bytes": 146899,
+      "checksum": null
+    },
+    "/workspace/image/test/leah-chase-queen-creole-cuisine-1.jpg": {
+      "num_bytes": 165245,
+      "checksum": null
+    },
+    "/workspace/image/test/lewis-and-clark-expedition-pocket-compass-5.jpg": {
+      "num_bytes": 220511,
+      "checksum": null
+    },
+    "/workspace/image/test/life-well-laughed-1.jpg": {
+      "num_bytes": 87032,
+      "checksum": null
+    },
+    "/workspace/image/test/lucky-strike-1.jpg": {
+      "num_bytes": 1711797,
+      "checksum": null
+    },
+    "/workspace/image/test/mary-vaux-walcott-natural-artist-1.jpg": {
+      "num_bytes": 6363675,
+      "checksum": null
+    },
+    "/workspace/image/test/medal-purple-heart-2.jpg": {
+      "num_bytes": 217662,
+      "checksum": null
+    },
+    "/workspace/image/test/mid-century-spin-weaving-1.jpg": {
+      "num_bytes": 604999,
+      "checksum": null
+    },
+    "/workspace/image/test/nakhla-meteorite-fragment-1.jpg": {
+      "num_bytes": 99479,
+      "checksum": null
+    },
+    "/workspace/image/test/nbc-fireside-chat-microphone-3.jpg": {
+      "num_bytes": 123441,
+      "checksum": null
+    },
+    "/workspace/image/test/origin-species-charles-darwin-1.jpg": {
+      "num_bytes": 62644,
+      "checksum": null
+    },
+    "/workspace/image/test/philosophy-meets-motorcycle-maintenance-road-trip-1.jpg": {
+      "num_bytes": 109277,
+      "checksum": null
+    },
+    "/workspace/image/test/plymouth-rock-piece-1.jpg": {
+      "num_bytes": 62958,
+      "checksum": null
+    },
+    "/workspace/image/test/pneumatic-mail-container-1.jpg": {
+      "num_bytes": 35686,
+      "checksum": null
+    },
+    "/workspace/image/test/rock-n-roll-ride-1.jpg": {
+      "num_bytes": 145756,
+      "checksum": null
+    },
+    "/workspace/image/test/serving-holiday-classics-1.jpg": {
+      "num_bytes": 110876,
+      "checksum": null
+    },
+    "/workspace/image/test/sonja-henies-autographed-ice-skates-1.jpg": {
+      "num_bytes": 217373,
+      "checksum": null
+    },
+    "/workspace/image/test/statue-liberty-souvenir-new-york-new-york-1885-1.jpg": {
+      "num_bytes": 189292,
+      "checksum": null
+    },
+    "/workspace/image/test/stay-sharp-school-year-1.jpg": {
+      "num_bytes": 713692,
+      "checksum": null
+    },
+    "/workspace/image/test/still-rolling-around-1.jpg": {
+      "num_bytes": 139794,
+      "checksum": null
+    },
+    "/workspace/image/test/strong-and-lasting-bond-1.jpg": {
+      "num_bytes": 292344,
+      "checksum": null
+    },
+    "/workspace/image/test/super-bowl-xiv-football-1.jpg": {
+      "num_bytes": 71191,
+      "checksum": null
+    },
+    "/workspace/image/test/teapot-made-peter-bentzon-6.jpg": {
+      "num_bytes": 113035,
+      "checksum": null
+    },
+    "/workspace/image/test/telescoping-shopping-cart-1.jpg": {
+      "num_bytes": 108388,
+      "checksum": null
+    },
+    "/workspace/image/test/thomas-jeffersons-desk-4.jpg": {
+      "num_bytes": 62824,
+      "checksum": null
+    },
+    "/workspace/image/test/ulysses-s-grants-chair-appomattox-3.jpg": {
+      "num_bytes": 212639,
+      "checksum": null
+    },
+    "/workspace/image/test/universal-access-flag-lap-blanket-2.jpg": {
+      "num_bytes": 617911,
+      "checksum": null
+    },
+    "/workspace/image/test/vallenato-makes-history-smithsonian-1.jpg": {
+      "num_bytes": 198108,
+      "checksum": null
+    },
+    "/workspace/image/test/valley-farms-1.jpg": {
+      "num_bytes": 138625,
+      "checksum": null
+    },
+    "/workspace/image/test/weathervane-teapot-1.jpg": {
+      "num_bytes": 85192,
+      "checksum": null
+    },
+    "/workspace/image/test/witness-war-1.jpg": {
+      "num_bytes": 114689,
+      "checksum": null
+    }
+  },
+  "download_size": 221587750,
+  "features": {
+    "image": {
+      "_type": "Image"
+    },
+    "data_id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "item_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "image_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "dialog": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 222946719,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 1141252,
+      "num_examples": 819,
+      "dataset_name": "imagefolder"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 112880,
+      "num_examples": 82,
+      "dataset_name": "imagefolder"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 104837,
+      "num_examples": 74,
+      "dataset_name": "imagefolder"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

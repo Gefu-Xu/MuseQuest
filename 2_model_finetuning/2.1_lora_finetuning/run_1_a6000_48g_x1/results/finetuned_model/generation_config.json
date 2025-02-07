@@ -1,0 +1,18 @@
+{
+  "_from_model_config": true,
+  "bad_words_ids": [
+    [
+      32000
+    ],
+    [
+      32001
+    ]
+  ],
+  "bos_token_id": 1,
+  "eos_token_id": [
+    2,
+    32002
+  ],
+  "pad_token_id": 32003,
+  "transformers_version": "4.46.0"
+}

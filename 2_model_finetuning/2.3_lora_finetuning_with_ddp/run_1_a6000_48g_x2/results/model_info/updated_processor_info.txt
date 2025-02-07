@@ -1,0 +1,44 @@
+==> Regular token count: 32000, regular+special token count: 32004, bos_token: <s>, eos_token: </s>, pad_token: <pad>
+==> Processor info: Idefics2Processor:
+- image_processor: Idefics2ImageProcessor {
+  "do_convert_rgb": true,
+  "do_image_splitting": false,
+  "do_normalize": true,
+  "do_pad": true,
+  "do_rescale": true,
+  "do_resize": true,
+  "image_mean": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "image_processor_type": "Idefics2ImageProcessor",
+  "image_std": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "processor_class": "Idefics2Processor",
+  "resample": 2,
+  "rescale_factor": 0.00392156862745098,
+  "size": {
+    "longest_edge": 980,
+    "shortest_edge": 378
+  }
+}
+
+- tokenizer: LlamaTokenizerFast(name_or_path='HuggingFaceM4/idefics2-8b', vocab_size=32000, model_max_length=1000000000000000019884624838656, is_fast=True, padding_side='left', truncation_side='right', special_tokens={'bos_token': '<s>', 'eos_token': '</s>', 'unk_token': '<unk>', 'pad_token': '<pad>', 'additional_special_tokens': ['<fake_token_around_image>', '<image>', '<end_of_utterance>']}, clean_up_tokenization_spaces=False),  added_tokens_decoder={
+	0: AddedToken("<unk>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	1: AddedToken("<s>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	2: AddedToken("</s>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32000: AddedToken("<fake_token_around_image>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32001: AddedToken("<image>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32002: AddedToken("<end_of_utterance>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32003: AddedToken("<pad>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+}
+
+{
+  "image_seq_len": 64,
+  "processor_class": "Idefics2Processor"
+}
+

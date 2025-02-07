@@ -1,0 +1,2472 @@
+﻿item_id,item_name,link,train_images,validation_images,test_images,description
+0,1903-wright-flyer,https://www.si.edu/object/1903-wright-flyer:nasm_A19610048000,"1903-wright-flyer-1-aug9.jpg
+1903-wright-flyer-1.jpg
+1903-wright-flyer-14-aug10.jpg
+1903-wright-flyer-14.jpg
+1903-wright-flyer-16-aug13.jpg
+1903-wright-flyer-16-aug2.jpg
+1903-wright-flyer-16.jpg
+1903-wright-flyer-17-aug10.jpg
+1903-wright-flyer-17-aug12.jpg
+1903-wright-flyer-17.jpg","1903-wright-flyer-11.jpg
+1903-wright-flyer-2.jpg
+1903-wright-flyer-5.jpg","1903-wright-flyer-3.jpg
+1903-wright-flyer-8.jpg","Object Details
+Physical Description
+Canard biplane with one 12-horsepower Wright horizontal four-cylinder engine driving two pusher propellers via sprocket-and-chain transmission system. Non-wheeled, linear skids act as landing gear. Natural fabric finish - no sealant or paint of any kind.
+Summary
+The Wright brothers inaugurated the aerial age with the world's first successful flights of a powered heavier-than-air flying machine. The Wright Flyer was the product of a sophisticated four-year program of research and development conducted by Wilbur and Orville Wright beginning in 1899. After building and testing three full-sized gliders, the Wrights' first powered airplane flew at Kitty Hawk, North Carolina, on December 17, 1903, making a 12-second flight, traveling 36 m (120 ft), with Orville piloting. The best flight of the day, with Wilbur at the controls, covered 255.6 m (852 ft) in 59 seconds.
+The Wrights pioneered many of the basic tenets and techniques of modern aeronautical engineering, such as the use of a wind tunnel and flight testing as design tools. Their seminal accomplishment encompassed not only the breakthrough first flight of an airplane, but also the equally important achievement of establishing the foundation of aeronautical engineering.
+Long Description
+On December 17, 1903, the Wright brothers inaugurated the aerial age with their successful first flights of a heavier-than-air flying machine at Kitty Hawk, North Carolina. This airplane, known as the Wright Flyer, sometimes referred to as the Kitty Hawk Flyer, was the product of a sophisticated four-year program of research and development conducted by Wilbur and Orville Wright beginning in 1899. During the Wrights' design and construction of their experimental aircraft they also pioneered many of the basic tenets and techniques of modern aeronautical engineering, such as the use of a wind tunnel and flight testing as design tools. Their seminal accomplishment encompassed not only the breakthrough first flight of an airplane, but also the equally important achievement of establishing the foundation of aeronautical engineering.
+The Wright brothers had a passing interest in flight as youngsters. In 1878 their father gave them a toy flying helicopter model powered by strands of twisted rubber. They played and experimented with it extensively and even built several larger copies of the device. They also had some experience with kites. But not until 1896, prompted by the widely publicized fatal crash of famed glider pioneer Otto Lilienthal, did the Wrights begin serious study of flight. After absorbing what materials related to the subject the brothers had available locally, Wilbur wrote to the Smithsonian Institution on May 30, 1899, requesting any publications on aeronautics that it could offer.
+Shortly after their receipt of the Smithsonian materials, the Wrights built their first aeronautical craft, a five-foot-wingspan biplane kite, in the summer of 1899. The Wrights chose to follow Lilienthal's lead of using gliders as a stepping stone towards a practical powered airplane. The 1899 kite was built as a preliminary test device to establish the viability of the control system that they planned to use in their first full-size glider. This means of control would be a central feature of the later successful powered airplane.
+Rather than controlling the craft by altering the center of gravity by shifting the pilot's body weight as Lilienthal had done, the Wrights intended to balance their glider aerodynamically. They reasoned that if a wing generates lift when presented to an oncoming flow of air, producing differing amounts of lift on either end of the wing would cause one side to rise more than the other, which in turn would bank the entire aircraft. A mechanical means of inducing this differential lift would provide the pilot with effective lateral control of the airplane. The Wrights accomplished this by twisting, or warping, the tips of the wings in opposite directions via a series of lines attached to the outer edges of the wings that were manipulated by the pilot. The idea advanced aeronautical experimentation significantly because it provided an effective method of controlling an airplane in three-dimensional space and, because it was aerodynamically based, it did not limit the size of the aircraft as shifting body weight obviously did. The satisfactory performance of the 1899 kite demonstrated the practicality of the wing warping control system.
+Encouraged by the success of their small wing warping kite, the brothers built and flew two full-size piloted gliders in 1900 and 1901. Beyond the issue of control, the Wrights had to grapple with developing an efficient airfoil shape and solving fundamental problems of structural design. Like the kite, these gliders were biplanes. For control of climb and descent, the gliders had forward-mounted horizontal stabilizers. Neither craft had a tail. The Wrights' home of Dayton, Ohio, did not offer suitable conditions for flying the gliders. An inquiry with the U.S. Weather Bureau identified Kitty Hawk, North Carolina, with its sandy, wide-open spaces and strong, steady winds as an optimal test site. In September 1900, the Wrights made their first trip to the little fishing hamlet that they would make world famous.
+Although the control system worked well and the structural design of the craft was sound, the lift of the gliders was substantially less than the Wrights' earlier calculations had predicted. They began to question seriously the aerodynamic data that they had used. Now at a critical juncture, Wilbur and Orville decided to conduct an extensive series of tests of wing shapes. They built a small wind tunnel in the fall of 1901 to gather a body of accurate aerodynamic data with which to design their next glider. The heart of the Wright wind tunnel was the ingeniously designed pair of test instruments that were mounted inside. These measured coefficients of lift and drag on small model wing shapes, the terms in the equations for calculating lift and drag about which the brothers were in doubt.
+The Wrights' third glider, built in 1902 based on the wind tunnel experiments, was a dramatic success. The lift problems were solved, and with a few refinements to the control system (the key one being a movable vertical tail), they were able to make numerous extended controlled glides. They made between seven hundred and one thousand flights in 1902. The single best one was 191.5 m (622.5 ft) in twenty-six seconds. The brothers were now convinced that they stood at the threshold of realizing mechanical flight.
+During the spring and summer of 1903 they built their first powered airplane. Essentially a larger and sturdier version of the 1902 glider, the only fundamentally new component of the 1903 aircraft was the propulsion system. With the assistance of their bicycle shop mechanic, Charles Taylor, the Wrights built a small, twelve-horsepower gasoline engine. While the engine was a significant enough achievement, the genuinely innovative feature of the propulsion system was the propellers. The brothers conceived the propellers as rotary wings, producing a horizontal thrust force aerodynamically. By turning an airfoil section on its side and spinning it to create an air flow over the surface, the Wrights reasoned that a horizontal ""lift"" force would be generated that would propel the airplane forward. The concept was one of the most original and creative aspects of the Wrights' aeronautical work. The 1903 airplane was fitted with two propellers mounted behind the wings and connected to the engine, centrally located on the bottom wing, via a chain-and-sprocket transmission system.
+By the fall of 1903, the powered airplane was ready for trial. A number of problems with the engine transmission system delayed the first flight attempt until mid-December. After winning the toss of a coin to determine which brother would make the first try, Wilbur took the pilot's position and made an unsuccessful attempt on December 14th, damaging the Flyer slightly. Repairs were completed for a second attempt on December 17. It was now Orville's turn. At 10:35 a.m. the Flyer lifted off the beach at Kitty Hawk for a 12-second flight, traveling 36 m (120 ft). Three more flights were made that morning, the brothers alternating as pilot. The second and third were in the range of two hundred feet. With Wilbur at the controls, the fourth and last flight covered 255.6 m (852 ft) in 59 seconds. With this final long, sustained effort, there was no question the Wrights had flown.
+As the brothers and the others present discussed the long flight, a gust of wind overturned the Wright Flyer and sent it tumbling across the sand. The aircraft was severely damaged and never flown again. But the Wrights had achieved what they had set out to do. They had successfully demonstrated their design for a heavier-than-air flying machine. They built refined versions of the Flyer in 1904 and 1905, bringing the design to practicality. On October 5, 1905, with the brothers' third powered airplane, Wilbur made a spectacular 39-minute flight that covered 39.2 km (24.5 miles) over a closed course.
+After the first powered Flyer of 1903 took its destructive tumble at Kitty Hawk, the Wrights crated it and shipped it back to Dayton where it remained in storage in a shed behind their bicycle shop, untouched for more than a decade. In March 1913, Dayton was hit by a serious flood, during which the boxes containing the Flyer were submerged in water and mud for eleven days. The airplane was uncrated, for the first time since Kitty Hawk, in the summer of 1916, when Orville repaired and reassembled the airplane for brief exhibition at the Massachusetts Institute of Technology. Several other brief displays followed. It was exhibited at the New York Aero Show in 1917, at a Society of Automotive Engineers meeting in Dayton in 1918, at the New York Aero Show in 1919, and at the National Air Races in Dayton in 1924. On each of these occasions the Wright Flyer was prepared and assembled for exhibition by a Wright Company mechanic named Jim Jacobs, working under the supervision of Orville.
+In 1928 the airplane was placed on loan to the Science Museum in London. Before shipping it to Europe, Orville and Jim Jacobs refurbished the Flyer extensively. The fabric covering was replaced completely with new material, although it was of the same type as the original ""Pride of the West"" muslin. The remaining 1903 fabric that was on the airplane when it flew was saved and portions of it still exist in various places. During World War II, the airplane was kept in an underground storage facility near the village of Corsham, approximately 160 km (100 miles) from London, where various British national treasures were secured. The Flyer was not stored in the London subway as has been often asserted. The airplane was returned to the United States in 1948 and formally donated to the Smithsonian Institution in an elaborate ceremony on December 17, the 45th anniversary of the flights, and it has been on public display there ever since.
+The Flyer received some minor repairs and cleaning in 1976 just before being moved into the Smithsonian's then new National Air and Space Museum building. In 1985, the airplane was given its first major treatment since preparing it for loan to the Science Museum in late 1926 and early 1927. It was completely disassembled, the parts thoroughly cleaned and preserved, and all new fabric covering applied. A careful search was made to locate new fabric that matched the original as closely as possible. When the fabric was replaced in 1927, it was sewn on in a slightly different way than originally done by the brothers in 1903. When stitching the new fabric in 1985, a large section of original flown 1903 wing covering was available and used as a pattern, ensuring the accuracy of the 1985 restoration.
+Alternate Name
+1903 Wright Flyer
+Key Accomplishment(s)
+First Successful Powered Airplane with a Pilot Aboard
+Brief Description
+Wilbur and Orville Wright spent four years of research and development to create the first successful powered airplane, the 1903 Wright Flyer. It first flew at Kitty Hawk, North Carolina, on December 17, 1903, with Orville at the controls.
+Credit Line
+The Estate of Orville Wright
+1903
+Inventory Number
+A19610048000
+Restrictions & Rights
+CC0
+Type
+CRAFT-Aircraft
+Materials
+Airframe: Wood
+Fabric Covering: Muslin
+Engine Crankcase: Aluminum
+Dimensions
+Wingspan: 12.3 m (40 ft 4 in)
+Length: 6.4 m (21 ft 1 in)
+Height: 2.8 m (9 ft 4 in)
+Weight: Empty, 274 kg (605 lb)
+Gross, 341 kg (750 lb)
+Country of Origin
+United States of America
+See more items in
+National Air and Space Museum Collection
+Location
+National Air and Space Museum in Washington, DC
+Exhibition
+Wright Brothers & The Invention of the Aerial Age
+National Air and Space Museum
+Record ID
+nasm_A19610048000
+Metadata Usage (text)
+CC0
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/nv9aa91e7c2-85b2-4904-aff0-d990694b6f1d"
+1,1926-new-york-yankees-autographed-baseball,https://www.si.edu/object/1926-new-york-yankees-autographed-baseball:nmah_1022489,"1926-new-york-yankees-autographed-baseball-1-aug3.jpg
+1926-new-york-yankees-autographed-baseball-1-aug4.jpg
+1926-new-york-yankees-autographed-baseball-1-aug5.jpg
+1926-new-york-yankees-autographed-baseball-1-aug7.jpg
+1926-new-york-yankees-autographed-baseball-1.jpg
+1926-new-york-yankees-autographed-baseball-4-aug0.jpg
+1926-new-york-yankees-autographed-baseball-4-aug16.jpg
+1926-new-york-yankees-autographed-baseball-4-aug18.jpg
+1926-new-york-yankees-autographed-baseball-4-aug2.jpg
+1926-new-york-yankees-autographed-baseball-4-aug6.jpg
+1926-new-york-yankees-autographed-baseball-4-aug7.jpg
+1926-new-york-yankees-autographed-baseball-4-aug9.jpg
+1926-new-york-yankees-autographed-baseball-4.jpg",1926-new-york-yankees-autographed-baseball-2.jpg,1926-new-york-yankees-autographed-baseball-3.jpg,"Object Details
+signer
+Ruth, Babe
+Gehrig, Lou
+associated institution
+New York Yankees
+Description (Brief)
+This baseball was autographed by members of the 1926 New York Yankees, including future Hall of Famers George Herman ""Babe"" Ruth (1895-1948) and Lou Gehrig (1903-1941).
+Gehrig played in a record 2,130 consecutive baseball games for the Yankees before amyotrophic lateral sclerosis (ALS) forced him from the field in 1939. Gehrig's continued humility and courage while fatally ill inspired the country. ALS is still commonly referred to as Lou Gehrig's disease.
+Location
+Currently not on view
+Credit Line
+Gift of the Elliot Spencer family through Brad Spencer
+1926
+ID Number
+2002.0123.01
+accession number
+2002.0123
+catalog number
+2002.0123.01
+Object Name
+ball
+autographed baseball
+baseball, autographed
+Physical Description
+cork (center material)
+wool (layer material)
+horsehide (cover material)
+Measurements
+overall: 3 in; 7.62 cm
+See more items in
+Culture and the Arts: Sport and Leisure
+Autographed Baseballs
+1939 exhibit
+National Museum of American History
+web subject
+Sports
+Subject
+Baseball
+name of sport
+Baseball
+level of sport
+Professional
+Record ID
+nmah_1022489
+Metadata Usage (text)
+CC0
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/ng49ca746a5-bdc3-704b-e053-15f76fa0b4fa"
+2,1-decadrachm-syracuse-about-400-bce,https://www.si.edu/object/1-decadrachm-syracuse-about-400-bce:nmah_1255512,"1-decadrachm-syracuse-about-400-bce-1-aug16.jpg
+1-decadrachm-syracuse-about-400-bce-1-aug18.jpg
+1-decadrachm-syracuse-about-400-bce-1-aug4.jpg
+1-decadrachm-syracuse-about-400-bce-1-aug7.jpg
+1-decadrachm-syracuse-about-400-bce-1-aug8.jpg
+1-decadrachm-syracuse-about-400-bce-2-aug0.jpg
+1-decadrachm-syracuse-about-400-bce-2-aug12.jpg
+1-decadrachm-syracuse-about-400-bce-2-aug15.jpg
+1-decadrachm-syracuse-about-400-bce-2-aug16.jpg
+1-decadrachm-syracuse-about-400-bce-2-aug4.jpg
+1-decadrachm-syracuse-about-400-bce-2-aug5.jpg","1-decadrachm-syracuse-about-400-bce-1-aug0.jpg
+1-decadrachm-syracuse-about-400-bce-2-aug9.jpg","1-decadrachm-syracuse-about-400-bce-1.jpg
+1-decadrachm-syracuse-about-400-bce-2.jpg","Object Details
+Syracuse
+Description
+Among the most alluring coins of antiquity was the Syracuse dekadrachm. Its artistry (designed by Kimon and Euinatos, among others)and incredibly high relief have captivated coin lovers for two and a half millennia. How did the Greeks, who worked only by hand, achieve such levels of beauty?
+One of those attracted by coins such as this was a dynamic American president, Theodore Roosevelt. Roosevelt's record as a political reformer is well known. What is less recognized is his role in reforming American money. When the President compared contemporary American coins to Classical masterpieces such as this dekadrachm, he became indignant. Why, he wondered, did the powerful, young nation he was leading tolerate its pedestrian gold and silver coinage? Why couldn't American money be more artistic? Why couldn't it be as beautiful as ancient coinage? Why couldn't it feature dramatic relief, so that every facet of its design was clear for all to see? Roosevelt acted on his thought by enlisting sculptor Augustus Saint-Gaudens to design what many regard as the most beautiful American coin ever produced, the 1907 twenty-dollar gold piece.
+Location
+Currently not on view
+Credit Line
+Abraham A. Rosen
+late 5th century BCE
+ID Number
+1981.1025.0010
+accession number
+1981.1025
+catalog number
+1981.1025.0010
+Object Name
+coin
+Physical Description
+silver (overall material)
+Measurements
+overall: 34.3 mm; 1 11/32 in
+place made
+Italy: Sicily, Sicily
+Related Publication
+Zoomable Image and Details
+Glossary of Coins and Currency Terms
+Related Web Publication
+http://americanhistory.si.edu/coins/glossary.cfm
+See more items in
+Work and Industry: National Numismatic Collection
+Coins
+Numismatics
+Coins, Currency and Medals
+Legendary Coins
+National Museum of American History
+Record ID
+nmah_1255512
+Metadata Usage (text)
+CC0
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/ng49ca746aa-28d6-704b-e053-15f76fa0b4fa"
+3,20-dollars-pattern-united-states-1879,https://www.si.edu/object/20-dollars-pattern-united-states-1879:nmah_472690,"20-dollars-pattern-united-states-1879-1-aug0.jpg
+20-dollars-pattern-united-states-1879-1-aug13.jpg
+20-dollars-pattern-united-states-1879-1-aug16.jpg
+20-dollars-pattern-united-states-1879-1-aug2.jpg
+20-dollars-pattern-united-states-1879-1-aug3.jpg
+20-dollars-pattern-united-states-1879-2-aug10.jpg
+20-dollars-pattern-united-states-1879-2-aug12.jpg
+20-dollars-pattern-united-states-1879-2-aug18.jpg
+20-dollars-pattern-united-states-1879-2-aug3.jpg
+20-dollars-pattern-united-states-1879-2-aug6.jpg
+20-dollars-pattern-united-states-1879-2-aug9.jpg","20-dollars-pattern-united-states-1879-1.jpg
+20-dollars-pattern-united-states-1879-2.jpg","20-dollars-pattern-united-states-1879-3.jpg
+20-dollars-pattern-united-states-1879-4.jpg","Object Details
+U.S. Mint
+Description
+United States Mint, Philadelphia. Obverse: Liberty head left, date below, weight and fineness around. Reverse: Eagle as on normal twenty-dollar coin, but Latin motto DEO EST GLORIA in place of IN GOD WE TRUST. This pattern came from the same impetus that led to the creation of the four-dollar gold coin, or Stella. The aim was to give American coinage a greater competitiveness and convertibility in international markets. Nine of these pieces are accounted for in gold including this one. [reference no. Judd 1643]
+Location
+Currently not on view
+Credit Line
+Harvey G. and Lawrence R. Stack
+1879
+ID Number
+1994.0371.0001
+accession number
+1994.0371
+catalog number
+1994.0371.0001
+Object Name
+coin
+Physical Description
+gold (overall material)
+Measurements
+overall: .2 cm x 3.4 cm; 3/32 in x 1 11/32 in
+Place Made
+United States
+Related Publication
+Glossary of Coins and Currency Terms
+Related Web Publication
+http://americanhistory.si.edu/coins/glossary.cfm
+See more items in
+Work and Industry: National Numismatic Collection
+Coins, Currency and Medals
+National Museum of American History
+Record ID
+nmah_472690
+Metadata Usage (text)
+CC0
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/ng49ca746ab-b39c-704b-e053-15f76fa0b4fa"
+4,abraham-lincolns-coffee-cup,https://www.si.edu/newsdesk/snapshot/abraham-lincolns-coffee-cup,"abraham-lincolns-coffee-cup-3-aug16.jpg
+abraham-lincolns-coffee-cup-3-aug19.jpg
+abraham-lincolns-coffee-cup-3-aug3.jpg
+abraham-lincolns-coffee-cup-3-aug6.jpg
+abraham-lincolns-coffee-cup-3-aug8.jpg
+abraham-lincolns-coffee-cup-4-aug1.jpg
+abraham-lincolns-coffee-cup-4-aug16.jpg
+abraham-lincolns-coffee-cup-4-aug19.jpg
+abraham-lincolns-coffee-cup-4-aug3.jpg
+abraham-lincolns-coffee-cup-4-aug4.jpg
+abraham-lincolns-coffee-cup-4-aug7.jpg","abraham-lincolns-coffee-cup-3.jpg
+abraham-lincolns-coffee-cup-4.jpg","abraham-lincolns-coffee-cup-1.jpg
+abraham-lincolns-coffee-cup-2.jpg","Abraham Lincoln's Coffee Cup, 1887, Gift of Lincoln Isham, great-grandson of Abraham Lincoln, 1958, Smithsonian's National Museum of American History
+
+Richmond had fallen. Lee had surrendered. The war was finally coming to an end. It was time to celebrate the victory, unify the American people and rebuild the nation.
+
+On the evening of Good Friday, April 14, 1865, President Abraham Lincoln decided to spend a relaxing evening at Ford's Theatre. He would never return to the White House.
+
+Years later, in 1887, Capt. D.W. Taylor presented this cup to Robert Todd Lincoln, the oldest of Abraham and Mary Lincoln's four sons. He explained that a White House servant had seen the President leave the cup behind on a windowsill just before departing for the theater and had preserved it as a relic of that tragic night.
+
+View more images of the coffee cup.
+
+Object Details
+associated person
+Lincoln, Abraham
+associated institution
+White House, The
+Description
+Richmond had fallen. Lee had surrendered. The war was finally coming to an end. It was time to celebrate the victory, unify the American people, and rebuild the nation. On the evening of Good Friday, April 14, Lincoln decided to spend a relaxing evening at the Ford's Theatre.
+After dressing for the evening, a White House servant observed the president leaving behind this cup on a windowsill just before departing. The servant preserved it as a relic of that tragic night. Years later Capt. D. W. Taylor presented this cup to Robert Todd Lincoln, Lincoln's eldest son, who maintained it as a family heirloom.
+Gift of Lincoln Isham, great-grandson of Abraham Lincoln, 1958
+Credit Line
+Lincoln Isham
+ID Number
+PL.219098.09
+catalog number
+219098.09
+accession number
+219098
+Object Name
+cup
+Physical Description
+purple; white, gold trim (overall color)
+ceramic (overall material)
+Measurements
+overall: 3 1/4 in x 3 7/8 in; 8.255 cm x 9.8425 cm
+part:: 1 1/4 in; 3.175 cm
+Related Publication
+Rubenstein, Harry R.. Abraham Lincoln: An Extraordinary Life
+See more items in
+Political History: Political History, White House/First Ladies Collection
+Government, Politics, and Reform
+Selections from the Abraham Lincoln Collection
+Exhibition
+First Ladies
+Exhibition Location
+National Museum of American History
+National Museum of American History
+Record ID
+nmah_515538
+Metadata Usage (text)
+CC0
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/ng49ca746a3-3870-704b-e053-15f76fa0b4fa"
+5,abraham-lincolns-watch-around-1858,https://www.si.edu/object/abraham-lincolns-watch-around-1858:nmah_516567,"abraham-lincolns-watch-around-1858-1-aug13.jpg
+abraham-lincolns-watch-around-1858-1-aug4.jpg
+abraham-lincolns-watch-around-1858-1-aug7.jpg
+abraham-lincolns-watch-around-1858-1-aug9.jpg
+abraham-lincolns-watch-around-1858-2-aug18.jpg
+abraham-lincolns-watch-around-1858-2-aug4.jpg
+abraham-lincolns-watch-around-1858-3-aug1.jpg
+abraham-lincolns-watch-around-1858-3-aug3.jpg
+abraham-lincolns-watch-around-1858-3-aug8.jpg","abraham-lincolns-watch-around-1858-1-aug2.jpg
+abraham-lincolns-watch-around-1858-2-aug1.jpg
+abraham-lincolns-watch-around-1858-3-aug2.jpg","abraham-lincolns-watch-around-1858-1.jpg
+abraham-lincolns-watch-around-1858-2.jpg
+abraham-lincolns-watch-around-1858-3.jpg","Object Details
+associated person
+Lincoln, Abraham
+Description
+Lincoln's English gold watch was purchased in the 1850s from George Chatterton, a Springfield, Illinois, jeweler. Lincoln was not considered to be outwardly vain, but the fine gold watch was a conspicuous symbol of his success as a lawyer.
+The watch movement and case, as was often typical of the time, were produced separately. The movement was made in Liverpool, where a large watch industry manufactured watches of all grades. An unidentified American shop made the case. The Lincoln watch has one of the best grade movements made in England and can, if in good order, keep time to within a few seconds a day. The 18K case is of the best quality made in the US.
+A Hidden Message
+Just as news reached Washington that Confederate forces had fired on Fort Sumter on April 12, 1861, watchmaker Jonathan Dillon was repairing Abraham Lincoln's timepiece. Caught up in the moment, Dillon unscrewed the dial and engraved: ""April 13, 1861 Fort Sumpter was attacked by the rebels on the above date J Dillon April 13, 1861 Washington"" and ""thank God we have a government Jonth Dillon.""
+In 1864 a second watchmaker, L. E. Gross, signed his name. Also, at some point someone etched ""Jeff Davis"" inside the watch, either as a joke or a statement of support for the Confederacy.
+Lincoln never knew about the messages he carried in his watch. The inscription remained hidden behind the dial for over a century. After hearing from Jonathan Dillon's great-great-grandson, the Museum removed the dial on March 10, 2009, to reveal the watchmakers' declarations.
+Gift of Lincoln Isham, great-grandson of Abraham Lincoln, 1958
+Location
+Currently not on view
+Credit Line
+gift of Lincoln Isham
+ID Number
+PL.219098.01
+catalog number
+219098.01
+accession number
+219098
+Object Name
+watch, pocket
+Physical Description
+gold; glass (watch material)
+metal (key material)
+gold (watch chain material)
+wood; metal; fabric (box material)
+Measurements
+watch: 2 in x 3 in x 1/2 in; 5.08 cm x 7.62 cm x 1.27 cm
+watch chain: 13 in; 33.02 cm
+Related Publication
+Rubenstein, Harry R.. Abraham Lincoln: An Extraordinary Life
+See more items in
+Political History: Political History, Presidential History Collection
+Government, Politics, and Reform
+Clothing & Accessories
+Selections from the Abraham Lincoln Collection
+National Museum of American History
+related event
+Battle of Fort Sumter, 1861
+Record ID
+nmah_516567
+Metadata Usage (text)
+CC0
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/ng49ca746a3-298b-704b-e053-15f76fa0b4fa"
+6,albert-einsteins-pipe,https://www.si.edu/newsdesk/snapshot/albert-einsteins-pipe,"albert-einsteins-pipe-1-aug0.jpg
+albert-einsteins-pipe-1-aug11.jpg
+albert-einsteins-pipe-1-aug12.jpg
+albert-einsteins-pipe-1-aug15.jpg
+albert-einsteins-pipe-1-aug16.jpg
+albert-einsteins-pipe-1-aug19.jpg
+albert-einsteins-pipe-1-aug2.jpg
+albert-einsteins-pipe-1-aug4.jpg
+albert-einsteins-pipe-1-aug5.jpg
+albert-einsteins-pipe-1-aug6.jpg
+albert-einsteins-pipe-1-aug7.jpg
+albert-einsteins-pipe-1-aug8.jpg
+albert-einsteins-pipe-1-aug9.jpg",albert-einsteins-pipe-1-aug13.jpg,albert-einsteins-pipe-1.jpg,"Smithsonian's National Museum of American History
+Albert Einstein's Pipe, c. 1948
+
+Albert Einstein, creator of the theory of relativity, Nobel Prize winner and striver for world peace, is almost as well known for his physical appearance as for his epochal work in theoretical physics. Characteristic of that appearance was a pipe. Although in his later years he restricted his smoking on doctors' orders, he could not bear to give up the tactile experience of a pipe itself.
+
+This one, in fact, gives evidence of Einstein's long usage in a hole he wore through its bit. In 1948, Einstein gave it to his friend and admirer, Gina Plunguian. The Smithsonian acquired it in 1979.
+
+This object is one of more than 1,000 artifacts, works of art and specimens on view at Smithsonian Affiliates across the country, and one of 137 million in the Smithsonian's collection. It is on display at the National Museum of American Jewish History, a Smithsonian Affiliate in Philadelphia."
+7,alexander-graham-bells-large-box-telephone,https://www.si.edu/newsdesk/snapshot/alexander-graham-bells-large-box-telephone,"alexander-graham-bells-large-box-telephone-1-aug0.jpg
+alexander-graham-bells-large-box-telephone-1-aug13.jpg
+alexander-graham-bells-large-box-telephone-1-aug15.jpg
+alexander-graham-bells-large-box-telephone-1-aug17.jpg
+alexander-graham-bells-large-box-telephone-1-aug18.jpg
+alexander-graham-bells-large-box-telephone-1-aug19.jpg
+alexander-graham-bells-large-box-telephone-1-aug2.jpg
+alexander-graham-bells-large-box-telephone-1-aug3.jpg
+alexander-graham-bells-large-box-telephone-1-aug4.jpg
+alexander-graham-bells-large-box-telephone-1-aug5.jpg
+alexander-graham-bells-large-box-telephone-1-aug6.jpg
+alexander-graham-bells-large-box-telephone-1-aug7.jpg
+alexander-graham-bells-large-box-telephone-1-aug8.jpg",alexander-graham-bells-large-box-telephone-1-aug10.jpg,alexander-graham-bells-large-box-telephone-1.jpg,"National Museum of American History
+
+On March 7, 1876, Alexander Graham Bell, scientist, inventor and innovator, received the first patent for an “apparatus for transmitting vocal or other sounds telegraphically,” a device he called the telephone.
+
+On March 10, 1876, three days after his patent was issued, Bell and his assistant, Thomas Watson, made the first successfully transmitted message. Pressing the receiver against his ear, Watson heard Bell's message: “Mr. Watson, come here, I want to see you.”
+
+This is one of two telephones used by Bell in a demonstration between Boston and Salem, Mass., Nov. 26, 1876. It features an iron diaphragm, two electromagnets and a horseshoe permanent magnet. Unlike other so-called “box telephones” in the Smithsonian collection, it does not have a wooden cover.
+
+The Smithsonian collected this telephone primarily for its role in the Boston to Salem demonstration; it was acquired in 1923 from American Telephone & Telegraph Co. The Smithsonian's National Museum of American History has a collection of almost 1,000 objects that are used to explore the origin and development of telephone technology. This box telephone, as part of that collection, helps experts understand and present the history of telephony.
+
+This item is one of 137 million artifacts, works of art and specimens in the Smithsonian's collection. It will be on display in “American Stories,” a long-term exhibition beginning April 5 at the National Museum of American History.
+
+For more info, visit the National Museum of American History's website. To view photos, sculptures and portraits of Alexander Graham Bell, visit the Smithsonian's National Portrait Gallery website."
+8,apollo-17-spacesuit,https://www.si.edu/newsdesk/snapshot/apollo-17-spacesuit,"apollo-17-spacesuit-1-aug0.jpg
+apollo-17-spacesuit-1-aug1.jpg
+apollo-17-spacesuit-1-aug10.jpg
+apollo-17-spacesuit-1-aug12.jpg
+apollo-17-spacesuit-1-aug15.jpg
+apollo-17-spacesuit-1-aug16.jpg
+apollo-17-spacesuit-1-aug17.jpg
+apollo-17-spacesuit-1-aug19.jpg
+apollo-17-spacesuit-1-aug2.jpg
+apollo-17-spacesuit-1-aug3.jpg
+apollo-17-spacesuit-1-aug4.jpg
+apollo-17-spacesuit-1-aug7.jpg
+apollo-17-spacesuit-1-aug9.jpg",apollo-17-spacesuit-1-aug5.jpg,apollo-17-spacesuit-1.jpg,"Smithsonian's National Air and Space Museum
+
+Apollo 17 Spacesuit, 1972
+
+Apollo 17 was the last Apollo mission to land men on the moon. It was launched by a Saturn V rocket Dec. 7, 1972, carrying Commander Eugene Cernan, command module pilot Ron Evans and lunar module pilot Harrison Schmitt, the only geologist to walk on the moon.
+
+While Evans remained in lunar orbit in the command/service module, Cernan and Schmitt landed lunar module “Challenger” in the Taurus-Littrow region of the moon. They spent three days conducting three periods of extra-vehicular activity, or moonwalks, where they collected lunar samples and deployed scientific instruments.
+
+While collecting a record 110 kilograms of lunar samples, they spent 22 hours outside of the lunar module and drove the lunar roving vehicle 35 kilometers. The crew landed in the Pacific Ocean Dec. 19, 1972.
+
+Cernan still holds the distinction of being the last man to walk on the Moon; no humans have visited the moon since Dec. 14, 1972. This is Cernan's spacesuit—the last spacesuit worn on the moon. When combined with the portable life-support system and other components making up the extra-vehicular mobility unit, it weighed about 185 pounds on Earth. It was transferred to the Smithsonian's National Air and Space Museum from NASA in 1974.
+
+This item is one of 137 million artifacts, works of art and specimens in the Smithsonian's collection.
+
+For more info, visit https://airandspace.si.edu/collection-objects/pressure-suit-a7-lb-cernan...."
+9,apple-classic-macintosh-personal-computer,https://www.si.edu/newsdesk/snapshot/apple-classic-macintosh-personal-computer,"apple-classic-macintosh-personal-computer-1-aug1.jpg
+apple-classic-macintosh-personal-computer-1-aug12.jpg
+apple-classic-macintosh-personal-computer-1-aug13.jpg
+apple-classic-macintosh-personal-computer-1-aug15.jpg
+apple-classic-macintosh-personal-computer-1-aug16.jpg
+apple-classic-macintosh-personal-computer-1-aug18.jpg
+apple-classic-macintosh-personal-computer-1-aug2.jpg
+apple-classic-macintosh-personal-computer-1-aug3.jpg
+apple-classic-macintosh-personal-computer-1-aug4.jpg
+apple-classic-macintosh-personal-computer-1-aug6.jpg
+apple-classic-macintosh-personal-computer-1-aug7.jpg
+apple-classic-macintosh-personal-computer-1-aug8.jpg
+apple-classic-macintosh-personal-computer-1-aug9.jpg",apple-classic-macintosh-personal-computer-1-aug11.jpg,apple-classic-macintosh-personal-computer-1.jpg,"Smithsonian's National Museum of American History
+
+Apple ""Classic"" Macintosh Personal Computer, 1984
+
+In January 1984, Apple Inc. introduced a graphic user interface to the Apple line of computers. The idea had originated at Xerox's Palo Alto Research Center in the 1970s, but Xerox was slow to commercialize it. Apple proved far more successful when it introduced the Macintosh Jan. 22, 1984, with a splashy television advertisement during Super Bowl XVIII. The original price was around $2,500.
+
+Instead of typing out names of programs on command lines, users with a GUI could click ""icons,"" or pictures, that represented the programs they wanted to run. They could also execute functions like saving, moving or deleting files by clicking and dragging the icons around the screen with a pointing device called a mouse. Apple's version of the mouse had a single button, which became an Apple standard.
+
+The first Macintosh had only 128K RAM, and users quickly found this insufficient. The Macintosh 512 KB, nicknamed ""Fat Mac,"" was introduced in September 1984. It gave users four times as much memory and allowed them to keep several major programs open simultaneously. The vertical processor case and 9 inch monochrome screen were distinguishing features of all the early Macintosh line.
+
+The Macintosh 512 KB contained a Motorola 68000 microprocessor that ran at 8 MHz. It contained 512 KB of RAM, 64 KB of ROM and initially had a 400 KB floppy disk drive. Applications included MacWrite, a word processor, and MacPaint, a drawing program that turned the mouse into a paintbrush.
+
+Shortly after the 512 KB appeared, Apple also introduced a LaserWriter printer, which enabled desktop publishing for individuals and small businesses.
+
+Apple discontinued the ""Mac Classic"" line of computers in April 1986."
+10,archie-bunkers-chair-all-family,https://www.si.edu/object/archie-bunkers-chair-all-family:nmah_670097,"archie-bunkers-chair-all-family-2-aug0.jpg
+archie-bunkers-chair-all-family-2-aug1.jpg
+archie-bunkers-chair-all-family-2-aug10.jpg
+archie-bunkers-chair-all-family-2-aug3.jpg
+archie-bunkers-chair-all-family-2-aug4.jpg
+archie-bunkers-chair-all-family-2-aug7.jpg
+archie-bunkers-chair-all-family-2-aug8.jpg
+archie-bunkers-chair-all-family-2.jpg
+archie-bunkers-chair-all-family-3-aug10.jpg
+archie-bunkers-chair-all-family-3-aug11.jpg
+archie-bunkers-chair-all-family-3-aug14.jpg
+archie-bunkers-chair-all-family-3-aug18.jpg
+archie-bunkers-chair-all-family-3.jpg",archie-bunkers-chair-all-family-1.jpg,archie-bunkers-chair-all-family-4.jpg,"Object Details
+T. A. T. Productions
+O'Connor, Carroll
+Description (Brief)
+Upholstered wing chair used by Archie Bunker (portrayed by Carroll O'Connor) in the television series All in the Family. The chair is upholstered in an orange-yellow woven fabric and has a wooden frame with wooden arms and legs. The chair was likely made in the 1940s, but its exact date of manufacture and maker are unknown; the chair was purchased for the show's production from a thrift store in Southern California and used until the final season, when a reproduction was made after this chair was donated to the Smithsonian.
+All in the Family was a sitcom that aired on the CBS television network from 1971-1979. The series, created and produced by Norman Lear and Alan David “Bud” Yorkin, was one of the most popular and influential television programs of the twentieth century. It was the top-rated show on American television for five of its nine seasons, earned 22 Emmy awards, produced five direct spinoff series, and became a cultural touchstone for an entire generation. Before the series' premiere, most sitcoms had only lightly discussed political issues and social change, focusing instead on family matters and character foibles. Lear and Yorkin thought television should do more, depicting ""real people dealing with real issues,"" and developed All in the Family to explore how American families were experiencing and debating contemporary issues and events. The duo was inspired by the British series Till Death Do Us Part, which focused on a family grappling with the social changes and political tumult of the 1960s, representing the “generation gap” of values and viewpoints between the baby boomers and their parents.
+Set in Queens, New York, All in the Family followed the working-class Bunker family: Archie (played by Carroll O'Connor), a blue-collar World War II veteran and outspoken conservative, kindhearted wife and mother Edith (played by Jean Stapleton), college-aged liberal feminist daughter Gloria (played by Sally Struthers), and her husband, progressive graduate student Michael ""Meathead"" Stivic (played by Rob Reiner). Archie frequently butted heads with Meathead and Gloria, demonstrating his intolerance and ignorance on issues of race, ethnicity, gender, sexuality, and civil, women's, and LGBTQ rights. Supporting characters introduced as foils to Archie including black neighbors the Jeffersons (Sherman Hemsley and Isabel Sanford) and Edith's cousin Maude (Bea Arthur) proved popular enough to warrant their own spinoff series. The show's theme song, “Those Were the Days,” was a nostalgic pean to the 1930s and Lear had the show's set designers dress the Bunker house set in drab, sepia-toned furniture, props, and textiles to make viewers feel as if they were looking at an old family photo album.
+Credit Line
+Gift of Tandem/TAT Productions
+before 1970
+ID Number
+1978.2146.01
+accession number
+1978.2146
+catalog number
+1978.2146.01
+Object Name
+chair
+Object Type
+Chair
+Physical Description
+wood (frame; arms; legs; stretcher material)
+fabric (upholstery material)
+Measurements
+overall: 40 in x 26 in x 31 in; 101.6 cm x 66.04 cm x 78.74 cm
+Related Publication
+Kendrick, Kathleen M. and Peter C. Liebhold. Smithsonian Treasures of American History
+National Museum of American History. Treasures of American History online exhibition
+Related Web Publication
+http://americanhistory.si.edu/treasures
+See more items in
+Culture and the Arts: Entertainment
+Popular Entertainment
+Highlights from the Culture and the Arts Collection
+National Treasures exhibit
+Domestic Furnishings
+Exhibition
+Entertainment Nation
+Exhibition Location
+National Museum of American History
+National Museum of American History
+general subject association
+Television
+used
+All in the Family {Television Program}
+general subject association
+Television
+Record ID
+nmah_670097
+Metadata Usage (text)
+CC0
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/ng49ca746a4-c95d-704b-e053-15f76fa0b4fa"
+11,beauty-broken-objects,https://www.si.edu/newsdesk/snapshot/beauty-broken-objects,"beauty-broken-objects-1-aug0.jpg
+beauty-broken-objects-1-aug11.jpg
+beauty-broken-objects-1-aug14.jpg
+beauty-broken-objects-1-aug16.jpg
+beauty-broken-objects-1-aug18.jpg
+beauty-broken-objects-1-aug19.jpg
+beauty-broken-objects-1-aug2.jpg
+beauty-broken-objects-1-aug3.jpg
+beauty-broken-objects-1-aug4.jpg
+beauty-broken-objects-1-aug5.jpg
+beauty-broken-objects-1-aug6.jpg
+beauty-broken-objects-1-aug8.jpg
+beauty-broken-objects-1-aug9.jpg",beauty-broken-objects-1-aug13.jpg,beauty-broken-objects-1.jpg,"Tea bowl, Satsuma ware, White Satsuma type, Kagoshima prefecture, Japan, 17th century, Edo period, Stoneware with clear, crackled glaze, stained by ink; gold lacquer repairs, F1904.323.
+
+Broken at some point in its past, this tea bowl in the Smithsonian's Freer Gallery of Art was repaired with a Japanese technique known as kintsugi (golden joinery) or kintsuguroi (golden repairs). Unlike many restoration techniques that work to hide previous damage, this technique not only accepts but highlights the life of the object. The repairs were done using lacquer, a natural resin made from tree sap. Related to poison ivy, the sap is toxic when in liquid form, but once cured it is harmless. Often referred to as a natural plastic, lacquer results in a relatively water-resistant and durable repair, but requires a time-consuming, multi-step process.
+
+Lacquer has been used to repair ceramics in Asia since prehistoric times but only started being decorated with gold several centuries ago in Japan. The exact origins of kintsugi are unknown, but it appears to have become more widespread in Japan when associated with the practice of tea in the late 16th century. Sprinkled with powdered gold, the lacquer repairs have become an integral part of the tea bowl's appearance. "
+12,black-gold-i,https://www.si.edu/object/black-gold-i:nmafa_2008-2-1,"black-gold-i-1-aug0.jpg
+black-gold-i-1-aug1.jpg
+black-gold-i-1-aug11.jpg
+black-gold-i-1-aug12.jpg
+black-gold-i-1-aug13.jpg
+black-gold-i-1-aug14.jpg
+black-gold-i-1-aug17.jpg
+black-gold-i-1-aug2.jpg
+black-gold-i-1-aug3.jpg
+black-gold-i-1-aug5.jpg
+black-gold-i-1-aug6.jpg
+black-gold-i-1-aug7.jpg
+black-gold-i-1-aug9.jpg",black-gold-i-1-aug15.jpg,black-gold-i-1.jpg,"Object Details
+Yinka Shonibare, born 1962, London, United Kingdom
+Label Text
+Shonibare's early paintings comprise small square canvases presented in a grid format upon a square or rectangular background color. More recently, they have featured small roundels on circular or oval painted backgrounds; and his latest works, with their glistening black splatter forms across the gallery wall, break down the idea of the border or edge altogether. Referencing ""black gold,"" or Africa's rich oil resources, splatter paintings such as this one also recall the extravagant splashes and drips of the American abstract expressionist painter Jackson Pollock--to which they form a playful response.
+(Yinka Shonibare MBE, Virtual exhibition website)
+Description
+25 circular canvases of varying dimensions arranged on a large-scale ink splatter pattern (applied by template). Each canvas consists of foliate patterns painted in black and gold paint on either edges or surface of stretched Dutch wax printed fabrics.
+Exhibition History
+Environment and Object in Recent African Art, The Frances Young Tang Teaching Museum and Art Gallery at Skidmore College, Saratoga Springs, New York, February 5-July 31, 2011
+Yinka Shonibare MBE, Museum of Contemporary Art, Sydney, Australia, September 24, 2008-February 1, 2009; Brooklyn Museum, June 26-September 20, 2009; National Museum of African Art, Smithsonian Institution, Washington, D.C., November 10, 2009-March 7, 2010
+Published References
+Aronson, Lisa and John S. Weber. 2012. Environment and Object: Recent African Art. New York: Prestel, pp. 46-49.
+Milbourne, Karen E. 2009. Yinka Shonibare MBE. Exhibition brochure. Washington, D.C.: National Museum of African Art, Smithsonian Institution.
+Shonibare, Yinka. 2008. Yinka Shonibare, MBE. Munich; New York: Prestel, pp. 158-159, 215.
+Content Statement
+As part of our commitment to accessibility and transparency, the Smithsonian National Museum of African Art is placing its collection records online. Please note that some records are incomplete (missing image or content descriptions) and others reflect out-of-date language or systems of thought regarding how to engage with and discuss cultural heritage and the specifics of individual artworks. If you see content requiring immediate action, we will do our best to address it in a timely manner. Please email nmafacuratorial@si.edu if you have any questions.
+Image Requests
+High resolution digital images are not available for some objects. For publication quality photography and permissions, please contact the Eliot Elisofon Photographic Archives at https://africa.si.edu/research/eliot-elisofon-photographic-archives/
+Credit Line
+Museum purchase
+2006
+Object number
+2008-2-1
+Restrictions & Rights
+Usage conditions apply
+Copyright
+(c) 2006 Yinka Shonibare, MBE
+Type
+Painting
+Medium
+Acrylic paint on Dutch wax printed cotton canvas
+Dimensions
+H x W: 330 x 673 cm (129 15/16 x 264 15/16 in.)
+Geography
+Nigeria
+See more items in
+National Museum of African Art Collection
+National Museum of African Art
+Record ID
+nmafa_2008-2-1
+Metadata Usage (text)
+Usage conditions apply
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/ys7b3f55500-88ad-44a2-bd37-447b765aff6b"
+13,chigusa-and-art-tea,https://www.si.edu/newsdesk/snapshot/chigusa-and-art-tea,"chigusa-and-art-tea-1-aug1.jpg
+chigusa-and-art-tea-1-aug14.jpg
+chigusa-and-art-tea-1-aug5.jpg
+chigusa-and-art-tea-1-aug7.jpg
+chigusa-and-art-tea-1-aug8.jpg
+chigusa-and-art-tea-1-aug9.jpg
+chigusa-and-art-tea-1.jpg
+chigusa-and-art-tea-3-aug10.jpg
+chigusa-and-art-tea-3-aug17.jpg
+chigusa-and-art-tea-3-aug6.jpg
+chigusa-and-art-tea-3-aug7.jpg
+chigusa-and-art-tea-3-aug9.jpg
+chigusa-and-art-tea-3.jpg",chigusa-and-art-tea-4.jpg,chigusa-and-art-tea-2.jpg,"Arthur M. Sackler Gallery
+
+Chigusa and the Art of Tea
+
+The power of seeing, the power of owning, the power of naming, the power of displaying, the power of writing: Japanese collectors have long engaged with objects through the formalized tea presentation called chanoyu. They gave added distinction to stellar tea-leaf storage jars by awarding them personal names and adorning them with precious textiles.
+
+This powerful process of seeing and naming created the tea-leaf storage jar named Chigusa. It transformed an imported Chinese jar from a practical container into a vessel worthy of display, ornament and contemplation, although its practicality did not cease to be important. Remarkably, diaries kept by 16th-century tea participants record in great detail what they admired when viewing Chigusa. The diaries allow us to see the jar through the eyes of these tea men.
+
+According to the tea diaries, when Chigusa was displayed for guests in the tearoom, it was dressed in ornamental silks of specified types—a mouth cover made of antique Chinese fabric and a net bag that enclosed the jar's body. In later periods, sets of thick silk cords were added. These high-quality accessories were chosen to honor Chigusa's prominent status.
+
+The exhibition “Chigusa and the Art of Tea” is at the Smithsonian's Arthur M. Sackler Gallery through July 27, 2014."
+14,columbia-light-roadster-high-wheel-bicycle,https://www.si.edu/newsdesk/snapshot/columbia-light-roadster-high-wheel-bicycle,"columbia-light-roadster-high-wheel-bicycle-1-aug1.jpg
+columbia-light-roadster-high-wheel-bicycle-1-aug10.jpg
+columbia-light-roadster-high-wheel-bicycle-1-aug11.jpg
+columbia-light-roadster-high-wheel-bicycle-1-aug12.jpg
+columbia-light-roadster-high-wheel-bicycle-1-aug13.jpg
+columbia-light-roadster-high-wheel-bicycle-1-aug16.jpg
+columbia-light-roadster-high-wheel-bicycle-1-aug17.jpg
+columbia-light-roadster-high-wheel-bicycle-1-aug18.jpg
+columbia-light-roadster-high-wheel-bicycle-1-aug3.jpg
+columbia-light-roadster-high-wheel-bicycle-1-aug4.jpg
+columbia-light-roadster-high-wheel-bicycle-1-aug7.jpg
+columbia-light-roadster-high-wheel-bicycle-1-aug8.jpg
+columbia-light-roadster-high-wheel-bicycle-1-aug9.jpg",columbia-light-roadster-high-wheel-bicycle-1-aug6.jpg,columbia-light-roadster-high-wheel-bicycle-1.jpg,"National Museum of American History
+
+What comes to mind when thinking about spring—taking the bike out for a long ride? March 20 marks the first day of spring this year. This week's Smithsonian Snapshot celebrates the spring season with an original 1886 Columbia Light Roadster high-wheel bicycle.
+
+Sold originally for approximately $135, this bicycle was made by the Pope Manufacturing Co., the first company to manufacture bicycles in the U.S. This bicycle was available with seven sizes of front wheel, from 47 to 59 inches, and two sizes of rear wheel, 16 or 18 inches. This example is fitted with a 60-spoke, 53-inch front wheel, and a 20-spoke, 18-inch rear wheel.
+
+This group photo shows cyclists in one of America's first organized biking tours. The first rider is Charles E. Pratt, first president of the League of American Wheelmen, a national membership organization for cyclists. The riders are lined up outside Readville, Mass., in 1879.
+
+Established in 1889, the Smithsonian's cycle collection has 60 velocipedes, high-wheel bicycles and safety bicycles. These items reflect the technological developments and popularity of biking beginning in the late 19th century.
+
+These items are two of 137 million artifacts, works of art and specimens in the Smithsonian's collection. They are not currently on display. For more info about them, visit the museum's website.
+
+To view bicycle advertisements and catalogs from the late 1800s, visit the Smithsonian Institution Libraries' website."
+15,cosmic-beadwork,https://www.si.edu/newsdesk/snapshot/cosmic-beadwork,"cosmic-beadwork-1-aug0.jpg
+cosmic-beadwork-1-aug1.jpg
+cosmic-beadwork-1-aug10.jpg
+cosmic-beadwork-1-aug13.jpg
+cosmic-beadwork-1-aug15.jpg
+cosmic-beadwork-1-aug16.jpg
+cosmic-beadwork-1-aug18.jpg
+cosmic-beadwork-1-aug19.jpg
+cosmic-beadwork-1-aug2.jpg
+cosmic-beadwork-1-aug3.jpg
+cosmic-beadwork-1-aug7.jpg
+cosmic-beadwork-1-aug8.jpg
+cosmic-beadwork-1-aug9.jpg",cosmic-beadwork-1-aug17.jpg,cosmic-beadwork-1.jpg,"“Milky Way, Starry Night # 2” by Margaret Nazon, Gwich'in Tsiigehtchic, Northwest Territories, Canada, 2021. Art by Margaret Nazon, photo by Smithsonian.
+
+Gwich'in artist Margaret Nazon grew up looking at stars in Canada's Northwest Territories. She did not incorporate her childhood passion for astronomy in her art until she was in her 60s, after seeing images from the Hubble Space Telescope. Swirling galaxies are not traditional subjects in Gwich'in beadwork, so Nazon developed her own signature style.
+
+The artwork photographed above was produced by Nazon for the “Lights Out: Recovering Our Night Sky” exhibition at the Smithsonian's National Museum of Natural History, and it will later join the museum's collection.
+
+“Lights Out” focuses on how the night sky—and its disappearance due to light pollution—affects all life on Earth, from natural ecosystems to human cultures. The exhibition will remain on view through December 2025.
+
+Check out the “Lights Out” episode from Sidedoor, a podcast from the Smithsonian."
+16,crayola-crayons,https://www.si.edu/newsdesk/snapshot/crayola-crayons,"crayola-crayons-1-aug10.jpg
+crayola-crayons-1-aug11.jpg
+crayola-crayons-1-aug14.jpg
+crayola-crayons-1-aug15.jpg
+crayola-crayons-1.jpg
+crayola-crayons-3-aug2.jpg
+crayola-crayons-3-aug4.jpg
+crayola-crayons-3-aug5.jpg
+crayola-crayons-3-aug8.jpg
+crayola-crayons-3.jpg
+crayola-crayons-6-aug5.jpg
+crayola-crayons-6.jpg","crayola-crayons-2.jpg
+crayola-crayons-4.jpg",crayola-crayons-5.jpg,"Smithsonian's National Museum of American History
+Crayola Crayons, 1903
+
+This Smithsonian Snapshot celebrates the back-to-school season with this original pack of Crayola Crayons.
+
+Cherished by generations of children, Crayola Crayons were invented in 1903 by cousins Edwin Binney and C. Harold Smith, founders of the Binney & Smith Co. of Easton, Pa.
+
+The company used paraffin wax and nontoxic pigments to produce a coloring stick that was safe, sturdy and affordable. The name ""Crayola” was coined by Alice Binney, Binney's wife and a former school teacher. It comes from ""craie,"" French for ""chalk,"" and ""oleaginous"" or ""oily."" This Crayola set for ""young artists"" was one of the earliest produced. Its 28 colors include celestial blue, golden ochre, rose pink and burnt sienna.
+
+To learn more about this item, visit the National Museum of American History website.
+
+Description:
+Cherished by generations of child artists, Crayola crayons were invented in 1903 by the Binney & Smith Company of Easton, Pennsylvania. Using paraffin wax and nontoxic pigments, the company produced a coloring stick that was safe, sturdy, and affordable. The name ""Crayola,"" coined by the wife of the company's founder, comes from ""craie,"" French for ""chalk,"" and ""oleaginous,"" or ""oily.""
+
+This Crayola set for ""young artists"" was one of the earliest produced. Its twenty-eight colors include celestial blue, golden ochre, rose pink, and burnt sienna. The box is marked, ""No. 51, Young Artists Drawing Crayons, for coloring Maps, Pictures"" and contains twenty two of the original 28 crayons. The rear of the box depicts a girl coloring a piece of art on an easel and lists the crayon colors contained in the box. Both the packaging and the color names and crayon colors change over time reflecting social and cultural trends. Crayons are icons of American childhood that recall our collective memory for coloring both inside and outside the lines. Affordable and easily obtainable, they have transformed art education and fostered creativity in schools and homes, providing color to children for generations.
+
+Date Made:1903
+
+Maker:Binney and Smith
+
+Place Made:United States: Pennsylvania, Easton
+
+See more items in:Home and Community Life: Education, Popular Entertainment, Family & Social Life, National Treasures exhibit, Art
+
+Exhibition:
+
+Exhibition Location:
+
+Related Web Publication:http://americanhistory.si.edu/treasures
+
+Related Publication:Kendrick, Kathleen M. and Peter C. Liebhold. Smithsonian Treasures of American History, National Museum of American History. Treasures of American History online exhibition
+
+Data Source:National Museum of American History
+
+Id Number:2000.0073.41Accession Number:2000.0073Catalog Number:2000.0073.41
+
+Object Name:crayons, box of
+
+Physical Description:wax (overall material)paper (overall material)Measurements:overall: 2 1/2 in x 7 3/4 in x 1/2 in; 6.35 cm x 19.685 cm x 1.27 cm
+
+Metadata Usage:CC0
+
+Guid:http://n2t.net/ark:/65665/ng49ca746aa-6478-704b-e053-15f76fa0b4fa
+
+Record Id:nmah_1196565"
+17,design-105-taliesin-line,https://www.si.edu/object/design-105-taliesin-line:chndm_1967-90-1,"design-105-taliesin-line-1-aug0.jpg
+design-105-taliesin-line-1-aug1.jpg
+design-105-taliesin-line-1-aug10.jpg
+design-105-taliesin-line-1-aug11.jpg
+design-105-taliesin-line-1-aug13.jpg
+design-105-taliesin-line-1-aug15.jpg
+design-105-taliesin-line-1-aug16.jpg
+design-105-taliesin-line-1-aug18.jpg
+design-105-taliesin-line-1-aug19.jpg
+design-105-taliesin-line-1-aug2.jpg
+design-105-taliesin-line-1-aug7.jpg
+design-105-taliesin-line-1-aug8.jpg
+design-105-taliesin-line-1-aug9.jpg",design-105-taliesin-line-1.jpg,design-105-taliesin-line-2.jpg,"Object Details
+Designer
+Frank Lloyd Wright, American, 1867–1959
+Manufacturer
+F. Schumacher & Co., (New York, NY, USA, founded 1889)
+Catalogue Status
+Research in Progress
+Description
+Length of printed linen with a geometric design of rectangular blocks of color in light blue and light and dark olive, joined by fine lines of darker blue, on an off-white ground. Samples of five alternate colorways are attached to the upper back.
+Credit Line
+Gift of Mr. and Mrs. Burton Tremaine
+1956
+Accession Number
+1967-90-1
+Restrictions & Rights
+Usage conditions apply
+Type
+printed, dyed & painted textiles
+Object Name
+Textile
+Type
+Textile
+Medium
+Medium: linen Technique: screen printed Label: screen printed linen
+Dimensions
+H x W: 120 x 57.5 cm (47 1/4 x 22 5/8 in.)
+Repeat H: 63.5 cm (25 in.)
+made in
+USA
+See more items in
+Cooper Hewitt, Smithsonian Design Museum Collection
+Textiles Department
+Cooper Hewitt, Smithsonian Design Museum
+Record ID
+chndm_1967-90-1
+Metadata Usage (text)
+Not determined
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/kq4a82ae44e-1d94-4336-a29c-30f487d8c7fb"
+18,dm-ferry-co-seed-box,https://www.si.edu/newsdesk/snapshot/dm-ferry-co-seed-box,"dm-ferry-co-seed-box-1-aug0.jpg
+dm-ferry-co-seed-box-1-aug1.jpg
+dm-ferry-co-seed-box-1-aug11.jpg
+dm-ferry-co-seed-box-1-aug12.jpg
+dm-ferry-co-seed-box-1-aug14.jpg
+dm-ferry-co-seed-box-1-aug15.jpg
+dm-ferry-co-seed-box-1-aug16.jpg
+dm-ferry-co-seed-box-1-aug3.jpg
+dm-ferry-co-seed-box-1-aug4.jpg
+dm-ferry-co-seed-box-1-aug6.jpg
+dm-ferry-co-seed-box-1-aug7.jpg
+dm-ferry-co-seed-box-1-aug8.jpg
+dm-ferry-co-seed-box-1-aug9.jpg",dm-ferry-co-seed-box-1-aug18.jpg,dm-ferry-co-seed-box-1.jpg,"Eric Long, Smithsonian Institution
+
+D.M. Ferry & Co. Seed Box, c. 1890s
+
+This week's Smithsonian Snapshot celebrates National Garden Month with this antique seed box from Smithsonian Gardens.
+
+In the 19th century, seed packets were often displayed in wooden boxes adorned with colorful seed company labels. These boxes displayed several rows of seed packets separated by wooden dividers and were placed on general store countertops, acting as a “silent salesman.”
+
+This late-1800s seed box displays the label for D.M. Ferry & Co., the seed company credited with inventing the “commission box,” a rack used for retail display. This seed box marks an important trend in advertising and marketing during the 19th century. It was acquired by the Smithsonian in 1986.
+
+Seed boxes were just one of many marketing tools used by seed companies to sell their products. They distributed catalogs to amateur gardeners each winter in preparation for spring gardening. There are more than 10,000 seed trade catalogs in the Smithsonian's collection. To view examples of these catalogs, visit the Smithsonian Institution Libraries website."
+19,duncan-genuine-yo-yo,https://www.si.edu/newsdesk/snapshot/duncan-genuine-yo-yo,"duncan-genuine-yo-yo-1-aug0.jpg
+duncan-genuine-yo-yo-1-aug10.jpg
+duncan-genuine-yo-yo-1-aug11.jpg
+duncan-genuine-yo-yo-1-aug12.jpg
+duncan-genuine-yo-yo-1-aug13.jpg
+duncan-genuine-yo-yo-1-aug15.jpg
+duncan-genuine-yo-yo-1-aug17.jpg
+duncan-genuine-yo-yo-1-aug19.jpg
+duncan-genuine-yo-yo-1-aug3.jpg
+duncan-genuine-yo-yo-1-aug4.jpg
+duncan-genuine-yo-yo-1-aug5.jpg
+duncan-genuine-yo-yo-1-aug6.jpg
+duncan-genuine-yo-yo-1-aug8.jpg",duncan-genuine-yo-yo-1-aug1.jpg,duncan-genuine-yo-yo-1.jpg,"Smithsonian's National Museum of American History
+
+America owes its fascination with the yo-yo mainly to Chicago businessman Donald F. Duncan Sr., who spotted it while on a business trip to San Francisco in 1928. It was being used by Pedro Flores, a Philippine immigrant who began selling a toy labeled with the name, “yo-yo,” meaning “come-come” in the native language of the Philippines.
+
+By early 1929, Flores had secured financing, set up his own firm and manufactured more than 100,000 wooden toys and trademarketed the name “yo-yo.” Flores realized that people had to be shown how to use a yo-yo before they would buy it. He hired a team of fellow yo-yo masters to demonstrate the toy's amazing tricks.
+
+Duncan, a marketer, entrepreneur and manufacturer of wooden novelty items and toys, immediately recognized the yo-yo's potential as a popular new toy. He quickly raised $5,000 to purchase initial rights to the yo-yo from Flores and founded Donald F. Duncan Inc. By October 1932, he had secured Flores's remaining assets, including the all-important trademark. Until the trademark expired in 1965 and competing plastic yo-yos began to outsell his old-fashioned, wooden ones, Duncan was the country's leading yo-yo producer.
+
+This wooden yo-yo was made by the Duncan Toys Company in the 1930s. It has a green design with a broad red stripe. The seal reads “Genuine Duncan Yo-Yo, Reg. US Pat.” This was an early version of the Duncan Genuine Yo-Yo, produced soon after Duncan bought the trademark term “yo-yo” from Flores. This yo-yo's seal is reminiscent of the one used by Flores."
+20,duryea-automobile,https://www.si.edu/newsdesk/snapshot/duryea-automobile,"duryea-automobile-1-aug0.jpg
+duryea-automobile-1-aug11.jpg
+duryea-automobile-1-aug12.jpg
+duryea-automobile-1-aug13.jpg
+duryea-automobile-1-aug14.jpg
+duryea-automobile-1-aug15.jpg
+duryea-automobile-1-aug17.jpg
+duryea-automobile-1-aug19.jpg
+duryea-automobile-1-aug5.jpg
+duryea-automobile-1-aug6.jpg
+duryea-automobile-1-aug7.jpg
+duryea-automobile-1-aug8.jpg
+duryea-automobile-1.jpg",duryea-automobile-3.jpg,duryea-automobile-2.jpg,"Smithsonian's National Museum of American History
+
+Duryea Automobile, 1893-94
+
+This 1893-94 Duryea is one of the earliest American-made automobiles. On Sept. 21, 1893, in Springfield, Mass., Frank Duryea road-tested a second-hand carriage with a gasoline engine. In 1896, Duryea, his brother Charles and financial backers founded the Duryea Motor Wagon Co., the first American company to manufacture and sell automobiles.
+
+The Duryea automobile's one-cylinder, four-cycle, four-horsepower, water-cooled gasoline engine lies almost horizontally beneath the carriage body, and its cylinder head extends backward above the rear axle. The automobile has a gear transmission (replacing the original friction transmission), a spray carburetor and a make-and-break ignition.
+
+This Duryea automobile was donated to the Smithsonian's National Museum of American History in 1920.
+
+Object Details
+Duryea, Charles E.
+Duryea, J. Frank
+Description
+This experimental vehicle is one of the earliest American-made automobiles. On September 21, 1893, Frank Duryea road-tested the vehicle – a second-hand carriage with a gasoline engine – in Springfield, Massachusetts. In 1896, Frank, his brother Charles, and financial backers founded the Duryea Motor Wagon Company, the first American company that manufactured and sold automobiles. Thirteen production models were made; the only surviving example is in the collection of the Henry Ford Museum in Dearborn, Michigan. This forerunner was donated to the Smithsonian in 1920 and was restored in 1958.
+Location
+Currently not on view
+Credit Line
+Gift of Inglis M. Uppercu
+1893-1894
+ID Number
+TR.307199
+accession number
+65715
+catalog number
+307199
+Object Name
+automobile
+Physical Description
+steel (overall material)
+rubber (overall material)
+Measurements
+overall: 81 in x 64 in x 97 in; 205.74 cm x 162.56 cm x 246.38 cm
+Associated Place
+United States: Massachusetts
+See more items in
+Work and Industry: Transportation, Road
+Automobiles
+America on the Move
+Transportation
+Road Transportation
+National Museum of American History
+Record ID
+nmah_694756
+Metadata Usage (text)
+CC0
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/ng49ca746a5-4124-704b-e053-15f76fa0b4fa"
+21,edison-light-bulb,https://www.si.edu/newsdesk/snapshot/edison-light-bulb,"edison-light-bulb-1-aug0.jpg
+edison-light-bulb-1-aug1.jpg
+edison-light-bulb-1-aug10.jpg
+edison-light-bulb-1-aug12.jpg
+edison-light-bulb-1-aug13.jpg
+edison-light-bulb-1-aug15.jpg
+edison-light-bulb-1-aug16.jpg
+edison-light-bulb-1-aug19.jpg
+edison-light-bulb-1-aug2.jpg
+edison-light-bulb-1-aug4.jpg
+edison-light-bulb-1-aug6.jpg
+edison-light-bulb-1-aug7.jpg
+edison-light-bulb-1-aug9.jpg",edison-light-bulb-1-aug5.jpg,edison-light-bulb-1.jpg,"Smithsonian's National Museum of American History
+
+Edison Light Bulb, 1879
+
+Thomas Edison used this carbon-filament bulb in the first public demonstration of his most famous invention—the light bulb, the first practical electric incandescent lamp. The light bulb creates light when electrical current passes through the metal filament wire, heating it to a high temperature until it glows. The hot filament is protected from air by a glass bulb that is filled with inert gas. The demonstration took place at Edison's Menlo Park, N.J., laboratory on New Year's Eve, 1879.
+
+As the quintessential American inventor-hero, Edison personified the ideal of the hardworking self-made man. He received a record 1,093 patents and became a skilled entrepreneur. Though occasionally unsuccessful, Edison and his team developed many practical devices in his “invention factory,” and fostered faith in technological progress."
+22,evel-knievels-harley-davidson-xr-750,https://www.si.edu/newsdesk/snapshot/evel-knievels-harley-davidson-xr-750,"evel-knievels-harley-davidson-xr-750-1-aug0.jpg
+evel-knievels-harley-davidson-xr-750-1-aug1.jpg
+evel-knievels-harley-davidson-xr-750-1-aug11.jpg
+evel-knievels-harley-davidson-xr-750-1-aug12.jpg
+evel-knievels-harley-davidson-xr-750-1-aug13.jpg
+evel-knievels-harley-davidson-xr-750-1-aug15.jpg
+evel-knievels-harley-davidson-xr-750-1-aug17.jpg
+evel-knievels-harley-davidson-xr-750-1-aug19.jpg
+evel-knievels-harley-davidson-xr-750-1-aug4.jpg
+evel-knievels-harley-davidson-xr-750-1-aug5.jpg
+evel-knievels-harley-davidson-xr-750-1-aug6.jpg
+evel-knievels-harley-davidson-xr-750-1-aug8.jpg
+evel-knievels-harley-davidson-xr-750-1-aug9.jpg",evel-knievels-harley-davidson-xr-750-1.jpg,evel-knievels-harley-davidson-xr-750-2.jpg,"Smithsonian's National Museum of American History
+
+Evel Knievel's Harley-Davidson XR-750
+
+Evel Knievel, born Robert Craig Knievel (Oct. 17, 1938 – Nov. 30, 2007), was an American daredevil and entertainer. He performed some of the most death-defying stunts on this 1972 Harley-Davidson XR-750.
+
+During his career, Knievel suffered 35 to 40 broken bones as a result of his daring stunts. In 1965, Knievel starred in his own daredevil show bringing national attention to his stunts. His shows were televised nationwide. His show featured motorcycle ""wheelies,” off-beat vehicles and jumps over rows of automobiles, trucks and buses. Knievel rode this motorcycle during some of his most spectacular jumps.
+
+This custom 1972 Harley-Davidson XR-750 is made of steel, aluminum and fiberglass, and it weighs approximately 300 pounds. In 1975 he used it to jump 14 Greyhound buses.
+
+Object Details
+Knievel, Evel
+Harley-Davidson
+Description
+More than a daredevil, Evel Knievel combined sportsmanship and show business to become one of the most famous performers in America. The perils of his sport—making a motorcycle ""fly"" over a row of vehicles—clearly were not for the average rider. Many of his jumps were successful; but in some spectacular crashes, Knievel fractured 35 to 40 bones. His visually stunning, suspenseful performances were perfectly suited to television and were especially exciting because of the chance that he might crash.
+Knievel's shows were a celebration of America's love affair with motor vehicles. His pre-jump show featured motorcycle ""wheelies"" and off-beat vehicles, and he jumped almost exclusively over rows of automobiles, trucks, and buses. By performing at stadiums and coliseums, Knievel perpetuated the tradition of live thrill shows for local audiences. But national and international media coverage of his jumps placed him in a league with some of the world's best-known entertainers.
+Knievel rode this motorcycle during some of his most spectacular jumps. By carefully coordinating his angle, thrust, and speed, which reached 90 to 100 miles per hour at takeoff, he remained in the air for as far as 165 feet. He chose (and customized) this motorcycle, a 1972 Harley-Davidson XR-750, because it was a light, dependable racing machine. Made of steel, aluminum, and fiberglass, it weighs approximately 300 pounds.
+Location
+Currently on loan
+1972
+ID Number
+1994.0306.01
+accession number
+1994.0306
+catalog number
+1994.0306.01
+Object Name
+motorcycle
+Physical Description
+steel (overall material)
+aluminum (overall material)
+fiberglass (overall material)
+Measurements
+overall: 114 cm x 91 cm x 206 cm; 44 7/8 in x 35 13/16 in x 81 1/8 in
+See more items in
+Work and Industry: Transportation, Road
+Popular Entertainment
+Bicycling
+Transportation
+Road Transportation
+National Museum of American History
+Record ID
+nmah_1001261
+Metadata Usage (text)
+CC0
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/ng49ca746a8-8cdd-704b-e053-15f76fa0b4fa"
+23,finery-feathered-friend,https://www.si.edu/newsdesk/snapshot/finery-feathered-friend,"finery-feathered-friend-1-aug0.jpg
+finery-feathered-friend-1-aug1.jpg
+finery-feathered-friend-1-aug12.jpg
+finery-feathered-friend-1-aug13.jpg
+finery-feathered-friend-1-aug14.jpg
+finery-feathered-friend-1-aug17.jpg
+finery-feathered-friend-1-aug18.jpg
+finery-feathered-friend-1-aug19.jpg
+finery-feathered-friend-1-aug3.jpg
+finery-feathered-friend-1-aug4.jpg
+finery-feathered-friend-1-aug5.jpg
+finery-feathered-friend-1-aug6.jpg
+finery-feathered-friend-1-aug9.jpg",finery-feathered-friend-1-aug15.jpg,finery-feathered-friend-1.jpg,"Laurel Roth Hope, “Biodiversity Reclamation Suit: Carolina Parakeet,” 2009 Smithsonian American Art Museum
+
+A Finery-Feathered Friend
+
+Laurel Roth Hope uses humor to address the serious subject of species extinction in her “Biodiversity Reclamation Suits.” These crocheted suits allow common rock pigeons to masquerade as extinct North American birds—if not actually to “reclaim” biodiversity, then at least to give the appearance of it.
+
+Using traditional techniques of carving, embroidery, crochet and collage, Hope transforms ordinary materials into elaborate animal sculptures that are both playful and poignant. Her work is influenced by her background as a park ranger and focuses on the relationship between humankind and nature, touching on topics such as environmental protection, animal behavior and species extinction.
+
+This piece is currently on view in the exhibition “Connections: Contemporary Craft at the Renwick Gallery” at the Smithsonian American Art Museum's Renwick Gallery.
+
+Hope's video featuring a crochet-suit-clad bird can be seen here: https://www.youtube.com/watch?v=UOvQPDGX068&index=34&list=PL94AA4771224B27E1"
+24,fish-going-mobile,https://www.si.edu/newsdesk/snapshot/fish-going-mobile,"fish-going-mobile-1-aug1.jpg
+fish-going-mobile-1-aug10.jpg
+fish-going-mobile-1-aug12.jpg
+fish-going-mobile-1-aug14.jpg
+fish-going-mobile-1-aug15.jpg
+fish-going-mobile-1-aug16.jpg
+fish-going-mobile-1-aug18.jpg
+fish-going-mobile-1-aug19.jpg
+fish-going-mobile-1-aug3.jpg
+fish-going-mobile-1-aug4.jpg
+fish-going-mobile-1-aug5.jpg
+fish-going-mobile-1-aug7.jpg
+fish-going-mobile-1-aug8.jpg",fish-going-mobile-1-aug2.jpg,fish-going-mobile-1.jpg,"“Fish,” Alexander Calder (1945). Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, Washington, D.C., gift of Joseph H. Hirshhorn, 1966
+
+The son and grandson of artists, Alexander Calder (1898–1976) earned a degree in mechanical engineering before deciding to become an artist. After supporting himself as a freelance illustrator while studying at the Art Students League in New York (1923–25), he traveled to Paris, where he met avant-garde artists and created the wire sculptures described by critics as “drawings in space.”
+
+Impressed by the space of Piet Mondrian's studio in 1930, Calder was determined to put similar austere abstractions in motion. In 1931, he made his first “mobiles,” or moving (kinetic) sculptures. He also created “stabiles” (static constructed sculptures) and standing mobiles—static sculptures topped with moving elements.
+
+By the mid-1930s, his work was more biomorphic and resonated with the surrealism of his friend Jean Arp and also Paul Klee. From the 1950s forward, Calder developed monumental sculptures that defined architectural spaces.
+
+Although based in abstraction, Calder's objects incorporate references to the natural world, interacting directly with their environments as wind or breeze moves them and light creates shadow play. Reflecting his interest in continual change, Calder added a fourth dimension to sculpture: time.
+
+The mixed-media sculpture pictured above is made of metal, paint, wire, plastic, wood, glass, and ceramic. It is in the collection of the Smithsonian's Hirshhorn Museum and Sculpture Garden; it is not currently on display. Listen to an interview with Calder from the Smithsonian's Archives of American Art."
+25,ford-model-t-snow-attachment,https://www.si.edu/newsdesk/snapshot/ford-model-t-snow-attachment,"ford-model-t-snow-attachment-1-aug0.jpg
+ford-model-t-snow-attachment-1-aug1.jpg
+ford-model-t-snow-attachment-1-aug11.jpg
+ford-model-t-snow-attachment-1-aug12.jpg
+ford-model-t-snow-attachment-1-aug13.jpg
+ford-model-t-snow-attachment-1-aug17.jpg
+ford-model-t-snow-attachment-1-aug19.jpg
+ford-model-t-snow-attachment-1-aug3.jpg
+ford-model-t-snow-attachment-1-aug4.jpg
+ford-model-t-snow-attachment-1-aug5.jpg
+ford-model-t-snow-attachment-1-aug6.jpg
+ford-model-t-snow-attachment-1-aug8.jpg
+ford-model-t-snow-attachment-1-aug9.jpg",ford-model-t-snow-attachment-1-aug7.jpg,ford-model-t-snow-attachment-1.jpg,"Smithsonian's National Postal Museum  
+
+Ford Model T with Snow Attachment, 1921
+
+In the early 20th century, rural mail carriers who purchased automobiles for their routes learned quickly that their new cars were often no match for deep snow.
+
+In 1906, Virgil White began converting automobiles into snowmobiles by replacing the front tires with skis and the rear tires with caterpillar treads, allowing the vehicle to move easily over snow and ice. The attachment, name Snowbird, saved carriers the expense of purchasing and maintaining a horse and sled for winter deliveries.
+
+White's first prototype used a Buick Model G. After the Model T's popularity made it the go-to car of the early 20th century, White began manufacturing Ford Model T kits.
+
+By 1922, White began selling his kit for $250 to $400 from his snowmobile company in West Ossippe, N.H. A few years later, he sold his snowmobile patents to the Farm Specialty Manufacturing Co. of New Holstein, Wis., which quickly recognized the kit's appeal to rural carriers and advertised it as the “Mailman's Special.” It was promoted as easy to install.
+
+This 1921 Ford Model T was owned by rural mail carrier Harold Crabtree of Central Square, N.Y. The vehicle is fitted with the “Mailman's Special.”"
+26,george-washington-farewell-address-candle-stand,https://www.si.edu/object/george-washington-farewell-address-candle-stand:nmah_739573,"george-washington-farewell-address-candle-stand-1-aug10.jpg
+george-washington-farewell-address-candle-stand-1-aug11.jpg
+george-washington-farewell-address-candle-stand-1-aug12.jpg
+george-washington-farewell-address-candle-stand-1-aug13.jpg
+george-washington-farewell-address-candle-stand-1-aug17.jpg
+george-washington-farewell-address-candle-stand-1-aug19.jpg
+george-washington-farewell-address-candle-stand-1-aug2.jpg
+george-washington-farewell-address-candle-stand-1-aug3.jpg
+george-washington-farewell-address-candle-stand-1-aug5.jpg
+george-washington-farewell-address-candle-stand-1-aug6.jpg
+george-washington-farewell-address-candle-stand-1-aug7.jpg
+george-washington-farewell-address-candle-stand-1-aug9.jpg
+george-washington-farewell-address-candle-stand-1.jpg",george-washington-farewell-address-candle-stand-2.jpg,george-washington-farewell-address-candle-stand-3.jpg,"Object Details
+associated person; user
+Washington, George
+associated person
+Lewis, Lawrence
+Lewis, Nelly Custis
+Description
+After two terms as president, George Washington chose not to serve a third term but instead to retire to Mount Vernon. In September 1796 he presented his Farewell Address to the country he had served for more than 20 years. Published in the Philadelphia newspaper, The American Daily Advertiser, the Farewell Address was Washington's final advice to his countrymen. He urged all Americans to support the newly formed nation and put aside regional or party divisions. ""Your Union ought to be considered as a main prop of your liberty, the love of the one ought to endear to you the preservation of the other.""
+Since 1896 the United States Senate has marked Washington's birthday by having a member read the Farewell Address aloud in a legislative session.
+According to family tradition, President Washington worked on his Farewell Address by the light of this brass candle stand. The reflector magnifies the light of the candles in adjustable candlesticks. The back of the reflector is lined with green silk. The candle stand and other relics of George and Martha Washington were sold to the United States government in 1878 by the Lewis family (descendents of George Washington's nephew, Lawrence Lewis, and Martha Washington's granddaughter, Nelly Custis Lewis). The relics were housed in the Patent Office until 1883, when they were transferred to the Smithsonian Institution.
+ID Number
+PL.1185
+accession number
+13152
+catalog number
+1185
+Object Name
+candle stand
+Physical Description
+green (back of reflector color)
+brass (overall material)
+silk (reflector material)
+Measurements
+overall: 22 in x 11 1/2 in; 55.88 cm x 29.21 cm
+base: 5 11/16 in; 14.44625 cm
+Related Publication
+Washington's farewell address to the people of the United States
+See more items in
+Political History: Political History, Presidential History Collection
+Government, Politics, and Reform
+Domestic Furnishings
+Exhibition
+American Presidency
+Exhibition Location
+National Museum of American History
+National Museum of American History
+used
+Presidents
+related event
+George Washington's Farewell Address
+Record ID
+nmah_739573
+Metadata Usage (text)
+CC0
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/ng49ca746a5-5db5-704b-e053-15f76fa0b4fa"
+27,hat-symbolized-life-and-legacy,https://www.si.edu/newsdesk/snapshot/hat-symbolized-life-and-legacy,"hat-symbolized-life-and-legacy-1-aug0.jpg
+hat-symbolized-life-and-legacy-1-aug11.jpg
+hat-symbolized-life-and-legacy-1-aug12.jpg
+hat-symbolized-life-and-legacy-1-aug13.jpg
+hat-symbolized-life-and-legacy-1-aug14.jpg
+hat-symbolized-life-and-legacy-1-aug15.jpg
+hat-symbolized-life-and-legacy-1-aug19.jpg
+hat-symbolized-life-and-legacy-1-aug3.jpg
+hat-symbolized-life-and-legacy-1-aug4.jpg
+hat-symbolized-life-and-legacy-1-aug6.jpg
+hat-symbolized-life-and-legacy-1-aug7.jpg
+hat-symbolized-life-and-legacy-1-aug8.jpg
+hat-symbolized-life-and-legacy-1-aug9.jpg",hat-symbolized-life-and-legacy-1-aug2.jpg,hat-symbolized-life-and-legacy-1.jpg,"President Abraham Lincoln's top hat; Smithsonian's National Museum of American History. Transfer from the War Department with permission from Mary Lincoln, 1867.  
+
+At 6'4” tall, President Abraham Lincoln towered over most of his contemporaries. He chose to stand out even more by wearing high top hats. He acquired this one from Washington hat maker J.Y. Davis. Lincoln had the black silk mourning band added in remembrance of his son Willie, who had died in 1862. No one knows when he obtained the hat or how often he wore it. The last time he put it on was to go to Ford's Theatre April 14, 1865.
+
+After Lincoln's assassination, the War Department preserved his hat and other personal items left at Ford's Theatre. With permission from Mary Lincoln, the department gave the hat to the Patent Office, which, in 1867, transferred it to the Smithsonian. Joseph Henry, the Secretary of the Smithsonian, ordered his staff not to exhibit the hat “under any circumstance, and not to mention the matter to any one, on account of there being so much excitement at the time.” It was immediately placed in a basement storage room.
+
+The public did not see the hat again until 1893, when the Smithsonian lent it to an exhibition hosted by the Lincoln Memorial Association. Today it is one of the Institution's most treasured objects.
+
+The hat is on view in “The American Presidency: A Glorious Burden” exhibition at the Smithsonian's National Museum of American History.
+
+See 3D images of Lincoln's face and hands, as well as images of other U.S. Presidents, from the Smithsonian's Digitization Program Office. And visit the National Portrait Gallery's online exhibition “One Life: The Mask of Lincoln.”"
+28,helen-kellers-watch,https://www.si.edu/newsdesk/snapshot/helen-kellers-watch,"helen-kellers-watch-1-aug12.jpg
+helen-kellers-watch-1.jpg
+helen-kellers-watch-3-aug0.jpg
+helen-kellers-watch-3-aug19.jpg
+helen-kellers-watch-6-aug1.jpg
+helen-kellers-watch-6.jpg
+helen-kellers-watch-7.jpg
+helen-kellers-watch-8-aug10.jpg
+helen-kellers-watch-8.jpg
+helen-kellers-watch-9-aug4.jpg
+helen-kellers-watch-9.jpg","helen-kellers-watch-2.jpg
+helen-kellers-watch-3.jpg","helen-kellers-watch-4.jpg
+helen-kellers-watch-5.jpg","Smithsonian's National Museum of American History
+
+Helen Keller's Watch, Late 1800s
+
+This week's Smithsonian Snapshot marks the June 27, 1880, birthday of Helen Keller, a prominent 20th-century advocate for women's suffrage and workers' rights.
+
+As a child, Keller contracted an illness that left her deaf and blind. After years of frustrated isolation, she was introduced to Anne Sullivan, who taught Keller to communicate by spelling words into her hand. She eventually learned to read, write and speak, and graduated from Radcliffe College in 1904 as the first person who was deaf and blind to earn a Bachelor of Arts degree.
+
+In 1892, Keller met John Hitz, superintendent of the Volta Bureau at Alexander Graham Bell's institution for the deaf. Hitz presented this Swiss-made “touch watch” to Keller as a gift. It is specially designed with pins around the case edge to mark the hours.
+
+Keller's inspiring story made her an international celebrity, and she became a prominent spokesperson for disability rights, an important cause that she symbolizes to this day. The Smithsonian collected this watch in 1975.
+
+To learn more about historic timepieces from the collection, visit the National Museum of American History's “On Time” online exhibition website.
+
+For more information about this watch, visit the National Museum of American History website.
+
+Object Details
+associated person
+Keller, Helen
+Rossel & Fils
+Description
+This unusual watch, originally made to tell time in the dark, made the perfect present for Helen Keller. Deaf and blind from the age of nineteen months, Keller (1880-1968) grew up to become an accomplished writer and renowned champion for human rights.
+In 1892, when she was twelve, Keller met John Hitz, the superintendent of Alexander Graham Bell's Washington, D.C. establishment for the deaf, the Volta Bureau. Hitz, a retired diplomat, was the proud owner of a Swiss-made ""touch watch."" This uncommon watch has a case studded around the edge with pins that correspond to the hours on the watch dial. A revolving hand stops at a point between the pins that corresponds to the hour and approximate minute. With the hand and pins as locators, it was possible to feel the approximate time in the dark or, in the case of a diplomat like Hitz, discreetly. Hitz presented the watch to Keller, who prized it and used it her entire life.
+Once, in 1952, Keller accidentally left the watch behind in a New York City taxi. She feared it was lost forever. With ads in newspaper lost-and-found columns and the help of the head of the city's pawnbrokers, she recovered her prized possession from a hock shop.
+Location
+Currently not on view
+Credit Line
+Phillips Brooks Keller & Mrs. Gordon Erwin
+ca 1865
+ID Number
+ME.335239
+catalog number
+335239
+accession number
+314555
+Object Name
+watch
+Other Terms
+watch; Mechanical, Spring-Driven; Pocket Watch
+Physical Description
+gold (watch case material)
+brass (watch movement material)
+gold-plated, copper alloy, porcelain-enamel, glass (overall material)
+Measurements
+overall, watch: 2 5/8 in x 1 7/8 in x 1/2 in; 6.6675 cm x 4.7625 cm x 1.27 cm
+overall, case: 2 1/2 in x 2 1/2 in x 3/4 in; 6.35 cm x 6.35 cm x 1.905 cm
+Place Made
+Switzerland
+Related Publication
+Kendrick, Kathleen M. and Peter C. Liebhold. Smithsonian Treasures of American History
+National Museum of American History. Treasures of American History online exhibition
+Related Web Publication
+http://americanhistory.si.edu/treasures
+See more items in
+Work and Industry: Mechanisms
+Health & Medicine
+Clothing & Accessories
+Family & Social Life
+National Treasures exhibit
+National Museum of American History
+Record ID
+nmah_851873
+Metadata Usage (text)
+CC0
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/ng49ca746a6-8e9e-704b-e053-15f76fa0b4fa"
+29,hope-diamond,https://www.si.edu/object/hope-diamond:nmnhmineralsciences_1001299,"hope-diamond-1.jpg
+hope-diamond-10.jpg
+hope-diamond-11.jpg
+hope-diamond-17.jpg
+hope-diamond-23.jpg
+hope-diamond-24.jpg
+hope-diamond-28.jpg
+hope-diamond-3.jpg
+hope-diamond-37.jpg","hope-diamond-16.jpg
+hope-diamond-27.jpg
+hope-diamond-6.jpg","hope-diamond-15.jpg
+hope-diamond-2.jpg
+hope-diamond-9.jpg","Object Details
+Taxon
+Diamond - Primary Gem
+Record Last Modified
+26 Sep 2022
+Specimen Count
+1
+Other Numbers
+IGSN : NHB002JKJ
+USNM Number
+NMNH G3551-00
+Color
+Dark Gray Blue
+Cut
+Modified Antique Cushion
+Jewelery Type
+Necklace
+Cartier, Inc.
+Weight
+45.52 ct
+Place
+India, Asia
+See more items in
+Mineral Sciences
+Gems
+NMNH - Mineral Sciences Dept.
+Record ID
+nmnhmineralsciences_1001299
+Metadata Usage (text)
+CC0
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/3985b643b-fb12-4268-9f1b-2a254447208f"
+30,important-pen-civil-rights-history,https://www.si.edu/newsdesk/snapshot/important-pen-civil-rights-history,"important-pen-civil-rights-history-1-aug0.jpg
+important-pen-civil-rights-history-1-aug1.jpg
+important-pen-civil-rights-history-1-aug11.jpg
+important-pen-civil-rights-history-1-aug13.jpg
+important-pen-civil-rights-history-1-aug15.jpg
+important-pen-civil-rights-history-1-aug17.jpg
+important-pen-civil-rights-history-1-aug18.jpg
+important-pen-civil-rights-history-1-aug19.jpg
+important-pen-civil-rights-history-1-aug2.jpg
+important-pen-civil-rights-history-1-aug3.jpg
+important-pen-civil-rights-history-1-aug4.jpg
+important-pen-civil-rights-history-1-aug5.jpg
+important-pen-civil-rights-history-1-aug6.jpg",important-pen-civil-rights-history-1-aug9.jpg,important-pen-civil-rights-history-1.jpg,"An Esterbrook pen, used by President Lyndon B. Johnson to sign the Civil Rights Act of 1964. Collection of the Smithsonian's National Museum of African American History and Culture, Gift of James F. Dicke, II.
+
+The Civil Rights Act of 1964 was signed into law on July 2, 1964. President Lyndon Johnson signed the bill using this pen and over 70 other identical pens that were then gifted to important figures in the Civil Rights Movement. 
+
+The road to passage for this bill was long and bumpy. Introduced to Congress by President John F. Kennedy, it had not made progress before his assassination in November 1963. The success or failure of the legislation was left in the hands of then-President Lyndon Johnson. After extensive public hearings and debate, the House of Representatives passed the bill and it moved over to the Senate. There, the longest multi-person filibuster in Congressional history took place, lasting 57 days. 
+
+A vital first step in equality for all, the Civil Rights Act of 1964 would require more legislation and years of work to ensure all citizens had equal voting and other core rights.  
+
+The pen is on display in the Segregation Gallery at the National Museum of African American History and Culture."
+31,inline-skate-1823,https://www.si.edu/newsdesk/snapshot/inline-skate-1823,"inline-skate-1823-1-aug0.jpg
+inline-skate-1823-1-aug1.jpg
+inline-skate-1823-1-aug10.jpg
+inline-skate-1823-1-aug11.jpg
+inline-skate-1823-1-aug12.jpg
+inline-skate-1823-1-aug13.jpg
+inline-skate-1823-1-aug14.jpg
+inline-skate-1823-1-aug15.jpg
+inline-skate-1823-1-aug16.jpg
+inline-skate-1823-1-aug17.jpg
+inline-skate-1823-1-aug2.jpg
+inline-skate-1823-1-aug6.jpg
+inline-skate-1823-1-aug8.jpg",inline-skate-1823-1-aug7.jpg,inline-skate-1823-1.jpg,"Smithsonian's National Museum of American History
+
+Inline Skate, 1823
+
+The 2014 Winter Olympics are underway and athletes from around the world are getting ready to take to the ice in speed skating, figure skating, ice dancing and hockey.
+
+Today's skaters have the advantage of being able to practice year-round in indoor rinks, but what did 19th-century athletes do to stay competitive? They used the Volito.
+
+This inline skate (from 1823) had a wooden sole, a single row of five wooden wheels and a curved iron bar at the front that served as a rudimentary brake. What made the Volito superior to other models? It was the unequal size of its wheels—larger at the center and smaller at the ends. This simple modification allowed the skater to execute turns more easily.
+
+Time to start practicing that quadruple axel.
+
+The Volito is part of the National Museum of American History's collection. 
+
+Description:
+Before the invention of indoor rinks, ice skaters turned to the Volito when they needed to practice and didn't have access to ice. This in-line skate consisted of a wooden sole, a single row of five wooden wheels, and a curved iron bar at the front that served as a rudimentary brake. What made the Volito superior to other models, however, was the unequal size of its wheels, larger at the center and smaller at the ends. This simple modification allowed the skater to execute turns more easily.
+
+Date Made:1823
+
+Maker:Tyers, Robert John
+
+Location:Currently not on view
+
+Place Made:United States
+
+Web Subject:SportsName Of Sport:Roller SkatingLevel Of Sport:recreational
+
+Subject:
+
+See more items in:Culture and the Arts: Sport and Leisure
+
+Exhibition:
+
+Exhibition Location:
+
+Credit Line:from Miss Elizabeth W. Plimpton
+
+Data Source:National Museum of American History
+
+Id Number:CL.64.1040Catalog Number:64.1040Accession Number:270696
+
+Object Name:roller skate
+
+Physical Description:wood (overall material)metal (overall material)Measurements:overall: 12 in x 3 in x 3 in; 30.48 cm x 7.62 cm x 7.62 cm
+
+Metadata Usage:CC0
+
+Guid:http://n2t.net/ark:/65665/ng49ca746b1-b47e-704b-e053-15f76fa0b4fa
+
+Record Id:nmah_335014"
+32,kermit-frog-puppet,https://www.si.edu/object/kermit-frog-puppet:nmah_765593,"kermit-frog-puppet-1-aug0.jpg
+kermit-frog-puppet-1-aug1.jpg
+kermit-frog-puppet-1-aug11.jpg
+kermit-frog-puppet-1-aug12.jpg
+kermit-frog-puppet-1-aug13.jpg
+kermit-frog-puppet-1-aug14.jpg
+kermit-frog-puppet-1-aug15.jpg
+kermit-frog-puppet-1-aug17.jpg
+kermit-frog-puppet-1-aug18.jpg
+kermit-frog-puppet-1-aug2.jpg
+kermit-frog-puppet-1-aug3.jpg
+kermit-frog-puppet-1-aug5.jpg
+kermit-frog-puppet-1-aug8.jpg",kermit-frog-puppet-1.jpg,kermit-frog-puppet-2.jpg,"Object Details
+Associated Name
+National Museum of American History. Division of Cultural History
+Jim Henson Productions
+Children's Television Workshop
+Henson, Jim
+Henson, Jim
+Jim Henson Productions
+Description (Brief)
+Kermit is a bright green frog who was the star and host of The Muppet Show and appears on Sesame Street. The character of Kermit is one of Jim Henson's earliest creations, dating back to 1955 with his appearances on Sam and Friends on the Washington, D.C., NBC affiliate station. He was previously performed by Jim Henson and Steve Whitmire and is currently performed by Matt Vogel. Kermit is a calm, level-headed character who is constantly trying to keep everything together as he is surrounded by craziness. Kermit is known for singing “Bein' Green” (also known as “It's Not Easy Bein' Green”) which talks about the difficulties he has had because of his color but ends with him accepting and embracing his greenness.
+Credit Line
+Gift of Jim Henson Productions
+late 1970s
+ID Number
+1994.0037.01
+accession number
+1994.0037
+catalog number
+1994.0037.01
+Object Name
+puppet
+Physical Description
+fiber, synthetic, rayon (overall material)
+fabric, felt (overall material)
+metal, wire (overall material)
+plastic (overall material)
+green (overall color)
+Measurements
+overall: 27 in x 28 in x 6 in; 68.58 cm x 71.12 cm x 15.24 cm
+Place Made
+United States: New York, New York City
+Related Publication
+Kendrick, Kathleen M. and Peter C. Liebhold. Smithsonian Treasures of American History
+See more items in
+Culture and the Arts: Entertainment
+Popular Entertainment
+Puppets
+Jim Henson
+Exhibition
+Entertainment Nation
+Exhibition Location
+National Museum of American History
+National Museum of American History
+Subject
+Puppetry
+Radio and television broadcasting
+Television broadcasts
+Children's television programs
+Motion Pictures
+general subject association
+Television
+Record ID
+nmah_765593
+Metadata Usage (text)
+CC0
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/ng49ca746a5-ba9a-704b-e053-15f76fa0b4fa"
+33,keys-future,https://www.si.edu/newsdesk/snapshot/keys-future,"keys-future-1-aug0.jpg
+keys-future-1-aug1.jpg
+keys-future-1-aug11.jpg
+keys-future-1-aug12.jpg
+keys-future-1-aug13.jpg
+keys-future-1-aug16.jpg
+keys-future-1-aug17.jpg
+keys-future-1-aug18.jpg
+keys-future-1-aug19.jpg
+keys-future-1-aug2.jpg
+keys-future-1-aug3.jpg
+keys-future-1-aug7.jpg
+keys-future-1-aug8.jpg",keys-future-1-aug4.jpg,keys-future-1.jpg,"Octavia Butler's typewriter; Smithsonian's Anacostia Community Museum
+
+This typewriter belonged to Octavia Estelle Butler (1947–2006), an award-winning science fiction writer. She published novels (the five-volume Patternist series, the Xenogenesis trilogy [also issued as Lilith's Brood], Parable of the Sower and its sequel, Parable of the Talents) and other works, such as the collection Bloodchild and Other Stories.
+
+Butler's work drew on African American history, future studies and explorations of alien nature and psychology, a mashup of genres that would come to be known as Afrofuturism. By placing characters from the African diaspora at the center of early novels Wild Seed and Kindred, she helped inspire readers of African descent to imagine a future filled with possibilities, seeing themselves in the starring role as scientists, adventurers and heroes.
+
+She received the Nebula and Hugo awards, and she was the first science fiction writer to receive a MacArthur Fellowship in 1995. In 2000, she received a lifetime achievement award in writing from PEN America.
+
+In 2018, Butler's name became indelibly linked to our solar system when the International Astronomical Union approved naming a geological feature on Charon, Pluto's moon, in her honor: Butler Mons.
+
+This typewriter is in the collection of the Smithsonian's Anacostia Community Museum; it is not on display."
+34,kiowa-ah-day,https://www.si.edu/object/kiowa-ah-day:NMAI_279476,"kiowa-ah-day-1-aug0.jpg
+kiowa-ah-day-1-aug10.jpg
+kiowa-ah-day-1-aug11.jpg
+kiowa-ah-day-1-aug14.jpg
+kiowa-ah-day-1-aug15.jpg
+kiowa-ah-day-1-aug17.jpg
+kiowa-ah-day-1-aug19.jpg
+kiowa-ah-day-1-aug2.jpg
+kiowa-ah-day-1-aug4.jpg
+kiowa-ah-day-1-aug5.jpg
+kiowa-ah-day-1-aug6.jpg
+kiowa-ah-day-1-aug7.jpg
+kiowa-ah-day-1-aug8.jpg",kiowa-ah-day-1.jpg,kiowa-ah-day-2.jpg,"Object Details
+Culture/People
+Kiowa
+Artist/Maker
+Teri Greeves, Kiowa, b. 1970
+Seller
+Thirteen Moons Gallery
+Collection History
+NMAI purchase from Thirteen Moons Gallery (Santa Fe, New Mexico), 2004.
+Contact Us
+Have a concern, a correction, or something to add? Contact us: https://nmai.si.edu/collections-statement
+Date created
+2004
+Catalog Number
+26/3325
+Barcode
+263325.000
+Object Type
+Works of Art (Other)
+Title
+Kiowa Ah-Day
+Object Name
+Sneakers
+Media/Materials
+Cotton canvas, glass bead/beads, commercial rubber
+Techniques
+Commercially produced/manufactured, overlay beadwork
+Dimensions
+33 x 11 x 15 cm
+Place
+Santa Fe; Santa Fe County; New Mexico; USA
+See related items
+Kiowa
+Works of Art (Other)
+National Museum of the American Indian
+Record ID
+NMAI_279476
+Metadata Usage (text)
+CC0
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/ws6c79d3376-888d-443e-8da6-38b1ed72481a"
+35,leah-chase-queen-creole-cuisine,https://www.si.edu/newsdesk/snapshot/leah-chase-queen-creole-cuisine,"leah-chase-queen-creole-cuisine-1-aug0.jpg
+leah-chase-queen-creole-cuisine-1-aug1.jpg
+leah-chase-queen-creole-cuisine-1-aug12.jpg
+leah-chase-queen-creole-cuisine-1-aug13.jpg
+leah-chase-queen-creole-cuisine-1-aug15.jpg
+leah-chase-queen-creole-cuisine-1-aug16.jpg
+leah-chase-queen-creole-cuisine-1-aug18.jpg
+leah-chase-queen-creole-cuisine-1-aug19.jpg
+leah-chase-queen-creole-cuisine-1-aug2.jpg
+leah-chase-queen-creole-cuisine-1-aug3.jpg
+leah-chase-queen-creole-cuisine-1-aug4.jpg
+leah-chase-queen-creole-cuisine-1-aug5.jpg
+leah-chase-queen-creole-cuisine-1-aug8.jpg",leah-chase-queen-creole-cuisine-1-aug17.jpg,leah-chase-queen-creole-cuisine-1.jpg,"Collection of the Smithsonian's National Museum of African American History and Culture. Gift of Dooky Chase's Restaurant and Chef Leah Chase.
+
+“We changed the world over a bowl of gumbo” is how chef Leah Chase (1923–2019) recalled the strategy sessions led by civil rights leaders at Dooky Chase's restaurant.
+
+Known as “The Queen of Creole Cuisine,” Chase brought New Orleans Creole cooking to international attention. She and her husband, jazz musician Edgar “Dooky” Chase II, converted a New Orleans sandwich shop, opened by her plucky mother-in-law in the early 1940s, into a fine-dining establishment with crisp, white tablecloths and signature works by African American artists.
+
+Pictured above is Chase's red chef's jacket, which is in the collection of the Smithsonian's National Museum of African American History and Culture.
+
+Learn more about Chase and view her portrait on the Smithsonian's National Portrait Gallery website."
+36,lewis-and-clark-expedition-pocket-compass,https://www.si.edu/object/lewis-and-clark-expedition-pocket-compass:nmah_500256,"lewis-and-clark-expedition-pocket-compass-1-aug11.jpg
+lewis-and-clark-expedition-pocket-compass-1-aug13.jpg
+lewis-and-clark-expedition-pocket-compass-1-aug18.jpg
+lewis-and-clark-expedition-pocket-compass-1.jpg
+lewis-and-clark-expedition-pocket-compass-4-aug0.jpg
+lewis-and-clark-expedition-pocket-compass-4-aug15.jpg
+lewis-and-clark-expedition-pocket-compass-4-aug3.jpg
+lewis-and-clark-expedition-pocket-compass-4-aug8.jpg
+lewis-and-clark-expedition-pocket-compass-4.jpg
+lewis-and-clark-expedition-pocket-compass-7-aug11.jpg
+lewis-and-clark-expedition-pocket-compass-7-aug16.jpg
+lewis-and-clark-expedition-pocket-compass-7-aug8.jpg
+lewis-and-clark-expedition-pocket-compass-7.jpg",lewis-and-clark-expedition-pocket-compass-2.jpg,lewis-and-clark-expedition-pocket-compass-5.jpg,"Object Details
+Clark, William
+Whitney, Thomas
+Description
+In the spring of 1803, Meriwether Lewis began to purchase scientific and mathematical instruments for a pending expedition into the northwestern region of North America. Among the items he purchased from Philadelphia instrument maker Thomas Whitney were three pocket compasses for $2.50 each, and this silver-plated pocket compass for $5. It has a mahogany box, a silver-plated brass rim that is graduated to degrees and numbered in quadrants from north and south, a paper dial, two small brass sight vanes, and a leather carrying case. Whether Lewis purchased the silver compass for himself or intended it as a special gesture for William Clark is not known.
+Following the instructions of President Thomas Jefferson, the Corps of Discovery, under the leadership of Lewis and Clark, ascended the Missouri River in May 1804 to obtain detailed information on the natural resources of the region, to search for a northwest passage, and to make official diplomatic contact with Indian leaders.
+By the time they returned to St. Louis in September 1806, few of the instruments that were purchased for the trip had survived the journey. The pocket compass, however, was kept by Clark as a memento. He later gave the compass to his friend, Capt. Robert A. McCabe, whose heirs donated it in 1933 to the Smithsonian Institution.
+Credit Line
+Mary McCabe
+ca 1804
+ID Number
+PL.038366
+catalog number
+38366
+accession number
+122864
+Object Name
+compass, pocket
+Physical Description
+wood, mahogany (overall material)
+brass (overall material)
+silver plate (overall material)
+Measurements
+closed: 3 1/2 in x 3 1/2 in x 1 1/2 in; 8.89 cm x 8.89 cm x 3.81 cm
+Place Made
+United States: Pennsylvania, Philadelphia
+Related Publication
+Kendrick, Kathleen M. and Peter C. Liebhold. Smithsonian Treasures of American History
+See more items in
+Political History: Political History, General History Collection
+Government, Politics, and Reform
+Military
+Science & Mathematics
+Transportation
+Measuring & Mapping
+Exhibition
+American Presidency
+Exhibition Location
+National Museum of American History
+National Museum of American History
+related event
+Lewis and Clark Expedition
+Record ID
+nmah_500256
+Metadata Usage (text)
+CC0
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/ng49ca746a3-020f-704b-e053-15f76fa0b4fa"
+37,life-well-laughed,https://www.si.edu/newsdesk/snapshot/life-well-laughed,"life-well-laughed-1-aug0.jpg
+life-well-laughed-1-aug1.jpg
+life-well-laughed-1-aug10.jpg
+life-well-laughed-1-aug11.jpg
+life-well-laughed-1-aug12.jpg
+life-well-laughed-1-aug14.jpg
+life-well-laughed-1-aug15.jpg
+life-well-laughed-1-aug16.jpg
+life-well-laughed-1-aug17.jpg
+life-well-laughed-1-aug3.jpg
+life-well-laughed-1-aug4.jpg
+life-well-laughed-1-aug8.jpg
+life-well-laughed-1-aug9.jpg",life-well-laughed-1-aug2.jpg,life-well-laughed-1.jpg,"Bob Newhart's 1960 Grammy Award
+
+Bob Newhart (born George Robert Newhart in Oak Park, Illinois, Sept. 5, 1929) has had an award-winning, six decade-long career as a stand-up comedian and film and television actor. With his deadpan, straight-man persona, he has subtly put his uniquely skeptical microscope on social mores, crassness and greed, hypocrisy, and the overall absurdities of modern American life.
+
+Newhart's debut comedy album The Button-Down Mind of Bob Newhart was the first comedy LP to hit No. 1 on the Billboard charts, the first of two comedy albums to win a Grammy for Album of the Year, and he became the only comedian to win a Grammy as Best New Artist. In the early 1960s, he began acting in film and television, including co-star roles in over a dozen Hollywood films and two acclaimed and iconic sitcoms, The Bob Newhart Show (1972–1978) and Newhart (1982–1990). The series finale of Newhart is among the most written-about finales in TV series history.
+
+Newhart continued to make guest-star appearances into his early 90s, including a recurring guest role on The Big Bang Theory that won him his first career Emmy Award for Outstanding Guest Actor in a Comedy Series in 2013. Newhart won the Kennedy Center's 2002 Mark Twain Prize for American Humor, has been inducted into the Academy of Television Arts & Sciences Hall of Fame, and earned a 1962 Golden Globe award for Best TV Star as well as three Grammy Awards in 1961. A statue depicting Newhart as Dr. Bob Hartley from The Bob Newhart Show honors him at Chicago's Navy Pier.
+
+This first-time Grammy Award, pictured above, and original typescript of the Abe Lincoln monologue from Newhart's history-making comedy album, The Button-Down Mind of Bob Newhart, represent his game-changing work that helped change the landscape and style of modern comedy. They were recently added to the collection of the Smithsonian's National Museum of American History. They are not currently on display."
+38,lucky-strike,https://www.si.edu/newsdesk/snapshot/lucky-strike,"lucky-strike-1-aug0.jpg
+lucky-strike-1-aug11.jpg
+lucky-strike-1-aug12.jpg
+lucky-strike-1-aug15.jpg
+lucky-strike-1-aug16.jpg
+lucky-strike-1-aug17.jpg
+lucky-strike-1-aug18.jpg
+lucky-strike-1-aug19.jpg
+lucky-strike-1-aug2.jpg
+lucky-strike-1-aug3.jpg
+lucky-strike-1-aug4.jpg
+lucky-strike-1-aug6.jpg
+lucky-strike-1-aug7.jpg",lucky-strike-1-aug8.jpg,lucky-strike-1.jpg,"Gold nugget. 1848. Smithsonian's National Museum of American History.
+
+This small piece of yellow metal is believed to be the first piece of gold discovered in 1848 at Sutter's Mill in California, launching the gold rush.
+
+On the morning of Jan. 24, 1848, James Marshall was superintending the construction of a sawmill for Col. John Sutter on the South Fork of the American River at Coloma, California, when he saw something glittering in the water of the mill's tailrace. According to Sutter's diary, Marshall stooped down to pick it up and “found that it was a thin scale of what appeared to be pure gold.” Marshall bit the metal as a test for gold.
+
+In June 1848, Sutter presented Marshall's first-find scale of gold to Capt. Joseph L. Folsom, U.S. Army Assistant Quartermaster at Monterey. Folsom had journeyed to Northern California to verify the gold claim for the U.S. government.
+
+A letter of transmittal from Folsom that accompanied the packet lists Specimen No. 1 as “the first piece of gold ever discovered in this Northern part of Upper California found by J.W. Marshall at the Saw Mill of John A. Sutter.”
+
+By August 1848, as evidence of the find, this piece and other samples of California gold had arrived in Washington, D.C., for delivery to President James K. Polk and for preservation at the National Institute. Within weeks, Polk formally declared to Congress that gold had been discovered in California.
+
+In 1861, the National Institute and its geological specimens, including this gold and the letter, entered the collections of the Smithsonian's National Museum of American History.
+
+Read more about the gold rush, see other related objects in the museum's collections, visit the “On the Water” exhibition online, which describes the fastest way for Americans to reach California, and follow along the gold-rush journey of Alexander Van Halen of New York, who set sail in January 1849 for California."
+39,mary-vaux-walcott-natural-artist,https://www.si.edu/newsdesk/snapshot/mary-vaux-walcott-natural-artist,"mary-vaux-walcott-natural-artist-1-aug0.jpg
+mary-vaux-walcott-natural-artist-1-aug1.jpg
+mary-vaux-walcott-natural-artist-1-aug12.jpg
+mary-vaux-walcott-natural-artist-1-aug13.jpg
+mary-vaux-walcott-natural-artist-1-aug15.jpg
+mary-vaux-walcott-natural-artist-1-aug16.jpg
+mary-vaux-walcott-natural-artist-1-aug18.jpg
+mary-vaux-walcott-natural-artist-1-aug19.jpg
+mary-vaux-walcott-natural-artist-1-aug2.jpg
+mary-vaux-walcott-natural-artist-1-aug3.jpg
+mary-vaux-walcott-natural-artist-1-aug5.jpg
+mary-vaux-walcott-natural-artist-1-aug6.jpg
+mary-vaux-walcott-natural-artist-1-aug9.jpg",mary-vaux-walcott-natural-artist-1-aug4.jpg,mary-vaux-walcott-natural-artist-1.jpg,"Mary Vaux Walcott, Lodgepole Pine (Pinus Contorta murrayana), 1921, watercolor on paper, sheet: 10 x 7 in. (25.5 x 17.9 cm), Smithsonian American Art Museum, gift of the artist, 1970.355.439
+
+One summer a botanist asked her to paint a rare blooming arnica, and this encouraged her to concentrate on botanical illustration.
+
+In 1913, she met Charles Doolittle Walcott, then Secretary of the Smithsonian, when he was conducting geological research. They were married a year later. The couple spent from three to four months each season in the Canadian Rockies. During these summers, Mary Vaux Walcott painted hundreds of watercolor studies of native flowers.
+
+At the urging of botanists and wildflower enthusiasts, a selection of 400 of her illustrations was published between 1925 and 1929 by the Smithsonian in a five-volume edition titled North American Wild Flowers. In 1935, she contributed the illustrations to the volume North American Pitcher Plants, also published by the Smithsonian. Her work was instrumental in the development of a new technique for printing that came to be known as the Smithsonian Process.
+
+View more of Walcott's art on the Smithsonian American Art Museum's website and learn more about her and the Smithsonian Process in the Smithsonian Libraries and Archives' blog “Unbound.”  
+
+A reprint of North American Wild Flowers, a collaboration between the Smithsonian and Prestel Publishing, was published in 2022 and edited by Pamela Henson, the historian for the history of the Smithsonian. Read an interview with Henson in “Unbound.”"
+40,medal-purple-heart,https://www.si.edu/object/medal-purple-heart:nasm_A19710119000,"medal-purple-heart-1-aug0.jpg
+medal-purple-heart-1-aug16.jpg
+medal-purple-heart-1-aug17.jpg
+medal-purple-heart-1-aug18.jpg
+medal-purple-heart-1-aug3.jpg
+medal-purple-heart-1-aug9.jpg
+medal-purple-heart-3-aug0.jpg
+medal-purple-heart-3-aug1.jpg
+medal-purple-heart-3-aug19.jpg
+medal-purple-heart-3-aug3.jpg
+medal-purple-heart-3-aug4.jpg
+medal-purple-heart-3-aug5.jpg","medal-purple-heart-1.jpg
+medal-purple-heart-3.jpg",medal-purple-heart-2.jpg,"Object Details
+Physical Description
+United States Purple Heart; gold heart shaped medal with profile relief bust of George Washington in center of medal with purple enamel background; shield with Washington's family coat of arms surmounts bust; Reverse: embossed text ""FOR MILITARY MERIT""; silk purple ribbon with white edge stripe.
+Credit Line
+Transferred from the United States Army, Office of the Adjutant General
+Inventory Number
+A19710119000
+Restrictions & Rights
+Usage conditions apply
+Type
+AWARDS-Medals & Ribbons
+Materials
+Copper Alloy
+Silk
+Gold Plating
+Enamel
+Non-Magnetic White Metal Alloy
+Solder
+Possible Adhesive
+Dimensions
+3-D: 3.7 × 1.1 × 8.1cm (1 7/16 × 7/16 × 3 3/16 in.)
+Country of Origin
+United States of America
+See more items in
+National Air and Space Museum Collection
+National Air and Space Museum
+Record ID
+nasm_A19710119000
+Metadata Usage (text)
+Not determined
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/nv95e5a2e03-0ae5-4ebd-85c8-6dc6decd3916"
+41,mid-century-spin-weaving,https://www.si.edu/newsdesk/snapshot/mid-century-spin-weaving,"mid-century-spin-weaving-1-aug0.jpg
+mid-century-spin-weaving-1-aug1.jpg
+mid-century-spin-weaving-1-aug10.jpg
+mid-century-spin-weaving-1-aug13.jpg
+mid-century-spin-weaving-1-aug16.jpg
+mid-century-spin-weaving-1-aug17.jpg
+mid-century-spin-weaving-1-aug18.jpg
+mid-century-spin-weaving-1-aug19.jpg
+mid-century-spin-weaving-1-aug3.jpg
+mid-century-spin-weaving-1-aug4.jpg
+mid-century-spin-weaving-1-aug5.jpg
+mid-century-spin-weaving-1-aug6.jpg
+mid-century-spin-weaving-1-aug7.jpg",mid-century-spin-weaving-1-aug2.jpg,mid-century-spin-weaving-1.jpg,"Advertisement, ""The Thread of the Story Is Lurex: The Look of Porcelain"" ca. 1953. Dorothy Liebes Papers, Archives of American Art, Smithsonian Institution.
+
+American textile designer, weaver, and color authority Dorothy Liebes (1897–1972) had a profound influence across design fields, helping to shape American tastes in areas from interiors and transportation to industrial design, fashion, and film. The “Liebes Look”—which combined vivid color, lush texture, and often a metallic glint—became inextricably linked with the American modern aesthetic.
+
+From the 1930s through the 1960s, Liebes collaborated with some of the most prominent architects and designers of the time, including Frank Lloyd Wright, Henry Dreyfuss, Donald Deskey, Raymond Loewy, and Samuel Marx. Fashion designers, including Pauline Trigère, Adrian, and Bonnie Cashin, also used her fabrics, yielding some of the most distinctively American fashions of the mid-20th century.
+
+Despite widespread recognition during Liebes' lifetime, her powerful impact on 20th-century design remains largely unacknowledged.
+
+The advertisement pictured above is from the Smithsonian's Archives of American Art. The Cooper Hewitt, Smithsonian Design Museum features Liebes' work in its exhibition, “A Dark, A Light, A Bright: The Designs of Dorothy Liebes,” which is also online. View one of the videos about Liebes featured in the online exhibition.
+
+For a deeper dive, the Archives of American Art has a collection of Liebes' papers, which provide rich and extensive documentation of Liebes' career and personal life."
+42,nakhla-meteorite-fragment,https://www.si.edu/newsdesk/snapshot/nakhla-meteorite-fragment,"nakhla-meteorite-fragment-1-aug0.jpg
+nakhla-meteorite-fragment-1-aug1.jpg
+nakhla-meteorite-fragment-1-aug12.jpg
+nakhla-meteorite-fragment-1-aug13.jpg
+nakhla-meteorite-fragment-1-aug14.jpg
+nakhla-meteorite-fragment-1-aug15.jpg
+nakhla-meteorite-fragment-1-aug17.jpg
+nakhla-meteorite-fragment-1-aug19.jpg
+nakhla-meteorite-fragment-1-aug2.jpg
+nakhla-meteorite-fragment-1-aug3.jpg
+nakhla-meteorite-fragment-1-aug4.jpg
+nakhla-meteorite-fragment-1-aug6.jpg
+nakhla-meteorite-fragment-1-aug9.jpg",nakhla-meteorite-fragment-1-aug8.jpg,nakhla-meteorite-fragment-1.jpg,"Smithsonian's National Museum of Natural History
+
+Nakhla Meteorite Fragment, 1911
+
+Thirty-four meteorites thought to have originated from Mars have been cataloged from around the world, including the Nakhla meteorite.
+
+On June 28, 1911, the Nakhla meteorite fell to Earth at approximately 9 a.m. in the Nakhla region of Alexandria, Egypt. Many people witnessed its explosion in the upper atmosphere before the meteorite dropped in about 40 pieces totaling 22 pounds; the fragments were buried in the ground up to a meter deep.
+
+In August 1911, the Smithsonian received two samples of Nakhla; in 1962, it received the 480-gram piece of the meteorite shown in this photograph. By the 1970s, the Smithsonian had acquired a total of 650 grams of Nakhla's fragments.
+
+Nakhlites, Martian meteorites named for Nakhla, are igneous rocks that are rich in augite and were formed from basaltic magma about 1.3 billion years ago. Their crystallization ages, compared to a crater-count chronology of different regions on Mars, suggest the Nakhlites formed on the large volcanic regions of Tharsis, Elysium or Syrtis Major Planum.
+
+It has been shown that the Nakhlites were suffused with liquid water around 620 million years ago and that they were ejected from Mars around 10.75 million years ago by an asteroid impact. They fell to Earth within the past 10,000 years."
+43,nbc-fireside-chat-microphone,https://www.si.edu/object/nbc-fireside-chat-microphone:nmah_687509,"nbc-fireside-chat-microphone-1-aug0.jpg
+nbc-fireside-chat-microphone-1-aug10.jpg
+nbc-fireside-chat-microphone-1-aug11.jpg
+nbc-fireside-chat-microphone-1-aug12.jpg
+nbc-fireside-chat-microphone-1-aug13.jpg
+nbc-fireside-chat-microphone-1-aug15.jpg
+nbc-fireside-chat-microphone-1-aug17.jpg
+nbc-fireside-chat-microphone-1-aug18.jpg
+nbc-fireside-chat-microphone-1-aug19.jpg
+nbc-fireside-chat-microphone-1-aug3.jpg
+nbc-fireside-chat-microphone-1-aug7.jpg
+nbc-fireside-chat-microphone-1-aug9.jpg
+nbc-fireside-chat-microphone-1.jpg",nbc-fireside-chat-microphone-2.jpg,nbc-fireside-chat-microphone-3.jpg,"Object Details
+associated person
+Roosevelt, Franklin Delano
+depicted
+National Broadcasting Company, Inc.
+Smith, Sr., Carleton
+National Broadcasting Company, Inc.
+Description
+""I want to talk for a few minutes with the people of the United States about banking."" So began on March 12, 1933, the first of about thirty informal ""Fireside Chat"" addresses that President Franklin D. Roosevelt would deliver over the radio. His ability to communicate over this new medium directly and personally, addressing each listener as a respected friend, gave FDR a powerful tool to shape public opinion.
+On March 4, 1933 Roosevelt became the 32nd president of the United States. No chief executive, with the exception of Abraham Lincoln, entered the White House confronted by such deep and troubling crises. The nation was mired in its longest and worst economic depression. Approximately a quarter of the work force was unemployed, industrial production was down by a third, and the banking system was collapsing. Internationally the economic crisis contributed to the rise of fascist governments in Europe and eventually World War II. A pragmatist and master politician, FDR boldly experimented with the power of the federal government to address the urgent problems facing the nation. Above all else, Roosevelt's greatest accomplishment was his ability to lead, inspire and assure Americans through some of the darkest years in the nation's history.
+President Roosevelt was always rather amused that the name ""Fireside Chat"" was used to describe all the radio chats he would give during the course of his administration. He used to joke about the Washington weather, saying that it really wasn't proper for a fireside chat.
+On the night of the first ""Fireside Chat,"" the microphones were set up in the Lincoln Study. All subsequent chats were held in the Diplomatic Reception Room on the ground floor of the White House. This first night of the Fireside Chat launched a new era of the Presidency whereby the power of mass communications would be used to engage and reassure the American people.
+The museum acquired this RCA Type 50-A microphone with the National Broadcasting Company logos on the top and sides in 1996. For many years it had been saved by Carleton Smith, who both set up the microphone for NBC and introduced the radio broadcasts.
+Location
+Currently not on view
+date used
+1930s
+used date
+1930s
+ID Number
+1996.0168.01
+accession number
+1996.0168
+catalog number
+1996.0168.01
+Object Name
+microphone
+Physical Description
+copper (overall material)
+painted (logo production method/technique)
+Measurements
+overall: 10 1/4 in x 5 7/8 in; 26.035 cm x 14.9225 cm
+referenced
+United States: District of Columbia, Washington
+Related Publication
+Kendrick, Kathleen M. and Peter C. Liebhold. Smithsonian Treasures of American History
+National Museum of American History. Treasures of American History online exhibition
+Related Web Publication
+http://americanhistory.si.edu/treasures
+See more items in
+Political History: Political History, Presidential History Collection
+Government, Politics, and Reform
+National Treasures exhibit
+National Museum of American History
+general subject association
+Radio broadcasts
+related event
+Fireside Chats
+Record ID
+nmah_687509
+Metadata Usage (text)
+CC0
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/ng49ca746a5-0f43-704b-e053-15f76fa0b4fa"
+44,origin-species-charles-darwin,https://www.si.edu/newsdesk/snapshot/origin-species-charles-darwin,"origin-species-charles-darwin-1-aug0.jpg
+origin-species-charles-darwin-1-aug1.jpg
+origin-species-charles-darwin-1-aug10.jpg
+origin-species-charles-darwin-1-aug12.jpg
+origin-species-charles-darwin-1-aug13.jpg
+origin-species-charles-darwin-1-aug14.jpg
+origin-species-charles-darwin-1-aug16.jpg
+origin-species-charles-darwin-1-aug2.jpg
+origin-species-charles-darwin-1-aug3.jpg
+origin-species-charles-darwin-1-aug4.jpg
+origin-species-charles-darwin-1-aug7.jpg
+origin-species-charles-darwin-1-aug8.jpg
+origin-species-charles-darwin-1-aug9.jpg",origin-species-charles-darwin-1-aug19.jpg,origin-species-charles-darwin-1.jpg,"On the Origin of Species by Charles Darwin, 1859, Smithsonian Institution Libraries
+
+This Smithsonian Snapshot marks the May 11, 1820, anniversary of the launch of HMS Beagle, the ship that took Charles Darwin on his scientific voyage.
+
+In 1820, Beagle was launched from the Woolwich Dockyard on the River Thames in London. It was moored afloat for years until it was finally adapted as an exploration bark and took part in three expeditions.
+
+On Dec. 27, 1831, Beagle began its second survey voyage. Darwin, the young naturalist hired to provide advice on geology, was on board. His work would eventually make Beagle one of the most famous ships in history.
+
+During this five-year scientific voyage to South America and the Galápagos Islands, Darwin collected animal fossils, inspected plant specimens and studied the geology of islands and coral reefs. Darwin's theory of evolution by natural selection grew out of his work aboard the Beagle.
+
+In 1859, he published his theory in On the Origin of Species, a revolutionary book that changed the course of modern science. It soon found supporters at the Smithsonian. Joseph Henry, the first Secretary of the Smithsonian, held the book in high regard. Darwin's theory continues to guide research of experts at the Smithsonian's National Museum of Natural History to this day.
+
+This important first edition is registered with the Darwin Census, no. 10143, and was acquired by the Smithsonian Libraries in 1976.
+
+To learn more about the living species known to science, visit the Encyclopedia of Life's website.
+
+To learn more about this item, visit the Smithsonian Libraries website."
+45,philosophy-meets-motorcycle-maintenance-road-trip,https://www.si.edu/newsdesk/snapshot/philosophy-meets-motorcycle-maintenance-road-trip,"philosophy-meets-motorcycle-maintenance-road-trip-1-aug0.jpg
+philosophy-meets-motorcycle-maintenance-road-trip-1-aug1.jpg
+philosophy-meets-motorcycle-maintenance-road-trip-1-aug10.jpg
+philosophy-meets-motorcycle-maintenance-road-trip-1-aug11.jpg
+philosophy-meets-motorcycle-maintenance-road-trip-1-aug12.jpg
+philosophy-meets-motorcycle-maintenance-road-trip-1-aug15.jpg
+philosophy-meets-motorcycle-maintenance-road-trip-1-aug2.jpg
+philosophy-meets-motorcycle-maintenance-road-trip-1-aug3.jpg
+philosophy-meets-motorcycle-maintenance-road-trip-1-aug4.jpg
+philosophy-meets-motorcycle-maintenance-road-trip-1-aug5.jpg
+philosophy-meets-motorcycle-maintenance-road-trip-1-aug6.jpg
+philosophy-meets-motorcycle-maintenance-road-trip-1-aug8.jpg
+philosophy-meets-motorcycle-maintenance-road-trip-1-aug9.jpg",philosophy-meets-motorcycle-maintenance-road-trip-1-aug18.jpg,philosophy-meets-motorcycle-maintenance-road-trip-1.jpg,"Robert M. Pirsig's motorcycle. Smithsonian's National Museum of American History.
+
+Pictured is Robert M. Pirsig's 1966 Honda Super Hawk motorcycle featured in his book, Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values. Published in 1974, it sold 1 million copies in the first year and kick-started an international cultural movement to rethink how people interact with technology and find balance in life; it was a meditation on how to live life better.
+
+The inspiration for Zen stemmed from a monthlong road trip Pirsig (1928–2017) took with his 11-year-old son Chris in 1968. As they rode along the 5,700 miles from the Twin Cities of Minnesota to San Francisco and back, Pirsig became better acquainted with his son and himself. Zen also tells a story about the relationship between people and machines that made Pirsig a pioneer in the human–technology interface and do-it-yourself maintenance and repair.
+
+The book has sold more than 5 million copies, been translated into 27 languages and formed the core of college courses. Dedicated fans have retraced the novel's cross-country trip.
+
+The motorcycle is in the collection of the Smithsonian's National Museum of American History; in celebration of the book's 50th anniversary, the motorcycle will be showcased in the “Zen and the Open Road” display in the museum's “America on the Move” exhibition beginning April 15, 2024."
+46,plymouth-rock-piece,https://www.si.edu/newsdesk/snapshot/plymouth-rock-piece,"plymouth-rock-piece-1-aug0.jpg
+plymouth-rock-piece-1-aug1.jpg
+plymouth-rock-piece-1-aug11.jpg
+plymouth-rock-piece-1-aug12.jpg
+plymouth-rock-piece-1-aug13.jpg
+plymouth-rock-piece-1-aug16.jpg
+plymouth-rock-piece-1-aug17.jpg
+plymouth-rock-piece-1-aug18.jpg
+plymouth-rock-piece-1-aug19.jpg
+plymouth-rock-piece-1-aug2.jpg
+plymouth-rock-piece-1-aug4.jpg
+plymouth-rock-piece-1-aug8.jpg
+plymouth-rock-piece-1-aug9.jpg",plymouth-rock-piece-1-aug7.jpg,plymouth-rock-piece-1.jpg,"Harold Dorwin, National Museum of American History
+
+Plymouth Rock Piece, 1620
+
+According to popular tradition, Plymouth Rock is the landing site of William Bradford and the Mayflower Pilgrims who settled in Plymouth, Mass., in 1620. Bradford, an English leader of the settlers, also served as the governor of Plymouth Colony for 30 years and is recognized as the first authority to establish what popular American culture now views as Thanksgiving in the U.S.
+
+In 1774, the townspeople of Plymouth decided to transport the rock from the shore to the town's liberty pole in the town square. When the rock was moved, it split into two halves, and it was decided to leave the bottom portion at its location and move the top half to the town's meeting house. In 1880 the two pieces were reunited back on the shore and cemented together, but not before a number of pieces had been broken off for souvenirs or other purposes.
+
+In the 1920s, the Plymouth Antiquarian Society inherited a 400-pound piece of the “Mother Rock” when it purchased the Sandwich Street Harlow House and discovered the rock being used as a doorstep. The society broke the doorstep in three pieces and, in 1984, offered a piece to the Smithsonian. In 1985, museum officials traveled to Plymouth to accept the gift."
+47,pneumatic-mail-container,https://www.si.edu/newsdesk/snapshot/pneumatic-mail-container,"pneumatic-mail-container-1-aug0.jpg
+pneumatic-mail-container-1-aug1.jpg
+pneumatic-mail-container-1-aug11.jpg
+pneumatic-mail-container-1-aug12.jpg
+pneumatic-mail-container-1-aug13.jpg
+pneumatic-mail-container-1-aug15.jpg
+pneumatic-mail-container-1-aug16.jpg
+pneumatic-mail-container-1-aug17.jpg
+pneumatic-mail-container-1-aug3.jpg
+pneumatic-mail-container-1-aug5.jpg
+pneumatic-mail-container-1-aug6.jpg
+pneumatic-mail-container-1-aug7.jpg
+pneumatic-mail-container-1-aug8.jpg",pneumatic-mail-container-1-aug2.jpg,pneumatic-mail-container-1.jpg,"Smithsonian's National Postal Museum
+
+Pneumatic Mail Container, 1953
+
+In the late 1890s, networks of pneumatic tube systems were installed under city streets to move the mail. Each pneumatic tube canister could hold up to 500 letters. The canisters, also known as carriers, were air compressed through the system, traveling in a spinning motion at an average of 35 miles per hour. At its peak productivity, 6 million pieces of mail traveled through the system daily at a rate of five carriers per minute.
+
+In 1893, the first pneumatic tubes were introduced in Philadelphia; in 1897, the service in New York City began. Eventually, pneumatic tube service operated in Boston, Chicago and St. Louis. By 1915, more than 56 miles of pneumatic tubes were installed under the city streets."
+48,rock-n-roll-ride,https://www.si.edu/newsdesk/snapshot/rock-n-roll-ride,"rock-n-roll-ride-1-aug0.jpg
+rock-n-roll-ride-1-aug10.jpg
+rock-n-roll-ride-1-aug11.jpg
+rock-n-roll-ride-1-aug14.jpg
+rock-n-roll-ride-1-aug15.jpg
+rock-n-roll-ride-1-aug17.jpg
+rock-n-roll-ride-1-aug19.jpg
+rock-n-roll-ride-1-aug2.jpg
+rock-n-roll-ride-1-aug3.jpg
+rock-n-roll-ride-1-aug5.jpg
+rock-n-roll-ride-1-aug6.jpg
+rock-n-roll-ride-1-aug7.jpg
+rock-n-roll-ride-1-aug9.jpg",rock-n-roll-ride-1-aug4.jpg,rock-n-roll-ride-1.jpg,"National Museum of African American History and Culture
+
+Rock 'n' Roll Ride
+
+The Smithsonian's National Museum of African American History and Culture is newly opened and legendary rock 'n' roll musician Chuck Berry's 1973 red convertible Eldorado Cadillac is in its “Musical Crossroads” exhibition.
+
+The car was part of Berry's personal fleet of Cadillacs and was driven during the filming of Hail! Hail! Rock 'n' Roll, a 1987 documentary directed by Taylor Hackford that chronicles two 1986 concerts celebrating Berry's 60th birthday. In the film, Berry drove this Cadillac onto the stage of the Fox Theater in St. Louis—the same theater that turned him away as a child because of his race. Berry, known for his song lyrics that reference the iconic vehicle, would drive himself to and from each performance in his own Cadillac."
+49,serving-holiday-classics,https://www.si.edu/newsdesk/snapshot/serving-holiday-classics,"serving-holiday-classics-1-aug1.jpg
+serving-holiday-classics-1-aug11.jpg
+serving-holiday-classics-1-aug12.jpg
+serving-holiday-classics-1-aug14.jpg
+serving-holiday-classics-1-aug16.jpg
+serving-holiday-classics-1-aug17.jpg
+serving-holiday-classics-1-aug18.jpg
+serving-holiday-classics-1-aug19.jpg
+serving-holiday-classics-1-aug2.jpg
+serving-holiday-classics-1-aug3.jpg
+serving-holiday-classics-1-aug5.jpg
+serving-holiday-classics-1-aug6.jpg
+serving-holiday-classics-1-aug9.jpg",serving-holiday-classics-1-aug0.jpg,serving-holiday-classics-1.jpg,"You might recognize this dish as a kitchen staple during the holiday season. This white casserole dish, manufactured by CorningWare in 1965, features the company's signature blue cornflower design.
+
+Originally developed for military applications in World War II, CorningWare's Pyroceram also proved effective for bakeware after the war. The glass-ceramic, non-porous material was capable of withstanding sudden temperature changes and was resistant to stains and odors. The same dish could be used for cooking, freezing and serving food, creating shortcuts in the kitchen. In the 1990s, the company transitioned to ceramic stoneware in response to a growing demand for a wider variety of colors and designs in kitchenware, but this original glass-ceramic cookware was reintroduced in 2009 by popular demand. Dishes with this classic design are still sold today.
+
+This casserole dish is in the collection of the National Museum of American History, and was donated to the museum by Mrs. Anne L. Bernat. It is on display in “Food: Transforming the American Table” at the museum.  "
+50,sonja-henies-autographed-ice-skates,https://www.si.edu/newsdesk/snapshot/sonja-henies-autographed-ice-skates,"sonja-henies-autographed-ice-skates-1-aug0.jpg
+sonja-henies-autographed-ice-skates-1-aug10.jpg
+sonja-henies-autographed-ice-skates-1-aug11.jpg
+sonja-henies-autographed-ice-skates-1-aug12.jpg
+sonja-henies-autographed-ice-skates-1-aug14.jpg
+sonja-henies-autographed-ice-skates-1-aug17.jpg
+sonja-henies-autographed-ice-skates-1-aug18.jpg
+sonja-henies-autographed-ice-skates-1-aug3.jpg
+sonja-henies-autographed-ice-skates-1-aug4.jpg
+sonja-henies-autographed-ice-skates-1-aug6.jpg
+sonja-henies-autographed-ice-skates-1-aug7.jpg
+sonja-henies-autographed-ice-skates-1-aug8.jpg
+sonja-henies-autographed-ice-skates-1-aug9.jpg",sonja-henies-autographed-ice-skates-1-aug1.jpg,sonja-henies-autographed-ice-skates-1.jpg,"Smithsonian's National Museum of American History
+
+Sonja Henie's Autographed Ice Skates, c. 1945
+
+During the late 1920s and 1930s, Norwegian figure skater Sonja Henie introduced the trend of white leather ice skates to the world of women's figure skating—a major change from the black ice skates typically worn by women. She transformed her skill and glamour into a career as one of the world's most famous figure skaters in the rink and on the screen.
+
+In 1927, Henie won the first of 10 consecutive world skating titles at Oslo, captivating the crowd with her dance style of figure skating. She was the first to combine choreography with figure skating, and the first to introduce the short skirt and white skates look that is very popular today.
+
+Over the next decade Henie won Olympic titles in ladies singles at the 1928, 1932 and 1936 Winter Olympic Games.
+
+In 1936, 20th Century Fox signed her to star in “One in a Million,” and she soon became one of Hollywood's leading actresses.
+
+In 1976, she was among the first 20 athletes to be initiated into the World Figure Skating Hall of Fame.
+
+This item is one of 137 million artifacts, works of art and specimens in the Smithsonian's collection. It is not on display.
+
+For more info, visit http://americanhistory.si.edu/sports/exhibit/superstars/henie"
+51,statue-liberty-souvenir-new-york-new-york-1885,https://www.si.edu/object/statue-liberty-souvenir-new-york-new-york-1885:nmah_492499,"statue-liberty-souvenir-new-york-new-york-1885-3-aug15.jpg
+statue-liberty-souvenir-new-york-new-york-1885-3-aug18.jpg
+statue-liberty-souvenir-new-york-new-york-1885-3-aug5.jpg
+statue-liberty-souvenir-new-york-new-york-1885-3-aug8.jpg
+statue-liberty-souvenir-new-york-new-york-1885-3.jpg
+statue-liberty-souvenir-new-york-new-york-1885-4-aug2.jpg
+statue-liberty-souvenir-new-york-new-york-1885-4-aug7.jpg
+statue-liberty-souvenir-new-york-new-york-1885-4.jpg
+statue-liberty-souvenir-new-york-new-york-1885-6-aug0.jpg
+statue-liberty-souvenir-new-york-new-york-1885-6-aug18.jpg
+statue-liberty-souvenir-new-york-new-york-1885-6-aug2.jpg
+statue-liberty-souvenir-new-york-new-york-1885-6-aug7.jpg
+statue-liberty-souvenir-new-york-new-york-1885-6.jpg",statue-liberty-souvenir-new-york-new-york-1885-5.jpg,statue-liberty-souvenir-new-york-new-york-1885-1.jpg,"Object Details
+associated institution
+Statue of Liberty
+Description
+This is one of the first models of Liberty cast in the United States. Often described as the American Committee Model, this statuette was produced in the tens of thousands. It was sold to subscribers to finance the construction of a pedestal for the full-size statue in New York Harbor.
+Based upon the design of the French sculptor Frédéric-Auguste Bartholdi, with Bartholdi's full cooperation, the miniature statues were produced in six- and twelve-inch sizes. A national newspaper campaign advertised statuettes at one dollar for the six-inch model seen here or five dollars for a twelve-inch version. Richard Butler, a New York–based rubber manufacturer, chaired the American Committee of the Statue of Liberty and oversaw the models' production.
+The campaign disseminated likenesses of Liberty throughout the United States and the world, turning the figure into a household souvenir while raising more than enough money for the construction of the monumental stone pedestal. The finished monument, Liberty Enlightening the World, was dedicated October 28, 1886.
+Gift of Richard Butler, Secretary of the American Committee on the Statue of Liberty, 1885
+Credit Line
+Richard Butler
+ca 1885
+associated date
+1879-02-18
+ID Number
+PL.001650
+catalog number
+1650
+accession number
+16237
+Object Name
+statue
+Physical Description
+metal (overall material)
+Measurements
+overall: 6 in; 15.24 cm
+See more items in
+Political History: Political History, General History Collection
+Government, Politics, and Reform
+Souvenir Nation
+Many Voices, One Nation
+National Museum of American History
+Record ID
+nmah_492499
+Metadata Usage (text)
+CC0
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/ng49ca746a2-e56f-704b-e053-15f76fa0b4fa"
+52,stay-sharp-school-year,https://www.si.edu/newsdesk/snapshot/stay-sharp-school-year,"stay-sharp-school-year-1-aug1.jpg
+stay-sharp-school-year-1-aug10.jpg
+stay-sharp-school-year-1-aug12.jpg
+stay-sharp-school-year-1-aug13.jpg
+stay-sharp-school-year-1-aug15.jpg
+stay-sharp-school-year-1-aug17.jpg
+stay-sharp-school-year-1-aug18.jpg
+stay-sharp-school-year-1-aug19.jpg
+stay-sharp-school-year-1-aug2.jpg
+stay-sharp-school-year-1-aug3.jpg
+stay-sharp-school-year-1-aug5.jpg
+stay-sharp-school-year-1-aug6.jpg
+stay-sharp-school-year-1-aug8.jpg",stay-sharp-school-year-1-aug9.jpg,stay-sharp-school-year-1.jpg,"Dexter Model 3 Pencil Sharpener, ca. 1920; Manufactured by Automatic Pencil Sharpener Company (Apsco) ; Rockford, Illinois, USA; metal, cellulose, painted wood; H x W x D: 10.8 x 12.7 x 7 cm (4 1/4 in. x 5 in. x 2 3/4 in.); Gift of Lucy Commoner; 2011-54-1. Cooper Hewitt, Smithsonian Design Museum
+
+As back-to-school season approaches, just the sight of this pencil sharpener may bring back memories of school days past. Generations after it was first introduced, this style of sharpener can still be found in schools today.
+
+This Dexter Model 3 Pencil Sharpener was manufactured by the Automatic Pencil Sharpener Company (APSCO) sometime around 1945, introducing improvements to earlier models. The original model of the Dexter sharpener was first introduced in 1914. That model only allowed for one size of pencil, and was improved and relaunched to include the rotating wheel with calibrated openings for various pencil sizes. By the 1920s APSCO was making a dozen similar pencil sharpeners, each with its own style and price.
+
+Although the simplicity of design, convenience and efficiency were all selling points, the overwhelming success of this product was likely a result of the price—$1. This straightforward design would influence most of the mechanical sharpeners made during the next half century. APSCO, a leader of the mechanical pencil industry, was never able to compete in the electric pencil sharpener market. The company that made the iconic sharpening tool had become obsolete by the 1970s and 1980s. Still, this vestige of simpler times and astute engineering remains in many classrooms today.
+
+This sharpener is in the collection of the Cooper Hewitt, Smithsonian Design Museum. It is not currently on display. 
+
+Excerpted from the Object of the Day Blog by Susan Teichman."
+53,still-rolling-around,https://www.si.edu/newsdesk/snapshot/still-rolling-around,"still-rolling-around-1-aug0.jpg
+still-rolling-around-1-aug1.jpg
+still-rolling-around-1-aug11.jpg
+still-rolling-around-1-aug12.jpg
+still-rolling-around-1-aug13.jpg
+still-rolling-around-1-aug14.jpg
+still-rolling-around-1-aug15.jpg
+still-rolling-around-1-aug16.jpg
+still-rolling-around-1-aug17.jpg
+still-rolling-around-1-aug18.jpg
+still-rolling-around-1-aug19.jpg
+still-rolling-around-1-aug3.jpg
+still-rolling-around-1-aug7.jpg",still-rolling-around-1-aug10.jpg,still-rolling-around-1.jpg,"Rolodex Open Rotary Card File; Manufactured by Rolodex Corporation (USA); bent tubular metal, molded plastic, rubber, paper; H x W x D: 18 x 18 x 16.5 cm (7 1/16 x 7 1/16 x 6 1/2 in.); Cooper Hewitt, Smithsonian Design Museum, Gift of Rolodex Corporation, 1996-14-2  
+
+There are few office-supply objects more iconic than the Rolodex (the name comes from a combination of the words rolling and index). Before the digital age of smartphones and computers, people used Rolodexes to maintain their business contacts.
+
+The Rolodex is a cylindrical rotating card file on a tubular metal frame that holds A-Z index cards to store business contacts. Even today, the Rolodex has endured. It is still available on the market and actively used in the 21st-century workplace, and it maintains a reputation as a “survivor” of technology. Even electronic versions of the information management system still evoke the familiar tactile qualities of the rotating wheel in their design.
+
+The Rolodex was first marketed by Arnold Neustadter (1910–1996), the founder of Zephyr American Corporation (later renamed Rolodex Inc.), an eccentric businessman, inventor and designer who marketed a wide range of “dexes”: the Autodex, the Swivodex and, of course, the Rolodex. Neustadter was a highly organized and efficient individual, often described as an “office worker type,” who invented and manufactured office products that were designed to make networking effortless by easy storage of contacts.
+
+This Rolodex is in the collection of Cooper Hewitt, Smithsonian Design Museum. View a video of some of the museum's various types of Rolodexes in action.
+
+Adapted from a post by Angela Hall."
+54,strong-and-lasting-bond,https://www.si.edu/newsdesk/snapshot/strong-and-lasting-bond,"strong-and-lasting-bond-1-aug1.jpg
+strong-and-lasting-bond-1-aug13.jpg
+strong-and-lasting-bond-1-aug15.jpg
+strong-and-lasting-bond-1-aug16.jpg
+strong-and-lasting-bond-1-aug18.jpg
+strong-and-lasting-bond-1-aug19.jpg
+strong-and-lasting-bond-1-aug2.jpg
+strong-and-lasting-bond-1-aug3.jpg
+strong-and-lasting-bond-1-aug4.jpg
+strong-and-lasting-bond-1-aug6.jpg
+strong-and-lasting-bond-1-aug7.jpg
+strong-and-lasting-bond-1-aug8.jpg
+strong-and-lasting-bond-1-aug9.jpg",strong-and-lasting-bond-1-aug14.jpg,strong-and-lasting-bond-1.jpg,"""Lakota Horse Mask,” 2008, by Jim Yellowhawk (Cheyenne River Lakota, b. 1958). South Dakota. Acrylic on paper, gold leaf. Photograph by Ernest Amoroso, NMAI. (26/7199)  
+
+When American Indians encountered horses—which some tribes call the Horse Nation—they found an ally, inspiring and useful in times of peace, and intrepid in times of war. Horses transformed Native life and became a central part of many tribal cultures.
+
+The horse originated in the Americas more than 40 million years ago. After spreading to Asia and Europe, it became extinct in its homeland. In 1493, the horse returned to the Western Hemisphere when Columbus brought a herd of 25 on his second voyage. Back in the Americas, its native environment, the horse flourished.
+
+This artwork is in the collection of the Smithsonian's National Museum of the American Indian. It can be viewed in the online exhibition “Horse Nation.” And watch a video about the value of horses in Native cultures; it is part of the museum's Native Knowledge 360º, which provides educators and students with new perspectives on Native American history and cultures. It offers educational materials, virtual student programs, and teacher training that incorporate Native narratives, more comprehensive histories, and accurate information to enlighten and inform teaching and learning about Native America.
+
+Collections
+Open Access
+Spotsylvania Oak Tree Severed by Bullets Civil War 1864
+Smithsonian Snapshot
+A Witness to War
+In a Civil War battle, bullets cut down an oak tree.
+More Smithsonian Snapshots »
+Footer logo"
+55,super-bowl-xiv-football,https://www.si.edu/newsdesk/snapshot/super-bowl-xiv-football,"super-bowl-xiv-football-1-aug1.jpg
+super-bowl-xiv-football-1-aug11.jpg
+super-bowl-xiv-football-1-aug12.jpg
+super-bowl-xiv-football-1-aug13.jpg
+super-bowl-xiv-football-1-aug15.jpg
+super-bowl-xiv-football-1-aug16.jpg
+super-bowl-xiv-football-1-aug17.jpg
+super-bowl-xiv-football-1-aug2.jpg
+super-bowl-xiv-football-1-aug3.jpg
+super-bowl-xiv-football-1-aug4.jpg
+super-bowl-xiv-football-1-aug7.jpg
+super-bowl-xiv-football-1-aug8.jpg
+super-bowl-xiv-football-1-aug9.jpg",super-bowl-xiv-football-1-aug0.jpg,super-bowl-xiv-football-1.jpg,"Smithsonian's National Museum of American History
+
+Super Bowl XIV Football, 1980
+
+In the early 1940s, the Wilson Sporting Goods Co. introduced the Wilson Duke football. It featured the best leather with “ends that were sewn, lock-stitch seams and triple lining.” It was adopted by the National Football League as its official ball.
+
+The Wilson football has been the official ball of the Super Bowl since Super Bowl II in 1968. The football in this photo was used in Super Bowl XIV at the Rose Bowl in Pasadena, Calif., Jan. 20, 1980, where the Pittsburgh Steelers defeated the Los Angeles Rams 31-19. It was the Steelers' fourth Super Bowl win and the second straight year Terry Bradshaw took home the Most Valuable Player trophy.
+
+This item is one of 137 million artifacts, works of art and specimens in the Smithsonian's collection. It is not on display.
+
+For more football-related items, visit https://www.si.edu/spotlight/football."
+56,teapot-made-peter-bentzon,https://www.si.edu/object/teapot-made-peter-bentzon:nmaahc_2010.14,"teapot-made-peter-bentzon-1-aug3.jpg
+teapot-made-peter-bentzon-1.jpg
+teapot-made-peter-bentzon-11.jpg
+teapot-made-peter-bentzon-2-aug11.jpg
+teapot-made-peter-bentzon-2.jpg
+teapot-made-peter-bentzon-5.jpg
+teapot-made-peter-bentzon-7-aug14.jpg
+teapot-made-peter-bentzon-7.jpg
+teapot-made-peter-bentzon-8-aug9.jpg
+teapot-made-peter-bentzon-8.jpg
+teapot-made-peter-bentzon-9.jpg","teapot-made-peter-bentzon-10.jpg
+teapot-made-peter-bentzon-12.jpg
+teapot-made-peter-bentzon-13.jpg",teapot-made-peter-bentzon-6.jpg,"Object Details
+Created by
+Peter Bentzon, American, ca. 1783 - after 1850
+Description
+The silver teapot has an oval vase-shape on a spreading pedestal foot, with curved spout capped by an incised patera and wooden leaf-capped scroll handle, and hinged domed cover with acorn finial. The scripted monogram ""MC"" has been engraved on the side and the name ""Rebecca Dawson"" has been engraved along the bottom rim.
+Credit Line
+Collection of the Smithsonian National Museum of African American History and Culture
+ca. 1817-1829
+Object number
+2010.14
+Restrictions & Rights
+No Known Copyright Restrictions
+Proper usage is the responsibility of the user.
+Type
+teapots
+Medium
+silver and wood
+Dimensions
+H x W: 7 x 12 x 5 in. (17.8 x 30.5 x 12.7 cm)
+Place made
+Philadelphia, Pennsylvania, United States, North and Central America
+Cultural Place
+Virgin Islands of the United States, United States, Caribbean, North and Central America
+See more items in
+National Museum of African American History and Culture Collection
+Classification
+Slavery and Freedom Objects
+Decorative Arts, Craft, and Design
+Exhibition
+Slavery and Freedom
+On View
+NMAAHC (1400 Constitution Ave NW), National Mall Location, Concourse 3, C3 053
+National Museum of African American History and Culture
+Topic
+African American
+African diaspora
+Craftsmanship
+Design
+Free communities of color
+Ornamentation
+U.S. History, 1815-1861
+Record ID
+nmaahc_2010.14
+Metadata Usage (text)
+CC0
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/fd51d2d0213-3bbe-4345-a274-ce64478aa500"
+57,telescoping-shopping-cart,https://www.si.edu/newsdesk/snapshot/telescoping-shopping-cart,"telescoping-shopping-cart-1-aug0.jpg
+telescoping-shopping-cart-1-aug1.jpg
+telescoping-shopping-cart-1-aug10.jpg
+telescoping-shopping-cart-1-aug12.jpg
+telescoping-shopping-cart-1-aug14.jpg
+telescoping-shopping-cart-1-aug15.jpg
+telescoping-shopping-cart-1-aug16.jpg
+telescoping-shopping-cart-1-aug17.jpg
+telescoping-shopping-cart-1-aug2.jpg
+telescoping-shopping-cart-1-aug3.jpg
+telescoping-shopping-cart-1-aug4.jpg
+telescoping-shopping-cart-1-aug5.jpg
+telescoping-shopping-cart-1-aug9.jpg",telescoping-shopping-cart-1-aug19.jpg,telescoping-shopping-cart-1.jpg,"National Museum of American History
+
+Telescoping Shopping Cart, c. 1949
+
+It is the busiest time of year for shopping. Here is a little food for thought while filling your carts this holiday season. In 1946, Orla E. Watson of Kansas City, Mo., developed the familiar telescoping shopping carts that nestle together for compact storage. Watson claimed that each additional parked cart required “only one-fifth as much space as an ordinary cart.”
+
+The first carts premiered in 1947 at Floyd's Super Market in Kansas City.
+
+The Smithsonian's first major exhibition on food history explores some of the major changes in food and eating in postwar America. To learn more about the revolution in food shopping and other food innovations, visit the National Museum of American History's “FOOD: Transforming the American Table” exhibition website."
+58,thomas-jeffersons-desk,https://www.si.edu/newsdesk/snapshot/thomas-jeffersons-desk,"thomas-jeffersons-desk-1-aug2.jpg
+thomas-jeffersons-desk-1.jpg
+thomas-jeffersons-desk-12-aug11.jpg
+thomas-jeffersons-desk-12.jpg
+thomas-jeffersons-desk-3.jpg
+thomas-jeffersons-desk-6-aug1.jpg
+thomas-jeffersons-desk-6.jpg
+thomas-jeffersons-desk-8-aug12.jpg
+thomas-jeffersons-desk-8.jpg
+thomas-jeffersons-desk-9.jpg","thomas-jeffersons-desk-13.jpg
+thomas-jeffersons-desk-16.jpg
+thomas-jeffersons-desk-2.jpg
+thomas-jeffersons-desk-5.jpg",thomas-jeffersons-desk-4.jpg,"Description:
+In 1776 Thomas Jefferson wrote the Declaration of Independence on this portable desk of his own design. It features a hinged writing board and a locking drawer for papers, pens, and inkwell.
+
+By the summer of 1776 members of the Second Continental Congress prepared to declare their independence from Great Britain. They assigned the task of drafting the declaration to Thomas Jefferson, a delegate from Virginia. Jefferson would later write that rather than aiming for originality, ""it was intended to be an expression of the American mind."" On July 4, 1776 the Continental Congress amended and adopted the declaration. Its words not only established the guiding principles for the new nation, it has served to inspire future generations in America and around the world.
+
+The desk continued to be Jefferson's companion throughout his life as a revolutionary patriot, American diplomat, and president of the United States. While the drafts of the Declaration of Independence were among the first documents Jefferson penned on this desk, the note he attached under the writing board in 1825 was among the last: ""Politics as well as Religion has its superstitions. These, gaining strength with time, may, one day, give imaginary value to this relic, for its great association with the birth of the Great Charter of our Independence.""
+
+On November 14, 1825, Thomas Jefferson wrote to his granddaughter Eleanora Randolph Coolidge to inform her that he was sending his ""writing box"" as a wedding present. Jefferson's original gift of an inlaid desk had been lost at sea and his portable writing desk was intended as a replacement. The desk remained in the Coolidge family until April 1880, when the family donated it to the U.S. government.
+
+In his letter, Jefferson wrote: ""Mr. Coolidge must do me the favor of accepting this [gift]. Its imaginary value will increase with years, and if he lives to my age, or another half-century, he may see it carried in the procession of our nation's birthday, as the relics of the Saints are in those of the Church.""
+
+Date Made:1775-1776
+
+Associated Person:Jefferson, ThomasMaker:Randolph, Benjamin
+
+Place Made:United States: Pennsylvania, PhiladelphiaUsed In:United States: Pennsylvania, Philadelphia, Independence Hall
+
+Used:Declaration of IndependenceGeneral Subject Association:National SymbolsRelated Event:Declaration of Independence, Signing of
+
+Subject:
+
+See more items in:Political History: Political History, General History Collection, Government, Politics, and Reform, National Treasures exhibit, American Democracy: A Great Leap of Faith
+
+Exhibition:American Democracy
+
+Exhibition Location:National Museum of American History
+
+Related Web Publication:http://americanhistory.si.edu/treasures
+
+Related Publication:Nation of Nations, A, Bedini, Silvio A.. Declaration of Independence Desk, National Museum of American History. Treasures of American History online exhibition
+
+Credit Line:Transfer Department of State
+
+Data Source:National Museum of American History
+
+Id Number:PL.031819Catalog Number:31819Accession Number:67435
+
+Object Name:writing boxObject Type:portable desks
+
+Physical Description:glass (inkwell material)wood, mahogany (overall material)fabric, baize (part material)Measurements:overall: 9 3/4 in x 14 3/4 in x 3 1/4 in; 24.765 cm x 37.465 cm x 8.255 cmunfolded: 19 3/4 in; x 50.165 cm
+
+Metadata Usage:CC0
+
+Guid:http://n2t.net/ark:/65665/ng49ca746a3-cf33-704b-e053-15f76fa0b4fa
+
+Record Id:nmah_513641"
+59,ulysses-s-grants-chair-appomattox,https://www.si.edu/object/ulysses-s-grants-chair-appomattox:nmah_515977,"ulysses-s-grants-chair-appomattox-2-aug0.jpg
+ulysses-s-grants-chair-appomattox-2-aug1.jpg
+ulysses-s-grants-chair-appomattox-2-aug10.jpg
+ulysses-s-grants-chair-appomattox-2-aug11.jpg
+ulysses-s-grants-chair-appomattox-2-aug12.jpg
+ulysses-s-grants-chair-appomattox-2-aug15.jpg
+ulysses-s-grants-chair-appomattox-2-aug16.jpg
+ulysses-s-grants-chair-appomattox-2-aug18.jpg
+ulysses-s-grants-chair-appomattox-2-aug3.jpg
+ulysses-s-grants-chair-appomattox-2-aug6.jpg
+ulysses-s-grants-chair-appomattox-2-aug7.jpg
+ulysses-s-grants-chair-appomattox-2-aug9.jpg
+ulysses-s-grants-chair-appomattox-2.jpg",ulysses-s-grants-chair-appomattox-1.jpg,ulysses-s-grants-chair-appomattox-3.jpg,"Object Details
+associated person
+Grant, Ulysses S. (Ulysses Simpson)
+Description
+On April 9, 1865, General Ulysses S. Grant and General Robert E. Lee met in the home of Wilmer McLean at Appomattox Court House, Virginia, to negotiate the surrender of the Confederate Army of Northern Virginia to the United States Army. Sitting in the chair on the right, Grant discussed the fate of Lee's troops. Then, leaning over the oval table, he drafted and signed the final terms of surrender. While there were still Confederate troops in the field under other commanders, Lee's surrender effectively marked the end of the Civil War.
+Union officers, recognizing the significance of the event, individually took pieces of furniture as souvenirs. General E. W. Whitaker grabbed Lee's chair, General Henry Capehart claimed Grant's chair, and General Philip Sheridan took the table and presented it to the wife of Major General George Amstrong Custer. In three separate donations, by 1915, these items were reunited at the Smithsonian Institution.
+Credit Line
+Estate of General Wilmon W. Blackmar
+before 1865
+associated date
+1865-04-09
+ID Number
+PL.010517
+catalog number
+010517
+accession number
+45493
+Object Name
+chair
+Physical Description
+wood (overall material)
+Measurements
+overall: 37 1/2 in x 21 3/4 in x 17 1/2 in; 95.25 cm x 55.245 cm x 44.45 cm
+used
+United States: Virginia, Appomattox Court House National Historical Park
+associated place
+United States: Virginia, Appomattox
+Related Publication
+Kendrick, Kathleen M. and Peter C. Liebhold. Smithsonian Treasures of American History
+National Museum of American History. Treasures of American History online exhibition
+Related Web Publication
+http://americanhistory.si.edu/treasures
+See more items in
+Political History: Political History, General History Collection
+Government, Politics, and Reform
+Military
+National Treasures exhibit
+Exhibition
+Price of Freedom
+Exhibition Location
+National Museum of American History
+National Museum of American History
+used
+Civil War
+related event
+Civil War
+Surrender by General Lee
+Record ID
+nmah_515977
+Metadata Usage (text)
+CC0
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/ng49ca746a3-ca4d-704b-e053-15f76fa0b4fa"
+60,universal-access-flag-lap-blanket,https://www.si.edu/object/universal-access-flag-lap-blanket:nmah_1027672,"universal-access-flag-lap-blanket-1-aug0.jpg
+universal-access-flag-lap-blanket-1-aug1.jpg
+universal-access-flag-lap-blanket-1-aug12.jpg
+universal-access-flag-lap-blanket-1-aug13.jpg
+universal-access-flag-lap-blanket-1-aug15.jpg
+universal-access-flag-lap-blanket-1-aug17.jpg
+universal-access-flag-lap-blanket-1-aug19.jpg
+universal-access-flag-lap-blanket-1-aug2.jpg
+universal-access-flag-lap-blanket-1-aug4.jpg
+universal-access-flag-lap-blanket-1-aug6.jpg
+universal-access-flag-lap-blanket-1-aug8.jpg
+universal-access-flag-lap-blanket-1-aug9.jpg
+universal-access-flag-lap-blanket-1.jpg",universal-access-flag-lap-blanket-3.jpg,universal-access-flag-lap-blanket-2.jpg,"Object Details
+Associated Name
+Jones, Carol
+American Disabled for Attendant Programs Today
+Description
+The American flag is a powerful symbol of freedom and independence for many activist groups who wish to claim full rights as citizens . This commercially marketed lap blanket was altered by hand to include the universal access symbol made up of stitched stars. It was sewn by disability-rights advocates affiliated with ADAPT, which stands for the American Disabled for Attendant Programs Today. ADAPT was founded in 1983 in Denver.
+The disability rights movement emerged after World War II as people with disabilities formed communities first through rehabilitation hospitals and special, segregated schools, then through independent living centers and later over the Internet. In comparing experiences of oppression and discrimination, people joined forces and became politically active. This lap blanket vividly conveys the message that civil rights belong to all.
+Location
+Currently not on view
+Credit Line
+Gift of Carol Jones
+ID Number
+2002.0317.01
+accession number
+2002.0317
+catalog number
+2002.0317.01
+Object Name
+lap blanket
+disability awareness
+Physical Description
+cotton (overall material)
+Measurements
+overall: 129 cm x 95 cm; x 50 13/16 in x 37 3/8 in
+overall: 3 in x 30 in x 28 1/2 in; 7.62 cm x 76.2 cm x 72.39 cm
+See more items in
+Medicine and Science: Medicine
+Government, Politics, and Reform
+Health & Medicine
+Disabilities
+National Museum of American History
+Subject
+Flags
+Disabilities
+Record ID
+nmah_1027672
+Metadata Usage (text)
+CC0
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/ng49ca746a8-e445-704b-e053-15f76fa0b4fa"
+61,vallenato-makes-history-smithsonian,https://www.si.edu/newsdesk/snapshot/vallenato-makes-history-smithsonian,"vallenato-makes-history-smithsonian-1-aug0.jpg
+vallenato-makes-history-smithsonian-1-aug10.jpg
+vallenato-makes-history-smithsonian-1-aug11.jpg
+vallenato-makes-history-smithsonian-1-aug13.jpg
+vallenato-makes-history-smithsonian-1-aug15.jpg
+vallenato-makes-history-smithsonian-1-aug16.jpg
+vallenato-makes-history-smithsonian-1-aug17.jpg
+vallenato-makes-history-smithsonian-1-aug18.jpg
+vallenato-makes-history-smithsonian-1-aug19.jpg
+vallenato-makes-history-smithsonian-1-aug4.jpg
+vallenato-makes-history-smithsonian-1-aug7.jpg
+vallenato-makes-history-smithsonian-1-aug8.jpg
+vallenato-makes-history-smithsonian-1-aug9.jpg",vallenato-makes-history-smithsonian-1-aug1.jpg,vallenato-makes-history-smithsonian-1.jpg,"Carlos Vives' guitar, which was recently donated to the Smithsonian's National Museum of American History
+
+Vallenato Makes History at the Smithsonian
+
+This guitar belonged to Colombian Grammy Award-winning singer and composer Carlos Vives, who is best known for his vallenato chart-topping hits. Vallenato is an upbeat music from the Atlantic coast of Colombia that fuses instruments of European origin (like the accordion) with poetic lyrics about everyday life and traditional dance rhythms of the Arhuaco, indigenous people from the Sierra Nevada mountains.
+
+Vallenato was traditionally played by farm workers and cowboys and rarely heard outside of rural towns. In the 1990s, Carlos Vives, among other musicians, fused vallenato with pop and rock music, giving the genre a broader appeal. It gained popularity not only within Colombia but across Latin America and Latino communities around the world, including in the United States. Vives last played this guitar in concert at the Hollywood Bowl in Los Angeles Sept. 7, 2016.  
+
+The guitar was recently acquired by the Smithsonian's National Museum of American History. It was handmade by a Colombian luthier and features an airbrushed portrait of an Arhuaco.
+
+Vallenato was inscribed on UNESCO's List of Intangible Cultural Heritage in Need of Urgent Safeguarding in December 2015.
+
+Learn more about vallenato in the Smithsonian Channel documentary “The Accordion Kings.”"
+62,valley-farms,https://www.si.edu/object/valley-farms:saam_1964.1.40,"valley-farms-1-aug1.jpg
+valley-farms-1-aug10.jpg
+valley-farms-1-aug11.jpg
+valley-farms-1-aug13.jpg
+valley-farms-1-aug14.jpg
+valley-farms-1-aug17.jpg
+valley-farms-1-aug18.jpg
+valley-farms-1-aug2.jpg
+valley-farms-1-aug3.jpg
+valley-farms-1-aug4.jpg
+valley-farms-1-aug7.jpg
+valley-farms-1-aug8.jpg
+valley-farms-1-aug9.jpg",valley-farms-1-aug19.jpg,valley-farms-1.jpg,"Object Details
+Artist
+Ross Dickinson, born Santa Ana, CA 1903-died La Jolla, CA 1978
+Gallery Label
+Dickinson was a young artist employed by the Public Works of Art Project when he created this magical image of California's farm country. Water, green grass and swelling earth conjure the promised land that John Steinbeck would describe in The Grapes of Wrath a few years later. But Dickinson introduced disquieting details, as if to suggest that danger exists even in paradise. The tiny fire in the field at lower right, probably set to burn dry brush, echoes a massive column of smoke across the hills in the distance. The hills themselves have the orange-red look of the rainless months, when California's mountains become tinderboxes, and fires can sweep down into the valleys. Dickinson's painting captures the fear underlying America's hopes for better days during the Depression.Exhibition Label, Smithsonian American Art Museum, 2006
+Ross Dickinson established himself as an artist and teacher in Santa Barbara, where he depicted the varying California landscape and people at work through numerous mural commissions. Dickinson created this image of California's fertile Central Valley for the Public Works of Art Project, a government pilot program that employed artists during the Great Depression. A small river flows alongside green fields at the base of arid hills. The scene conjures a promised land sought by families who fled to California to escape the Dust Bowl, an ecological and economic tragedy of extreme drought and severe dust storms that swept the Great Plains in the 1930s. The large plume of black smoke on the far side of the mountains (echoed in a small controlled fire at the lower right) is a cautionary warning. During rainless months, California's mountains could become tinderboxes as fires swept through the valleys, compromising visions of the state as a promised land.
+Exhibition Label
+Stark hills seem to threaten the lush farms at their feet in this vivid painting of a Southern California valley. Californian artist Ross Dickinson dramatized his home state's eternal confrontation of nature and man by exaggerating the steep slopes of the hills and the harsh contrast between the dry red wilderness and the green cultivated land. The artist stressed the centrality of water in California. A river, reflecting the pale sky, is a milky curve against the verdant valley. The irrigated farms are luxuriant, while the hills during the summer dry season are an arid brown. Dickinson reminded the viewer of the constant threat of fire by showing a farmer burning brush or trash in the foreground, with the red flame sending up a thin column of smoke. In the background, a larger plume of smoke suggests a chaparral fire going out of control, a potential threat to the little white houses in the valley. The danger parallels other stresses that faced the region during the Great Depression, as the homeless and hopeless from the drought-plagued Dust Bowl poured westward in search of agricultural work. The destitute hordes demanded far more jobs than California could offer.1934: A New Deal for Artists exhibition label
+Credit Line
+Smithsonian American Art Museum, Transfer from the U.S. Department of Labor
+1934
+Object number
+1964.1.40
+Restrictions & Rights
+Usage conditions apply
+Type
+Painting
+Medium
+oil on canvas
+Dimensions
+39 7/8 x 50 1/8 in. (101.4 x 127.3 cm.)
+See more items in
+Smithsonian American Art Museum Collection
+Department
+Painting and Sculpture
+On View
+Smithsonian American Art Museum, 1st Floor, South Wing
+Smithsonian American Art Museum
+Topic
+Landscape\mountain
+Landscape\farm
+Landscape\valley
+New Deal\Public Works of Art Project\California
+Architecture Exterior\domestic\farmhouse
+Record ID
+saam_1964.1.40
+Metadata Usage (text)
+Not determined
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/vk75bc18638-1cc7-4961-a2bf-866f990ba581"
+63,weathervane-teapot,https://www.si.edu/object/weathervane-teapot:saam_1997.109.24A-B,"weathervane-teapot-1-aug1.jpg
+weathervane-teapot-1-aug10.jpg
+weathervane-teapot-1-aug13.jpg
+weathervane-teapot-1-aug14.jpg
+weathervane-teapot-1-aug16.jpg
+weathervane-teapot-1-aug18.jpg
+weathervane-teapot-1-aug19.jpg
+weathervane-teapot-1-aug2.jpg
+weathervane-teapot-1-aug3.jpg
+weathervane-teapot-1-aug5.jpg
+weathervane-teapot-1-aug6.jpg
+weathervane-teapot-1-aug8.jpg
+weathervane-teapot-1-aug9.jpg",weathervane-teapot-1-aug0.jpg,weathervane-teapot-1.jpg,"Object Details
+Artist
+Peter Shire, born Los Angeles, CA 1947
+Luce Center Label
+Peter Shire's teapots are constructions of color and shapes built out of slabs of clay. Weathervane Teapot is a balancing act of three-dimensional squares and balls, with squiggly rods and hollow tubes. He hoped that his whimsical pots would break down traditional, class-conscious ideas about ""tea-time,"" making it a practice accessible to all. This teapot asks to be picked up, but leaves us wondering where we should hold it to pour the tea, or if it is capable of pouring at all. Shire stopped making clay teapots in 1985, devoting his time thereafter to building furniture.
+Luce Object Quote
+""However crazy and fanciful my work appears, I'm still held by function. The teapots I make are borderline, however. They're more involved with a group of shapes and a material."" Artist quoted in Artists Design Furniture, 1984
+Credit Line
+Smithsonian American Art Museum, Gift of Donna and John Donaldson in memory of Jean and John Michael on the occasion of the Fifteenth Anniversary of the James Renwick Alliance and the Twenty-fifth Anniversary of the Renwick Gallery
+1981
+Object number
+1997.109.24A-B
+Restrictions & Rights
+Usage conditions apply
+Type
+Decorative Arts-Ceramic
+Crafts
+Medium
+glazed ceramic and wood
+Dimensions
+overall: 12 1/2 x 15 3/4 x 5 1/2 in. (31.8 x 40.0 x 14.0 cm)
+See more items in
+Smithsonian American Art Museum Collection
+Department
+Renwick Gallery
+On View
+Smithsonian American Art Museum, Luce Foundation Center, 4th Floor, 53B
+Smithsonian American Art Museum, Luce Foundation Center
+Smithsonian American Art Museum, Luce Foundation Center, 4th Floor
+Smithsonian American Art Museum
+Topic
+Abstract
+Record ID
+saam_1997.109.24A-B
+Metadata Usage (text)
+Not determined
+GUID (Link to Original Record)
+http://n2t.net/ark:/65665/vk7e065d737-b5a1-4e2a-8d5a-45809fa25433"
+64,witness-war,https://www.si.edu/newsdesk/snapshot/witness-war,"witness-war-1-aug0.jpg
+witness-war-1-aug10.jpg
+witness-war-1-aug11.jpg
+witness-war-1-aug13.jpg
+witness-war-1-aug14.jpg
+witness-war-1-aug15.jpg
+witness-war-1-aug16.jpg
+witness-war-1-aug17.jpg
+witness-war-1-aug19.jpg
+witness-war-1-aug2.jpg
+witness-war-1-aug3.jpg
+witness-war-1-aug4.jpg
+witness-war-1-aug6.jpg",witness-war-1-aug7.jpg,witness-war-1.jpg,"Spotsylvania tree stump, 1864–65, Smithsonian's National Museum of American History.
+
+Until May 12, 1864, this shattered stump was a large oak tree in a rolling meadow just outside Spotsylvania Court House, Virginia. That morning, entrenched Confederates, the front line of Gen. Robert E. Lee's Army of Northern Virginia, awaited the assault of United States troops from the Second Corps of the Army of the Potomac. More than 20 hours later, the once-peaceful meadow had acquired a new name, the Bloody Angle.
+
+The fury of rifle bullets that cut down the combatants also tore through the oak tree. Several of the conical Minié balls (bullets) are still deeply embedded in the wood. Unusual objects of war, such as this tree stump, symbolize the violence, horror, and heroism of fierce battles.
+
+The fight at the Bloody Angle was one day in the Battle of Spotsylvania Court House May 8–21, which claimed an estimated 31,000 casualties (killed, wounded, missing, and captured) out of 152,000 forces engaged.
+
+Originally presented to the U.S. Army's Ordnance Museum by Brevet Maj. Gen. Nelson A. Miles, the stump was transferred to the Smithsonian in 1888. It is in the “Price of Freedom” exhibition at the Smithsonian's National Museum of American History."

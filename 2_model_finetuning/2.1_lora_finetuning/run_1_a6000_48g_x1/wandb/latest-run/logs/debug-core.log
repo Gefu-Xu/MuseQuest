@@ -1,0 +1,13 @@
+{"time":"2024-12-06T16:52:17.594480438Z","level":"INFO","msg":"started logging, with flags","port-filename":"/tmp/tmpebhyu86o/port-1031.txt","pid":1031,"debug":false,"disable-analytics":false}
+{"time":"2024-12-06T16:52:17.594505518Z","level":"INFO","msg":"FeatureState","shutdownOnParentExitEnabled":false}
+{"time":"2024-12-06T16:52:17.596288824Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":1031}
+{"time":"2024-12-06T16:52:17.596271544Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":45803,"Zone":""}}
+{"time":"2024-12-06T16:52:17.79192408Z","level":"INFO","msg":"created new connection","id":"127.0.0.1:56276"}
+{"time":"2024-12-06T17:09:27.446641787Z","level":"INFO","msg":"connection init received","streamId":"v6u5hs0z","id":"127.0.0.1:56276"}
+{"time":"2024-12-06T17:09:27.447228509Z","level":"ERROR","msg":"error creating symlink","error":"symlink /root/.cache/wandb/logs/core-debug-20241206_165217.log /workspace/wandb/run-20241206_170927-v6u5hs0z/logs/debug-core.log: file exists"}
+{"time":"2024-12-06T17:09:27.450855951Z","level":"INFO","msg":"connection init completed","streamId":"v6u5hs0z","id":"127.0.0.1:56276"}
+{"time":"2024-12-06T17:58:26.88882946Z","level":"INFO","msg":"connection: teardown","id":"127.0.0.1:56276"}
+{"time":"2024-12-06T17:58:26.889116881Z","level":"INFO","msg":"server is shutting down"}
+{"time":"2024-12-06T17:58:26.889214511Z","level":"INFO","msg":"closed connection","id":"127.0.0.1:56276"}
+{"time":"2024-12-06T17:58:27.244918806Z","level":"INFO","msg":"connection closed","id":"127.0.0.1:56276"}
+{"time":"2024-12-06T17:58:27.244976786Z","level":"INFO","msg":"server is closed"}
