@@ -31,7 +31,7 @@ The key difference in the LoRA fine-tuning with DDP notebook is that the `pre-tr
 `./my_utils_lora_finetuning_with_ddp.py`: Contains utility functions specific to LoRA fine-tuning with Distributed Data Parallel (DDP). For example, it includes a function to override the built-in print() function to prepend a prefix string to all printed messages, functions to create custom device maps, and a custom callback function to report VRAM usage, as well as print the mini-batch size and the first data in the mini-batch.  
 `./my_workflow_lora_finetuning_with_ddp.py`: Contains a workflow function that encapsulates the pre-training and training steps for LoRA fine-tuning, along with the modifications required for DDP.  
 
-The remaining files in the run folder are similar to those used in LoRA fine-tuning. For more details, refer to the 'File Structure' section in the [LoRA Fine-Tuning Readme](../2.1_lora_finetuning/lora_finetuning_readme.md#4-file-structure-in-run-folder).
+The remaining files in the run folder are similar to those used in LoRA fine-tuning. For more details, refer to the 'File Structure' section in the [LoRA Fine-Tuning Readme](../2.1_lora_finetuning/lora_finetuning_readme.md#4-file-structure-in-run-folder).  
 
 ## 5. Settings and Hyperparameters in LoRA Fine-Tuning with DDP
 
@@ -75,6 +75,6 @@ As shown below, the similarity scores for both `LoRA with DDP` and `standard LoR
 
 ## 7. References
 
-`[HF: Designing a device map]`: (https://huggingface.co/docs/accelerate/main/en/concept_guides/big_model_inference#designing-a-device-map) 
-`[HF: Distributed Data Parallel]`: (https://huggingface.co/docs/transformers/en/perf_train_gpu_many#dataparallel-vs-distributeddataparallel)
-`[HF: accelerate launch and notebook_launcher]`: https://huggingface.co/docs/transformers/en/accelerate
+`[HF: Designing a device map]`: (https://huggingface.co/docs/accelerate/main/en/concept_guides/big_model_inference#designing-a-device-map)  
+`[HF: Distributed Data Parallel]`: (https://huggingface.co/docs/transformers/en/perf_train_gpu_many#dataparallel-vs-distributeddataparallel)  
+`[HF: accelerate launch and notebook_launcher]`: https://huggingface.co/docs/transformers/en/accelerate  

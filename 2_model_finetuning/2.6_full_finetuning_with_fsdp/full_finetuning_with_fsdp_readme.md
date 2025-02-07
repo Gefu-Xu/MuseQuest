@@ -106,8 +106,8 @@ This adjustment ensures that the `checkpoint saving overhead per step` remains c
 
 ## 7. References
 
-`[HF: Fully Sharded Data Parallel]`: (https://huggingface.co/docs/transformers/en/fsdp)
-`[PyTorch: Fully Sharded Data Parallel]`: (https://pytorch.org/docs/stable/fsdp.html#torch.distributed.fsdp.FullyShardedDataParallel)
-`[HF: FSDP vs DeepSpeed]`: (https://huggingface.co/docs/accelerate/concept_guides/fsdp_and_deepspeed)
-`[HF: AcceleratorState]`: (https://huggingface.co/docs/accelerate/en/package_reference/state#accelerate.state.AcceleratorState)
-`[HF: accelerate launch and notebook_launcher]`: https://huggingface.co/docs/transformers/en/accelerate
+`[HF: Fully Sharded Data Parallel]`: (https://huggingface.co/docs/transformers/en/fsdp)  
+`[PyTorch: Fully Sharded Data Parallel]`: (https://pytorch.org/docs/stable/fsdp.html#torch.distributed.fsdp.FullyShardedDataParallel)  
+`[HF: FSDP vs DeepSpeed]`: (https://huggingface.co/docs/accelerate/concept_guides/fsdp_and_deepspeed)  
+`[HF: AcceleratorState]`: (https://huggingface.co/docs/accelerate/en/package_reference/state#accelerate.state.AcceleratorState)  
+`[HF: accelerate launch and notebook_launcher]`: https://huggingface.co/docs/transformers/en/accelerate  

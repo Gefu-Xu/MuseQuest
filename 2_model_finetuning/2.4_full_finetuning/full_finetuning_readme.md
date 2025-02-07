@@ -26,9 +26,9 @@ The key difference in the full fine-tuning notebook is that, before training, th
 
 `./full_finetuning.ipynb`: A notebook for full fine-tuning.  
 
-`./my_utils_full_finetuning.py`: Contains utility functions specific to full fine-tuning, including a function to set model parameters as trainable in selected layers of the base model for full fine-tuning.
+`./my_utils_full_finetuning.py`: Contains utility functions specific to full fine-tuning, including a function to set model parameters as trainable in selected layers of the base model for full fine-tuning.  
 
-The remaining files in the run folder are similar to those used in LoRA fine-tuning. For more details, refer to the 'File Structure' section in the [LoRA Fine-Tuning Readme](../2.1_lora_finetuning/lora_finetuning_readme.md#4-file-structure-in-run-folder).
+The remaining files in the run folder are similar to those used in LoRA fine-tuning. For more details, refer to the 'File Structure' section in the [LoRA Fine-Tuning Readme](../2.1_lora_finetuning/lora_finetuning_readme.md#4-file-structure-in-run-folder).  
 
 ## 5. Settings and Hyperparameters in Full Fine-Tuning
 

@@ -29,7 +29,7 @@ The key difference in the full fine-tuning with MP notebook is the creation of c
 
 `./my_utils_full_finetuning_with_mp.py`: Contains utility functions specific to full fine-tuning with MP. For example, it includes a function to set model parameters as trainable in selected layers of the base model for full fine-tuning, and functions to create custom device maps for 2-GPU and 4-GPU MP training.  
 
-The remaining files in the run folder are similar to those used in standard full fine-tuning. For more details, refer to the 'File Structure' section in the [Full Fine-Tuning Readme](../2.4_full_finetuning/full_finetuning_readme.md#4-file-structure-in-run-folder).
+The remaining files in the run folder are similar to those used in standard full fine-tuning. For more details, refer to the 'File Structure' section in the [Full Fine-Tuning Readme](../2.4_full_finetuning/full_finetuning_readme.md#4-file-structure-in-run-folder).  
 
 ## 5. Settings and Hyperparameters in Full Fine-Tuning with MP
 

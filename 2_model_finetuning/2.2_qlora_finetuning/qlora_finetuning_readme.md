@@ -23,9 +23,9 @@ In this project, the workflow for QLoRA fine-tuning follows the same steps as th
 
 `./qlora_finetuning.ipynb`: A notebook for QLoRA fine-tuning.  
 
-`./my_utils_qlora.py`: Contains utility functions specific to QLoRA fine-tuning, such as a function to create a quantization configuration for QLoRA fine-tuning.
+`./my_utils_qlora.py`: Contains utility functions specific to QLoRA fine-tuning, such as a function to create a quantization configuration for QLoRA fine-tuning.  
 
-The remaining files in the run folder are similar to those used in LoRA fine-tuning. For more details, refer to the 'File Structure' section in the [LoRA Fine-Tuning Readme](../2.1_lora_finetuning/lora_finetuning_readme.md#4-file-structure-in-run-folder).
+The remaining files in the run folder are similar to those used in LoRA fine-tuning. For more details, refer to the 'File Structure' section in the [LoRA Fine-Tuning Readme](../2.1_lora_finetuning/lora_finetuning_readme.md#4-file-structure-in-run-folder).  
 
 ## 5. Settings and Hyperparameters in QLoRA Fine-Tuning
 
@@ -56,4 +56,4 @@ As shown, the similarity scores for both QLoRA and LoRA are around 0.04, demonst
 [3]: QLoRA Fine-Tuning with 1 RTX A4000 (16G) GPU. The experiment results are from the [QLoRA Fine-Tuning Notebook (A4000)](./run_2_a4000_16g_x1/qlora_finetuning.ipynb).
 
 ## 7. References
-`[HF: quantization]`: https://huggingface.co/docs/peft/main/en/developer_guides/quantization
+`[HF: quantization]`: https://huggingface.co/docs/peft/main/en/developer_guides/quantization  
